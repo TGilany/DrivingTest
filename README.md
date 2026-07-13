@@ -22,4 +22,4 @@ DrivingTest is a browser-based practice app for a driving refresher exam. It pre
 
 ## Deployment
 
-This repository is prepared for GitHub Pages deployment. The build output is published from `dist/` using the workflow defined in `.github/workflows/gh-pages.yml`.
+This repository is prepared for GitHub Pages deployment using the `docs/` folder on the `main` branch. The workflow defined in `.github/workflows/gh-pages.yml` builds the site into `docs/` and commits the generated files back to `main`.
