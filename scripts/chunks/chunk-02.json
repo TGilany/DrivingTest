@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 201,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stand or park a vehicle on the sidewalk (pavement)?",
+  "answers": [
+   "No, except in a regulated place marked with a sign..",
+   "It is absolutely forbidden.",
+   "Yes, it is permitted on an interlocking-stone-surface sidewalk.",
+   "Yes, it is permitted on a sidewalk with a minimum width of 3 meters."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 202,
+  "category": "traffic-laws",
+  "question": "Is it permitted to park a vehicle within an intersection?",
+  "answers": [
+   "It is permitted to park two-wheelers only.",
+   "Yes, in an intersection of two lanes or more.",
+   "No, unless parking is permitted by a traffic sign.",
+   "It is permitted for no more than 5 minutes."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 203,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stand a vehicle less than twelve meters from a junction?",
+  "answers": [
+   "Yes, provided that the vehicle stands opposite to the direction of traffic.",
+   "Yes, in a two-lane road.",
+   "No, unless it is permitted by the Local Traffic Sign Authority, by means of an appropriate signpost or marking.",
+   "Yes, unless otherwise marked."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 204,
+  "category": "traffic-laws",
+  "question": "What is the minimum distance that it is permitted to park near a fire hydrant?",
+  "answers": [
+   "Two meters in any direction from the fire hydrant.",
+   "Six meters from either side of the fire hydrant.",
+   "Twelve meters from either side of the fire hydrant.",
+   "Twenty meters from either side of the fire hydrant."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 205,
+  "category": "traffic-laws",
+  "question": "At what distance from a pedestrian crossing is it prohibited to stand a vehicle?",
+  "answers": [
+   "Within twelve meters before the pedestrian crossing and twelve meters after the pedestrian crossing.",
+   "Within twenty meters before and after the pedestrian crossing.",
+   "On the pedestrian crossing and within twelve meters after it.",
+   "On the pedestrian crossing and within twelve meters before it."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 206,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stop or park a vehicle after a pedestrian crossing?",
+  "answers": [
+   "It is only allowed at night.",
+   "No.",
+   "Yes.",
+   "It is forbidden within a distance of twelve meters after the pedestrian crossing."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 207,
+  "category": "traffic-laws",
+  "question": "In the following picture – where is it forbidden to stop or park a vehicle?",
+  "answers": [
+   "Within twelve meters before the stop line.",
+   "Within twenty meters before the stop line.",
+   "Within fifteen meters after the stop line.",
+   "Within twenty meters after the stop line."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 208,
+  "category": "traffic-laws",
+  "question": "Within which distance before and after a railway crossing is it allowed to stand or park a vehicle?",
+  "answers": [
+   "At least six meters from the crossing.",
+   "At least twenty meters from the crossing.",
+   "At least four meters from the crossing.",
+   "At least twelve meters from the crossing."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 209,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stop a vehicle in a one-lane two-way roadway that is divided by a continuous white line?",
+  "answers": [
+   "Yes, during “light time” only.",
+   "Yes, when the lane’s width exceeds 2.5 meters.",
+   "Yes, in an urban road only.",
+   "It is absolutely forbidden."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 210,
+  "category": "traffic-laws",
+  "question": "Is it permissible to stop a vehicle next to another vehicle that is parking at the side of the road?",
+  "answers": [
+   "Yes, in an urban road only.",
+   "It is absolutely forbidden.",
+   "Yes, during “light time” only.",
+   "Yes, when the lane’s width exceeds 2.5 meters."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 211,
+  "category": "traffic-laws",
+  "question": "When is it permitted to stop a vehicle on a bridge or inside a tunnel?",
+  "answers": [
+   "It is permitted when the roadway has two lanes or more.",
+   "It is permitted during “light time” only.",
+   "During day time only.",
+   "It is absolutely forbidden."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 212,
+  "category": "traffic-laws",
+  "question": "Within what distance of a bus stop is it forbidden to stop a vehicle?",
+  "answers": [
+   "Within a distance of twelve meters before the station’s signpost and twelve meters after the signpost, unless otherwise marked.",
+   "Within a distance of twenty meters after the bus station’s signpost only.",
+   "Within twenty meters before and twenty meters after the bus stop’s sign, unless otherwise marked.",
+   "Within a distance of twenty meters before the bus station’s signpost only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 213,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stop a vehicle opposite to a bus stop?",
+  "answers": [
+   "It is absolutely forbidden.",
+   "Yes, only during day light and for the purpose of loading passengers.",
+   "Yes, provided that the roadway’s width is at least twenty meters.",
+   "Yes, provided that the roadway’s width is at least twelve meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 214,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stop a vehicle alongside a pedestrian guardrail?",
+  "answers": [
+   "No, unless there is a signpost indicating otherwise.",
+   "It is permitted within the area of a high school only.",
+   "It is allowed in an urban road.",
+   "It is permitted within the area of an elementary school only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 215,
+  "category": "signs",
+  "question": "Is it permitted to stop any vehicle other than a taxi where the following signpost is placed?",
+  "answers": [
+   "It is absolutely forbidden.",
+   "No, except for stopping in order to unload passengers.",
+   "Yes, if there are no taxies parked there.",
+   "Yes, for the purpose of loading passengers only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 216,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stop any type of vehicle where the following signpost is placed?",
+  "answers": [
+   "Yes, during day time only.",
+   "Yes, when there are many available parking spaces.",
+   "It is forbidden, except for a vehicle with a tag, as stated on the sign.",
+   "Any vehicle having a regular handicapped pass is allowed to park there when the spot is available."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 217,
+  "category": "traffic-laws",
+  "question": "What should a driver do after parking his vehicle?",
+  "answers": [
+   "Turn on all the winkers.",
+   "Ensure that the vehicle remains immobile and cannot move",
+   "Place a warning triangle.",
+   "Place a “We’ll be back soon” sign."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 218,
+  "category": "traffic-laws",
+  "question": "What should a driver do after parking his vehicle?",
+  "answers": [
+   "Turn off the engine, place a warning triangle and lock the vehicle’s doors.",
+   "Engage the parking brake,Turn off the engine, and remove the key from the ignition switch. .",
+   "Remove the key from the ignition switch, place a warning triangle and pull the handbrake.",
+   "Place the parking tag on the left side of the windshield, in a place that is clearly visible to the municipal inspector."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 219,
+  "category": "traffic-laws",
+  "question": "How will you stand a vehicle on a downhill road?",
+  "answers": [
+   "Engage the parking brake, turn the front wheels towards the road’s edge and shift into reverse gear (manual car only).",
+   "Turn the front wheels towards the road’s edge and shift into forward gear (In an automatic car – P).",
+   "Engage the handbrake and turn the front wheels towards the center of the road.",
+   "Turn on the parking lights, turn the front wheels towards the road’s edge and shift into reverse gear."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 220,
+  "category": "traffic-laws",
+  "question": "According to the “point system”:",
+  "answers": [
+   "Only the traffic court is entitled to revoke a driver’s license.",
+   "Only a police officer is entitled to revoke a driver’s license and to require a driver to undergo examinations.",
+   "The Licensing Authority is not authorized to revoke a driver’s license.",
+   "The Licensing Authority is entitled to require a driver that incurred demerit points to undergo examinations, and it is also entitled to revoke his license."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 221,
+  "category": "traffic-laws",
+  "question": "What is the correct manner for leaving a vehicle standing in a roadway?",
+  "answers": [
+   "There is no restriction on how to leave a vehicle standing in a roadway.",
+   "Parallel to the road’s edge or according to the road’s marking.",
+   "Perpendicularly to the road’s edge.",
+   "In an angle of no more than thirty degrees from the kerb."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 222,
+  "category": "traffic-laws",
+  "question": "When is it allowed to leave a vehicle standing in a position that is not parallel to the sidewalk (angular parking)?",
+  "answers": [
+   "It is absolutely forbidden.",
+   "In an urban road only.",
+   "When there is an angular marking on the roadway, and according to the marking.",
+   "In an urban road, on weekends only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 223,
+  "category": "traffic-laws",
+  "question": "What is the maximum permitted distance for standing a vehicle parallel to the kerb?",
+  "answers": [
+   "seventy centimeters.",
+   "fifty centimeters.",
+   "forty centimeters.",
+   "sixty centimeters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 224,
+  "category": "traffic-laws",
+  "question": "Are we permitted to ride or drive a vehicle when part of our body is sticking out of the vehicle?",
+  "answers": [
+   "It is forbidden, except on a motorbike.",
+   "It is only permitted for adult passengers.",
+   "Yes, when driving on dirt roads.",
+   "Yes, in a collector’s vehicle only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 225,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a vehicle while one of the doors is open?",
+  "answers": [
+   "No, unless the air-conditioning is out of order.",
+   "Yes, when there are no passengers in the vehicle.",
+   "Yes, when carrying oversized cargo.",
+   "It is absolutely forbidden."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 226,
+  "category": "traffic-laws",
+  "question": "Is it permitted to open the vehicle’s doors while driving?",
+  "answers": [
+   "Yes, provided that you drive slowly.",
+   "It is absolutely forbidden.",
+   "Yes, when carrying a long cargo.",
+   "Yes, when there are no passengers in the vehicle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 227,
+  "category": "traffic-laws",
+  "question": "Are passengers permitted to get in or out of the off side of a vehicle?",
+  "answers": [
+   "Yes, if it doesn’t disturb the passengers.",
+   "It is absolutely forbidden.",
+   "No, except for the driver and except for the passenger sitting next to him when the vehicle is parked on the left of the road.",
+   "Yes, if it doesn’t put the passengers and the driver at risk."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 228,
+  "category": "traffic-laws",
+  "question": "Is it permitted to get on or off a moving vehicle?",
+  "answers": [
+   "It is absolutely forbidden.",
+   "No, except if it doesn’t cause any risk.",
+   "Yes, as part of a sports activity, and only for adults passengers.",
+   "Yes, with the approval of a police officer."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 229,
+  "category": "traffic-laws",
+  "question": "Is it permitted to seat more than one passenger alongside of the driver?",
+  "answers": [
+   "It is absolutely forbidden.",
+   "No, unless it is stated in the vehicle registration.",
+   "Yes, if two seatbelts are installed, in addition to the driver’s seatbelt.",
+   "Yes, if the front seat is an integrated seat."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 230,
+  "category": "traffic-laws",
+  "question": "The use of which safety restraints is obligatory when driving children less than eight years of age?",
+  "answers": [
+   "A three-point safety belt only.",
+   "A safety seat or a booster.",
+   "A safety belt only.",
+   "A waist belt only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 231,
+  "category": "traffic-laws",
+  "question": "How would you seat a child less than three years of age inside a vehicle?",
+  "answers": [
+   "Wearing a three-point safety belt.",
+   "In a safety seat that fits his height and weight.",
+   "Wearing any of the vehicle’s safety belts.",
+   "Wearing a waist belt."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 232,
+  "category": "traffic-laws",
+  "question": "How would you seat a child more than three years and less than eight years of age inside a vehicle?",
+  "answers": [
+   "In a safety seat or in a booster that fits his height and weight.",
+   "Wearing any of the vehicle’s safety belts.",
+   "Only in the vehicle’s back seat.",
+   "Wearing a three-point safety belt."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 233,
+  "category": "traffic-laws",
+  "question": "How should you drive a child less than one year of age inside a vehicle?",
+  "answers": [
+   "In the front seat only, accompanied by an adult passenger.",
+   "In a safety seat for babies, and in the back seat only..",
+   "In a safety seat, with the back of the seat facing the front of the car.",
+   "On the knees of a passenger over twenty one years of age."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 234,
+  "category": "traffic-laws",
+  "question": "According to the traffic sign that is placed at the bus station, parking at the bus station is permitted on Saturdays and holidays:",
+  "answers": [
+   "For private vehicles only.",
+   "For motorcycles only.",
+   "For slow vehicles only.",
+   "For commercial vehicles only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 235,
+  "category": "traffic-laws",
+  "question": "In which vehicles are the driver and passengers required to wear seat belts?",
+  "answers": [
+   "In every vehicle that is equipped with seat belts.",
+   "In a private vehicle only.",
+   "In every vehicle with more than two wheels that drives passengers.",
+   "In a vehicle with an overall permissible weight of up to 3,500kg only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 236,
+  "category": "traffic-laws",
+  "question": "When is the driver of a private vehicle exempt from wearing a seat belt?",
+  "answers": [
+   "While moving forward during parking maneuvering.",
+   "While driving in reverse.",
+   "While exiting a roofed parking.",
+   "While exiting a premises."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 237,
+  "category": "traffic-laws",
+  "question": "The following penalties may be imposed by a court of law on a driver convicted of committing a traffic offence:",
+  "answers": [
+   "Revoking a driver’s license, prison term, fine and other lawful penalties.",
+   "Fine or only suspended prison term.",
+   "Revoking a driver’s license or only suspended prison term.",
+   "Fine, active prison term or only suspended prison term."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 238,
+  "category": "traffic-laws",
+  "question": "What is the maximum number of passengers allowed in an combined commercial vehicle with an overall permissible weight of up to 3,500 kg?",
+  "answers": [
+   "As stated in the driver’s license, if at all.",
+   "One passenger next to the driver and three passengers in the back.",
+   "As stated on the vehicle license but not more than eight passengers, apart from the driver.",
+   "Two passengers next to the driver and four passengers in the back."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 239,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive passengers for hire in a private passenger car?",
+  "answers": [
+   "Only during a public transportation strike.",
+   "Yes, when the passengers pay a fare that is equal to that of a bus ride.",
+   "No.",
+   "Only in inter-urban rides."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 240,
+  "category": "traffic-laws",
+  "question": "Is it permitted to transport cargo in a private vehicle?",
+  "answers": [
+   "Yes, inside the vehicle, in the trunk(boot) or on the roof-rack..",
+   "It is absolutely forbidden.",
+   "Yes, provided that the weight of the cargo is no more than 1,000 kg.",
+   "Yes, only on the rooftop cargo carrier."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 241,
+  "category": "traffic-laws",
+  "question": "Is it permitted for any person, apart from the driver, to be inside a vehicle while being towed?",
+  "answers": [
+   "Passengers who were inside the car when it broke are allowed to stay inside.",
+   "No.",
+   "Yes, provided that they wear seat belts.",
+   "One accompanying person is allowed."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 242,
+  "category": "traffic-laws",
+  "question": "According to the “point system”, when a driver incurs 12 to 22 points:",
+  "answers": [
+   "He shall be summoned to attend a corrective driving course and to undergo an exam.",
+   "He shall be required to undergo a medical check-up and a theory examination.",
+   "His driver’s license shall be revoked for a period of thirty days.",
+   "He shall be required to undergo a theory examination and his driver’s license shall be revoked."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 243,
+  "category": "traffic-laws",
+  "question": "How many vehicles are allowed to be towed simultaneously by a motor vehicle?",
+  "answers": [
+   "One, unless otherwise approved by the Licensing Authority.",
+   "Two, provided that their overall length does not exceed fifteen meters.",
+   "Two, unless otherwise approved by the Licensing Authority.",
+   "Only one and there is no possibility to approve more than one."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 244,
+  "category": "traffic-laws",
+  "question": "Parking at an angle on a roadway:",
+  "answers": [
+   "Is allowed when there are designated markings on the road.",
+   "Is forbidden, except for motor scooters and motorcycles.",
+   "Is forbidden, except for vehicles in a length of 3.5 meters or less.",
+   "Is only allowed in a wide roadway."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 245,
+  "category": "traffic-laws",
+  "question": "Which vehicle is allowed to tow an agricultural trailer which is exempt from registration and licensing duties?",
+  "answers": [
+   "Only a utility vehicle.",
+   "A tractor.",
+   "A commercial vehicle with an overall permissible weight of more than 12,000 kg.",
+   "Only an all-terrain vehicle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 246,
+  "category": "signs",
+  "question": "How would you conduct yourself when approaching an intersection with a yellow flashing traffic light?",
+  "answers": [
+   "Slow down and give right-of-way to vehicles approaching from the opposite direction.",
+   "Stop until the traffic light turns green.",
+   "Slow down and follow the “right-of-way” rules and the traffic signs that are placed in the intersection.",
+   "You have right-of-way towards the pedestrians on the zebra crossing, and therefore you should proceed normally to the intersection."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 247,
+  "category": "traffic-laws",
+  "question": "What is a “security vehicle”?",
+  "answers": [
+   "A fire-fighting vehicle only.",
+   "Any ambulance, police vehicle, fire fighting vehicle, or any other security vehicle that gives a red or blue light and makes a siren sound.",
+   "A Red Magen David Ambulance only.",
+   "Any Israel Police vehicle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 248,
+  "category": "traffic-laws",
+  "question": "How should a driver conduct himself when noticing a “security vehicle”?",
+  "answers": [
+   "Slow down, divert to the road’s right edge and continue driving normally.",
+   "Divert his vehicle to the right, as close as possible to the road’s edge, give right-of-way and stop if necessary a distance from an intersection.",
+   "Mount the sidewalk and stop there.",
+   "Drive closely behind the security vehicle and keep a constant distance of two seconds from it."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 249,
+  "category": "traffic-laws",
+  "question": "When you are driving behind a “security vehicle”, you should:",
+  "answers": [
+   "Drive at a distance of at least 50 meters behind it.",
+   "Drive at a distance of at least 100 meters behind it.",
+   "Drive at a distance of at least 200 meters behind it.",
+   "Drive at a distance of at least 150 meters behind it."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 250,
+  "category": "traffic-laws",
+  "question": "Who is held responsible for a vehicle causing excessive noise?",
+  "answers": [
+   "The vehicle’s driver.",
+   "The vehicle’s manufacturer.",
+   "The vehicle's owner.",
+   "The garage that treats the vehicle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 251,
+  "category": "traffic-laws",
+  "question": "Who is required to hold the vehicle’s registration papers?",
+  "answers": [
+   "The driver while driving, even if he’s not the vehicle’s owner.",
+   "The garage that conducts regular treatments of the vehicle.",
+   "The vehicle’s owner, even when he’s not driving it.",
+   "The vehicle’s insurance company."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 252,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a vehicle with a malfunctioning lighting system?",
+  "answers": [
+   "Yes, if one light is not functioning.",
+   "Yes, when the parking lights are malfunctioning.",
+   "No.",
+   "Yes, during day time only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 253,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a motor vehicle on an urban road while its high-beam headlights are on?",
+  "answers": [
+   "Yes.",
+   "No, unless the road is not properly lit and provided that other drivers are not blinded.",
+   "No.",
+   "Only during day time."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 254,
+  "category": "traffic-laws",
+  "question": "When is a driver of a motor vehicle required to dip the vehicle’s lights?",
+  "answers": [
+   "When driving towards another vehicle that is driving on the same road or in an adjacent road.",
+   "When driving in a steep slope only.",
+   "When the vehicle in front of him turns right.",
+   "When the vehicle behind him turns right."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 255,
+  "category": "traffic-laws",
+  "question": "When is a driver of a motor vehicle required to dip the vehicle’s lights?",
+  "answers": [
+   "When driving behind another vehicle and his high beam hits the rear part of the vehicle in front.",
+   "When the vehicle’s “fog light” is also turned-on.",
+   "Only while driving inside a tunnel.",
+   "When driving behind another vehicle and his “fog light” and “high beam” are turned-on at the same time."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 256,
+  "category": "traffic-laws",
+  "question": "When is a driver of a motor vehicle required to dip the vehicle’s lights?",
+  "answers": [
+   "When driving backwards.",
+   "When entering a premises.",
+   "While searching for a parking spot.",
+   "When the vehicle is standing."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 257,
+  "category": "safety",
+  "question": "When driving in reverse:",
+  "answers": [
+   "You must use another person to guide you.",
+   "You must use another person to guide you on highways..",
+   "You must use another person to guide you during \"lighting up time\".",
+   "You are permitted to use another person to guide you."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 258,
+  "category": "traffic-laws",
+  "question": "Is a vehicle driver allowed to exceed the speed limit while overtaking?",
+  "answers": [
+   "Yes, in a non-urban road only.",
+   "No.",
+   "Yes, in a freeway only.",
+   "Yes, when overtaking a motorcycle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 259,
+  "category": "traffic-laws",
+  "question": "When is it permitted to use floodlights?",
+  "answers": [
+   "Only when the vehicle stops, provided that they are not directed at another vehicle or along the length of the road.",
+   "For security purposes only and during “light time”.",
+   "Only by a security vehicle during fence patrol.",
+   "It is forbidden to use floodlights on the road, except for fire fighting vehicles."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 260,
+  "category": "traffic-laws",
+  "question": "When is it permitted to turn on the “fog lights”?",
+  "answers": [
+   "Only while driving freeways.",
+   "Only when it is raining.",
+   "Only while driving in reverse.",
+   "In case of fog, heavy rain and snow only."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 261,
+  "category": "traffic-laws",
+  "question": "When is it permitted to use the “white reversing light”?",
+  "answers": [
+   "While driving in reverse, combined with the reverse gear only.",
+   "While parking in a roofed parking lot.",
+   "When visibility is poor for any given reason.",
+   "During fog or pouring rain."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 262,
+  "category": "traffic-laws",
+  "question": "What is the correct way to stand or leave an over-210-centimeters-wide motor vehicle during “light time”?",
+  "answers": [
+   "The four indicator lights and the portable lamp should be turned on and a warning triangle should be placed.",
+   "The vehicle’s side and width projection light should be turned on, unless the road’s lighting is sufficient for observing the vehicle.",
+   "The vehicle’s side light should be turned on, and the portable lamp should be flickering.",
+   "There is no provision of law for this type of vehicle, but only for over-280-centimeters-wide vehicles."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 263,
+  "category": "traffic-laws",
+  "question": "In a vehicle that has an overall width of 210 centimeters or more and that is lawfully equipped with side lamps:",
+  "answers": [
+   "The driver must turn-on the side lamps during “light time”.",
+   "The driver must turn-on the side lamps in an inter-urban road only.",
+   "The driver doesn’t have to turn-on the side lamps during ‘light time”.",
+   "It is allowed to drive at any time, even if the side lamps are out of order."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 264,
+  "category": "traffic-laws",
+  "question": "If a vehicle is lawfully photographed while committing an offence, who of the following is held responsible for the offense?",
+  "answers": [
+   "The driver’s employer.",
+   "The driver and the passenger besides him.",
+   "The vehicle’s owner, unless he proves that the vehicle was driven by another person and he identifies this person.",
+   "It is not important. The main thing is to have the fine paid."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 265,
+  "category": "traffic-laws",
+  "question": "When pedestrians are forced to walk on the road way, on which side of it should they walk?",
+  "answers": [
+   "Next to the right “hard shoulder”.",
+   "Next to the left sidewalk.",
+   "Next to the road’s left edge, when they are facing the incoming traffic.",
+   "Next to the road’s right edge."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 266,
+  "category": "traffic-laws",
+  "question": "The period that a “new driver” is obliged to be escorted in a private passenger vehicle is?",
+  "answers": [
+   "Two years from the date in which the license was initially received.",
+   "Three months from the date in which the license was initially received.",
+   "Two months from the date in which the license was initially received.",
+   "There is no time limitation as regards to a new-driver escorting period."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 267,
+  "category": "traffic-laws",
+  "question": "Who is required to have an escort as a ”new driver” while driving a private passenger car?",
+  "answers": [
+   "Anybody receiving for the first time a driver’s license for private passenger cars, and is younger than 30 years of age.",
+   "Anybody receiving for the first time a driver’s license for private passenger cars, and is younger than 21 years of age.",
+   "Anybody receiving for the first time a driver’s license for private passenger cars or a C1 class license for light trucks.",
+   "Anybody receiving for the first time a driver’s license for private passenger cars, and is younger than 24 years of age."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 268,
+  "category": "traffic-laws",
+  "question": "A “new driver” aged less than 21 years (or has not completed two years from the date of receiving a \"new driver\" license) cannot transport in a vehicle:",
+  "answers": [
+   "More than three passengers, besides himself, unless an escort sits beside him.",
+   "More than one person, besides himself.",
+   "More than four passengers, besides himself, unless an escort sits beside him.",
+   "More than two passengers, besides himself, unless an escort sits beside him in the front seat."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 269,
+  "category": "traffic-laws",
+  "question": "In case of a driver incurring 36 demerit points or more:",
+  "answers": [
+   "The Licensing Authority is not authorized to revoke his license based on the point system.",
+   "Only a court of law is allowed and authorized to revoke his license.",
+   "The Licensing Authority shall revoke his driver’s license for a period of three months and he will be required to undergo a theory exam..",
+   "The Licensing Authority may recommend a court of law to permanently revoke his license"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 270,
+  "category": "traffic-laws",
+  "question": "The license of a “New driver” will not be renewed as a regular driver's license, if he is convicted of:",
+  "answers": [
+   "Not stopping where a “give right-of–way” signpost is placed.",
+   "Illegal overtaking",
+   "Not placing a “new driver” sign on the vehicle’s rear window.",
+   "Driving a motor vehicle without valid insurance."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 271,
+  "category": "traffic-laws",
+  "question": "The license of a “New driver” will not be renewed as a regular driver's license, if he is convicted of:",
+  "answers": [
+   "Driving a motor vehicle without valid insurance.",
+   "Not placing a warning triangle before a malfunctioning vehicle that stands on the road.",
+   "Not stopping in an intersection where a “give right-of–way” signpost is placed.",
+   "Driving a motor vehicle under the influence of alcohol or intoxicants."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 272,
+  "category": "traffic-laws",
+  "question": "On which part of a road should a cyclist ride?",
+  "answers": [
+   "As close as possible to the road’s left edge, facing the incoming traffic.",
+   "As close as possible to the right hand side of the road.",
+   "Where all other vehicles are driving.",
+   "It is absolutely forbidden to ride bicycle on any part of a road."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 273,
+  "category": "safety",
+  "question": "Where is it permitted to park LPG (Liquid Petroleum Gas) fuelled vehicles?",
+  "answers": [
+   "In LPG-Vehicle permitted parking lots, according to the directions of the Ministry of Environmental Protection.",
+   "In regular parking lots designated for gasoline vehicles.",
+   "In parking lots designated for private passenger cars only.",
+   "In LPG-Vehicle permitted parking lots, according to the directions of the Vehicle’s importer."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 274,
+  "category": "traffic-laws",
+  "question": "How should a driver involved in traffic accident with casualties conduct himself?",
+  "answers": [
+   "If he is not culpable of the accident and the other driver involved is later held responsible for it, then he shall clear his vehicle away from the roadway.",
+   "He shall clear his vehicle away from the roadway to prevent traffic disturbance and call the rescue forces.",
+   "He shall clear away from the road and inform the police about the accident.",
+   "He shall not move his vehicle, unless instructed to do so by a policeman or if the vehicle had to be used for medical evacuation purposes."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 275,
+  "category": "traffic-laws",
+  "question": "How should a driver of a vehicle that was involved in a road accident with casualties conduct himself?",
+  "answers": [
+   "Drive to the police station and provide his Identifying details.",
+   "Inform the police about the accident within 72 hours.",
+   "Exchange identifying details with the rest of the people involved in the accident, and then there is no need to inform the police about the accident.",
+   "Provide casualties with first-aid to the best of his ability and training, call the rescue forces and wait in place until they arrive."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 276,
+  "category": "traffic-laws",
+  "question": "Which identifying details must be provided by a vehicle driver involved in a road accident with casualties?",
+  "answers": [
+   "His name. ID card number and telephone number,",
+   "If the vehicle’s number plates are intact and readable, there’s no need to provide any details.",
+   "His name, address, driver’s license number, vehicle’s registered number and name of vehicle’s owner.",
+   "Driver’s license number and vehicle’s registered number only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 277,
+  "category": "traffic-laws",
+  "question": "How should those involved in a road accident, which resulted in property damage only, conduct themselves?",
+  "answers": [
+   "Exchange identifying details and wait for the rescue forces without moving any of the involved vehicles.",
+   "Clear their vehicles away from the roadway, without delay, and exchange identifying details.",
+   "Report to the police and wait for its instructions.",
+   "Call the rescue forces and wait at the place of the accident without moving any of the involved vehicles."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 278,
+  "category": "traffic-laws",
+  "question": "How should a vehicle driver conduct himself after hitting another vehicle or property in the absence of its owner?",
+  "answers": [
+   "Report about the incident to the nearest police station and wait for the arrival of a police investigator.",
+   "Leave his identifying details in a clearly visible place and report to the nearest police station within 24 hours.",
+   "Leave the place quickly and report about the incident’s details at a later stage.",
+   "Leave his vehicle at the site of the accident without moving it and wait for the arrival of a police examiner."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 279,
+  "category": "traffic-laws",
+  "question": "When is it not obligatory to inform the police station about the hitting of another vehicle or property in the absence of its owners?",
+  "answers": [
+   "When the accident’s impact is mild and the damage caused to the vehicle or to the property is not serious.",
+   "When a car assessor, which is recognized for this purpose by the police, is called.",
+   "When the incident is informed to the insurance company within the lawfully stated date and time.",
+   "When a policeman happens to arrive to the scene and is informed about the incident’s details."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 280,
+  "category": "traffic-laws",
+  "question": "What is required from a vehicle driver that passes  the scene of a road accident with casualties?",
+  "answers": [
+   "He should stop at the side of the road and mark the site of the accident with a warning triangle to be seen to a distance of fifty meters.",
+   "If he was not involved in the accident, he should continue driving without stopping by.",
+   "He should stop at the side of the road, help to clear the vehicles away from the road and allow the traffic to flow freely and uninterruptedly. .",
+   "He should stop at the site of the accident, provide casualties with first-aid, to the best of his ability and training, and call the rescue forces."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 281,
+  "category": "traffic-laws",
+  "question": "Within which distance from a tunnel is it prohibited to overtake?",
+  "answers": [
+   "Fifty meters before the entry to the tunnel and up to fifty meters after the exit from the tunnel.",
+   "There is no overtaking restriction around a tunnel.",
+   "100 meters before the entry to the tunnel and up to 100 meters after the exit from the tunnel.",
+   "From the entry until the exit of the tunnel."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 282,
+  "category": "traffic-laws",
+  "question": "What does the law state regarding the placing or leaving of objects on a road?",
+  "answers": [
+   "Objects which might disturb or endanger passersby or their vehicles should not be placed or left on a road.",
+   "Objects that are left on a road should be cleared away within 12 hours.",
+   "It is allowed to leave objects, but the Ministry of Environmental Protection should be immediately informed about every object that is placed on a road.",
+   "It is allowed to leave any object on a road, provided that it is marked with a reflector during “light time”."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 283,
+  "category": "traffic-laws",
+  "question": "For how long is it permitted to leave a broken-down vehicle on a road or in a public place?",
+  "answers": [
+   "It should be cleared away as soon as possible, no later than 48 hours.",
+   "Until the rescue vehicle arrives, provided that it doesn’t exceed a period of one week.",
+   "It should be moved away as soon as possible, no later than 24 hours.",
+   "For the period in which it is being repaired, provided that it doesn’t exceed 72 hours."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 284,
+  "category": "traffic-laws",
+  "question": "What should you do when your vehicle makes unreasonable noise?",
+  "answers": [
+   "A vehicle making unreasonable noise should not be driven.",
+   "It is permitted to drive a vehicle making unreasonable noise under the approval of the local authority.",
+   "It is permitted to drive a vehicle making unreasonable noise in a freeway.",
+   "It is permitted to drive a vehicle making unreasonable noise unrestrictedly."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 285,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive downhill on neutral gear?",
+  "answers": [
+   "It is allowed to shift to neutral gear while driving a public vehicle, a bus or a taxi downhill in a non-urban road only.",
+   "It is absolutely forbidden. the gears must always be selected and operated .",
+   "It is allowed to shift to neutral gear in any non-urban road which is moderately sloped, in order to save fuel.",
+   "It is possible to drive in neutral gear in a moderate slope, where there is no risk of brake overheating, in order to save fuel."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 286,
+  "category": "traffic-laws",
+  "question": "How should we behave whilst driving downhill?",
+  "answers": [
+   "Shift into a high gear and keep the clutch pedal pressed for greater safety.",
+   "Shift into neutral gear, in order to save fuel.",
+   "Shift into one of the drive gears and keep the clutch pedal pressed.",
+   "Whilst driving down hill we must make sure that one of the gears is engaged."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 287,
+  "category": "traffic-laws",
+  "question": "Under what conditions is it obligatory to operate a “speed retarder” while driving downhill?",
+  "answers": [
+   "When a “warning sliding” sign is placed on the road.",
+   "When the slope rate of the decent exceeds 6% and the length of the decent is more than one kilometer.",
+   "When the vehicle is equipped with a speed retarder and a sign warning about a dangerous descent is placed on the road.",
+   "If a vehicle is equipped with a speed retarder, it should always be operated, also while driving on plane surfaces."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 288,
+  "category": "traffic-laws",
+  "question": "Is it permitted to re- fuel a vehicle while its motor is running?",
+  "answers": [
+   "Absolutely not.",
+   "Yes, in case of self-fueling.",
+   "Yes, if the vehicle is equipped with a fire extinguisher.",
+   "Yes, when the vehicle stands next to a fire extinguishing station."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 289,
+  "category": "traffic-laws",
+  "question": "What does the law state as regards to fueling a vehicle which carries more than 11 passengers?",
+  "answers": [
+   "It is allowed to fuel the vehicle, provided that a fire extinguisher is located close by.",
+   "It is forbidden to fuel the vehicle while passengers are still on board.",
+   "It is allowed to fuel the vehicle when it stands next to a fire extinguishing station.",
+   "It is allowed by means of self-fueling."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 290,
+  "category": "traffic-laws",
+  "question": "What is the responsibility of a vehicle owner as regards to an offence committed by his vehicle?",
+  "answers": [
+   "Absolute responsibility, unless he can prove that another person drove the vehicle at that time.",
+   "If he doesn’t drive the vehicle, he bears no responsibility.",
+   "The vehicle owner is only held responsible if he is present in the vehicle while another person is driving it.",
+   "The vehicle owner is responsible for it even if the vehicle is stolen."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 291,
+  "category": "traffic-laws",
+  "question": "What law is applied to a driver of a hand propelled vehicle?",
+  "answers": [
+   "Only two-wheelers are allowed to be powered by persons who don’t have a driver’s license.",
+   "Same as that applying to a vehicle driver.",
+   "Only private passenger vehicles are allowed to be powered by persons who don’t have a driver’s license.",
+   "Only all-terrain vehicles are allowed to be powered by persons who don’t have a driver’s license."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 292,
+  "category": "traffic-laws",
+  "question": "What is the maximum cargo height, from the road’s surface, that is allowed to be transported in a vehicle of an overall permissible weight of 8000kg – 15,000kg?",
+  "answers": [
+   "Four meters.",
+   "4.80 meters.",
+   "There is no height limit.",
+   "Three meters."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 293,
+  "category": "traffic-laws",
+  "question": "Is it permitted to have an excessive cargo length from the front or from the rear of a vehicle with an overall permissible weight of more than 15,000kg?",
+  "answers": [
+   "It is allowed from the vehicle’s rear, and there is no length limit.",
+   "No, unless it is approved by a police officer.",
+   "Yes, along the vehicle’s width only, and provided that a “Warning, wide cargo” sign is placed.",
+   "Yes, provided that the cargo is one length unit and that the excessive length is up to one third of the loading platform."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 294,
+  "category": "traffic-laws",
+  "question": "What types of vehicles are permitted to park in a bus station, besides the bus itself?",
+  "answers": [
+   "Private vehicles, on Sabbaths and holidays only, according to the instructions of the road sign that is placed at the bus station.",
+   "Private vehicles, during night time, according to the instructions of the road sign that is placed in the bus station.",
+   "All types of vehicles, during night time, according to the instructions of the road sign that is placed in the bus station.",
+   "Motorcycles, on Sabbaths and holidays only, according to the instructions of the road sign that is placed in the bus station."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 295,
+  "category": "traffic-laws",
+  "question": "Is it permitted for vehicle drivers to drive under the influence of drugs or alcohol?",
+  "answers": [
+   "Yes, when they need to drive in order to receive medical treatment only.",
+   "Yes, for short-distance drives back home.",
+   "Yes, in accordance with doctor’s orders only.",
+   "It is absolutely forbidden."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 296,
+  "category": "traffic-laws",
+  "question": "Is an escort of a new driver allowed to be under the influence of alcohol?",
+  "answers": [
+   "Yes, provided that one hour passes from the time of drinking.",
+   "Yes, provided that he is over 26 years of age.",
+   "Yes. An escort of a new driver does not drive the vehicle and it is therefore not important whether he is drunk or not.",
+   "No. A person under the influence of alcohol is not allowed to escort a new driver."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 297,
+  "category": "traffic-laws",
+  "question": "Is a policeman permitted to demand of a vehicle driver to perform a “Breathalyzer test”?",
+  "answers": [
+   "No. A policeman is not entitled to require a vehicle driver to perform an “alcohol test”, except under a court order.",
+   "Yes, a policeman may ask a driver to perform a \"Breathalyzer test\" at any time.",
+   "No. A policeman is not entitled to require a vehicle driver to perform any type of tests, except for an alcohol breath test.",
+   "Yes, but only if the policeman reasonably suspects that the vehicle driver’s health condition is not well."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 298,
+  "category": "traffic-laws",
+  "question": "What is a “breathalyzer test”?",
+  "answers": [
+   "A test of exhaled air by means of a device that provides information about a person’s blood alcohol level.",
+   "A stress test measuring the air quantity that enters the driver’s lungs while driving.",
+   "A test in which a person exhales into a device that gives information about his lung volume.",
+   "A test performed for new-driver applicants by a family doctor, at the requirement of the Licensing Authority."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 299,
+  "category": "traffic-laws",
+  "question": "A policeman has stopped a driver on the road.and demanded of him to take a breathyalyzer tests . Is the driver obliged to perform the test",
+  "answers": [
+   "Yes, after coming out of a pub only.",
+   "No, he is not obliged to do so.",
+   "Yes, after midnight only.",
+   "Yes, otherwise he is considered a drunk driver."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 300,
+  "category": "traffic-laws",
+  "question": "What does the law state as regards to a vehicle driver refusing to undergo a Breathalyzer test at the request of a policeman?",
+  "answers": [
+   "He shall not be allowed to continue holding a driver’s license without performing an alcohol test.",
+   "Actual revocation of his driver’s license for a period of at least five years.",
+   "Actual revocation of his driver’s license for a period of at least two years and a permanent suspended revocation.",
+   "He shall be considered a drunk driver."
+  ],
+  "correct": 3,
+  "hasImage": false
+ }
+]

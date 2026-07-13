@@ -1,0 +1,402 @@
+[
+ {
+  "id": 201,
+  "explanation": "Standing or parking on a sidewalk is prohibited by default because it blocks pedestrians; it is allowed only where a traffic sign specifically designates and regulates such a spot."
+ },
+ {
+  "id": 202,
+  "explanation": "Parking inside an intersection blocks sightlines and turning movements for other traffic, so it is banned unless a traffic sign expressly permits it there."
+ },
+ {
+  "id": 203,
+  "explanation": "Standing within twelve meters of a junction obstructs visibility for turning and crossing vehicles, so it is forbidden unless the local traffic authority marks an exception with a sign or road marking."
+ },
+ {
+  "id": 204,
+  "explanation": "A two-meter clearance must be kept on every side of a fire hydrant so firefighters can connect hoses quickly in an emergency without a parked car blocking access."
+ },
+ {
+  "id": 205,
+  "explanation": "Standing is banned on a pedestrian crossing and for twelve meters before it, because a parked vehicle there would block the sightline between drivers and pedestrians about to cross."
+ },
+ {
+  "id": 206,
+  "explanation": "Once a vehicle has passed the crossing it no longer blocks pedestrians' or drivers' view of each other, so the standing restriction that applies before and on the crossing no longer applies after it."
+ },
+ {
+  "id": 207,
+  "explanation": "The rule shown restricts stopping for twelve meters before a stop line, keeping the approach to the junction clear so drivers waiting to enter can see and be seen."
+ },
+ {
+  "id": 208,
+  "explanation": "A vehicle parked near railway tracks can block a train driver's or road driver's view of an approaching train, so standing is banned within twenty meters of a level crossing on both sides."
+ },
+ {
+  "id": 209,
+  "explanation": "On a one-lane two-way road split by a continuous line, stopping would block the only lane available in that direction to both oncoming and following traffic, so it is always prohibited."
+ },
+ {
+  "id": 210,
+  "explanation": "Stopping alongside another already-parked vehicle, known as double parking, blocks a traffic lane and obstructs visibility for other road users, so it is banned outright."
+ },
+ {
+  "id": 211,
+  "explanation": "Bridges and tunnels have narrow lanes, restricted visibility, and no room for other vehicles to pass a stopped car, so stopping there is prohibited under all circumstances."
+ },
+ {
+  "id": 212,
+  "explanation": "Buses need clear space to pull in and pull out safely, so the law bans stopping within twenty meters on either side of a bus-stop sign unless a different marking states otherwise."
+ },
+ {
+  "id": 213,
+  "explanation": "Stopping opposite a bus stop is only safe if the roadway is wide enough, at least twelve meters, for a bus to still maneuver past the stopped vehicle."
+ },
+ {
+  "id": 214,
+  "explanation": "A pedestrian guardrail is placed to protect people crossing and keep sightlines open, so stopping alongside it is banned unless a sign specifically authorizes it there."
+ },
+ {
+  "id": 215,
+  "explanation": "A taxi-stand sign reserves the marked spot for taxis loading passengers, but any vehicle may still make a brief stop there solely to drop passengers off."
+ },
+ {
+  "id": 216,
+  "explanation": "A disabled-parking sign reserves that space exclusively for vehicles displaying the permit or tag named on the sign, and all other vehicles are barred from stopping there."
+ },
+ {
+  "id": 217,
+  "explanation": "After parking, a driver's duty is to make sure the vehicle is left secured so it cannot move on its own and endanger others or property."
+ },
+ {
+  "id": 218,
+  "explanation": "Leaving a vehicle safely parked requires engaging the parking brake, turning off the engine, and removing the key, so the car cannot roll away or be used without the driver's control."
+ },
+ {
+  "id": 219,
+  "explanation": "On a downhill slope, turning the wheels toward the curb and leaving the car in reverse gear with the handbrake engaged means that if the brake fails, the car rolls safely into the curb rather than into the road."
+ },
+ {
+  "id": 220,
+  "explanation": "Under the demerit-point system, the Licensing Authority can require a driver who has accumulated points to undergo tests and can also suspend or revoke that driver's license as points build up."
+ },
+ {
+  "id": 221,
+  "explanation": "A standing vehicle must be positioned parallel to the road's edge, or according to any road marking present, so it does not obstruct the flow of traffic in the lane."
+ },
+ {
+  "id": 222,
+  "explanation": "Angled parking is only lawful where the road surface carries a specific angular marking, and the vehicle must be positioned according to that marking, not left at an arbitrary angle."
+ },
+ {
+  "id": 223,
+  "explanation": "When standing parallel to the curb, a vehicle may be no more than forty centimeters from it, close enough to avoid blocking the lane but not obstructing the sidewalk."
+ },
+ {
+  "id": 224,
+  "explanation": "Exposing part of the body outside a moving vehicle risks injury from collision with other traffic or roadside objects, so it is forbidden in enclosed vehicles, unlike riding a motorbike where the rider's body is inherently outside the frame."
+ },
+ {
+  "id": 225,
+  "explanation": "Driving with a door open creates a risk of a passenger or object falling out or being struck by passing traffic, so it is prohibited in every circumstance."
+ },
+ {
+  "id": 226,
+  "explanation": "Opening a vehicle's doors while it is moving endangers the occupant trying to exit and nearby road users, so it is never permitted."
+ },
+ {
+  "id": 227,
+  "explanation": "Getting out on the traffic side of the vehicle exposes a person to passing vehicles, so it is barred except for the driver, or the front passenger, when the car is legitimately standing with that side against the curb."
+ },
+ {
+  "id": 228,
+  "explanation": "Boarding or leaving a vehicle while it is in motion risks a fall or impact with the roadway or nearby traffic, so it is banned outright."
+ },
+ {
+  "id": 229,
+  "explanation": "Only as many passengers as stated in the vehicle's registration may sit beside the driver, since front-seat capacity is tied to the seatbelts and design approved for that specific vehicle."
+ },
+ {
+  "id": 230,
+  "explanation": "Children under eight are too small for adult seatbelts to restrain properly in a crash, so the law requires an age- and weight-appropriate child safety seat or booster instead."
+ },
+ {
+  "id": 231,
+  "explanation": "A child under three years old must ride in a child safety seat matched to their height and weight, because a regular seatbelt cannot properly restrain such a small body in a collision."
+ },
+ {
+  "id": 232,
+  "explanation": "Children between roughly three and eight still need a properly fitted child seat or booster suited to their height and weight, since adult belts alone do not yet position correctly on them."
+ },
+ {
+  "id": 233,
+  "explanation": "Infants under one year have weak neck and head control, so they must ride in a rear-facing safety seat that protects the head and neck if the vehicle stops suddenly."
+ },
+ {
+  "id": 234,
+  "explanation": "The road sign at that bus station permits parking there specifically for private vehicles on Sabbaths and holidays, when reduced bus service frees up the space."
+ },
+ {
+  "id": 235,
+  "explanation": "The legal duty to wear a seatbelt applies in any vehicle fitted with one, covering the driver and every passenger, not just certain vehicle categories."
+ },
+ {
+  "id": 236,
+  "explanation": "The seatbelt requirement is relaxed while reversing, since the driver needs freedom to turn and look behind during that low-speed maneuver."
+ },
+ {
+  "id": 237,
+  "explanation": "A court handling a traffic offense conviction can impose a full range of lawful penalties, including license revocation, imprisonment, and fines, not just a single type of sanction."
+ },
+ {
+  "id": 238,
+  "explanation": "The number of passengers a commercial vehicle may carry is limited both by what its vehicle license states and by an absolute ceiling of eight passengers besides the driver."
+ },
+ {
+  "id": 239,
+  "explanation": "Carrying passengers for a fare requires a license for public transport or taxi service, which a private passenger car does not have, so it is prohibited regardless of what is charged."
+ },
+ {
+  "id": 240,
+  "explanation": "A private vehicle may lawfully carry cargo in any of the spaces built to hold it, including inside the cabin, the trunk, or a roof rack, as long as it is secured safely."
+ },
+ {
+  "id": 241,
+  "explanation": "A towed vehicle has no independent braking or steering control, so only the driver being towed may remain inside it, and other occupants are not permitted."
+ },
+ {
+  "id": 242,
+  "explanation": "Under the demerit-point tiers, accumulating roughly twelve to twenty-two points triggers a mandatory corrective driving course and an exam, a milder intervention used before harsher measures apply at higher totals."
+ },
+ {
+  "id": 243,
+  "explanation": "Towing more than one vehicle sharply increases stopping distance and reduces control, so the default limit is a single towed vehicle unless the Licensing Authority grants specific approval for more."
+ },
+ {
+  "id": 244,
+  "explanation": "Parking at an angle on a roadway is only lawful where the road surface has designated markings laid out for that parking pattern, so drivers must follow the marked layout rather than choosing their own angle."
+ },
+ {
+  "id": 245,
+  "explanation": "An agricultural trailer exempt from registration is designed for towing by farm machinery, so a tractor is the vehicle authorized to pull it."
+ },
+ {
+  "id": 246,
+  "explanation": "A flashing yellow light is not a stop command; it warns drivers to slow down and resolve who goes first using the normal right-of-way rules and any signs posted at that junction."
+ },
+ {
+  "id": 247,
+  "explanation": "The legal definition of a security vehicle covers any emergency vehicle, ambulance, police car, or fire truck identified by a red or blue flashing light and a siren, not one specific service alone."
+ },
+ {
+  "id": 248,
+  "explanation": "An emergency vehicle needs an unobstructed path, so other drivers must move as far right as possible, yield right of way, and stop if needed to let it pass safely."
+ },
+ {
+  "id": 249,
+  "explanation": "Following too closely behind an emergency vehicle risks interfering with its priority or being caught if it stops suddenly, so a minimum gap of about one hundred meters is required."
+ },
+ {
+  "id": 250,
+  "explanation": "The person actually operating the vehicle controls how and whether it is driven, so the driver bears responsibility for conditions like excessive noise while driving."
+ },
+ {
+  "id": 251,
+  "explanation": "Whoever is driving at the time must be able to produce the vehicle's registration papers, since it is the driver's duty to prove the vehicle's legal status while operating it, regardless of ownership."
+ },
+ {
+  "id": 252,
+  "explanation": "A malfunctioning light impairs both the driver's ability to see and be seen, so driving with any faulty lighting equipment is not permitted at all."
+ },
+ {
+  "id": 253,
+  "explanation": "High beams can dazzle other drivers, so on an urban road they are only allowed when street lighting is inadequate and no other driver would be blinded by them."
+ },
+ {
+  "id": 254,
+  "explanation": "A driver must dip the lights whenever meeting an oncoming vehicle traveling on the same or an adjoining road that could otherwise be dazzled by the high beam."
+ },
+ {
+  "id": 255,
+  "explanation": "High beams reflecting off the mirrors or rear of the vehicle ahead can blind that driver just as much as an oncoming car, so the law requires dipping the lights in that situation too."
+ },
+ {
+  "id": 256,
+  "explanation": "A stationary vehicle has no need to light the road ahead with high beams, and leaving them on risks dazzling others, so they must be dipped whenever the vehicle stops."
+ },
+ {
+  "id": 257,
+  "explanation": "When reversing, especially where visibility is limited, a driver is allowed to have another person guide them to maneuver safely, though it is not a mandatory requirement in every case."
+ },
+ {
+  "id": 258,
+  "explanation": "The general duty to drive at a reasonable, controlled speed applies at all times, so overtaking never exempts a driver from the posted speed limit."
+ },
+ {
+  "id": 259,
+  "explanation": "Floodlights produce intense direct glare, so their use is limited to a stationary vehicle and must not be aimed at another vehicle or shone lengthwise down the road."
+ },
+ {
+  "id": 260,
+  "explanation": "Fog lights are designed to cut through low-hanging fog, heavy rain, or snow, and would only create extra glare in normal conditions, so their use is restricted to those specific situations."
+ },
+ {
+  "id": 261,
+  "explanation": "The white reversing light is meant to warn others and illuminate the path only while the vehicle is actually moving backward, so it is used solely together with reverse gear."
+ },
+ {
+  "id": 262,
+  "explanation": "A vehicle wider than 210 centimeters needs extra side and width marker lights during lighting time so other drivers can judge its true width in the dark, unless street lighting already makes it clearly visible."
+ },
+ {
+  "id": 263,
+  "explanation": "A vehicle wide enough to be fitted with side lamps must switch them on whenever lighting-time rules apply, so other drivers can gauge its full width in low light."
+ },
+ {
+  "id": 264,
+  "explanation": "Since a camera identifies only the vehicle and not who was driving, the law defaults responsibility to the registered owner, shifting it only if the owner names the actual driver at the time."
+ },
+ {
+  "id": 265,
+  "explanation": "Walking facing oncoming traffic on the road's left edge lets pedestrians see approaching vehicles and react in time, which is the basic safety rule when no sidewalk is available."
+ },
+ {
+  "id": 266,
+  "explanation": "A newly licensed driver must be accompanied by an experienced escort for an initial fixed period of three months to gain supervised experience before driving fully independently."
+ },
+ {
+  "id": 267,
+  "explanation": "The escort requirement applies to anyone receiving a first driver's license for private cars or the equivalent light-truck category, since both are new to unsupervised driving."
+ },
+ {
+  "id": 268,
+  "explanation": "A new driver under twenty-one, or within two years of first licensing, may carry at most two extra passengers unless an experienced escort sits beside them in the front seat, limiting distraction for an inexperienced driver."
+ },
+ {
+  "id": 269,
+  "explanation": "Under the demerit-point thresholds, reaching thirty-six or more points automatically triggers a three-month license suspension plus a required theory exam before the license can be reinstated."
+ },
+ {
+  "id": 270,
+  "explanation": "Illegal overtaking is treated as a serious offense reflecting dangerous judgment, so a conviction for it blocks the automatic upgrade of a new driver's license to a regular one."
+ },
+ {
+  "id": 271,
+  "explanation": "Driving under the influence of alcohol or intoxicants is one of the most serious offenses, so a new driver convicted of it is barred from having the license upgraded to a regular license."
+ },
+ {
+  "id": 272,
+  "explanation": "Cyclists are treated as slower vehicles sharing the roadway, so like other vehicles they must ride as close as possible to the right edge, not against traffic as pedestrians do."
+ },
+ {
+  "id": 273,
+  "explanation": "LPG vehicles carry pressurized flammable gas, so they may only be parked in lots specifically approved and regulated for that fire risk by the Ministry of Environmental Protection."
+ },
+ {
+  "id": 274,
+  "explanation": "Preserving the scene is critical when there are casualties, so a driver must not move the vehicle unless a police officer instructs otherwise or it is needed to evacuate an injured person."
+ },
+ {
+  "id": 275,
+  "explanation": "When people are injured, the priority is giving first aid and summoning professional help, then remaining at the scene until rescue forces arrive, rather than simply exchanging details as with property-only accidents."
+ },
+ {
+  "id": 276,
+  "explanation": "A casualty accident requires full identifying and vehicle details, including name, address, license number, vehicle registration, and owner's name, so all parties and authorities can be properly identified afterward."
+ },
+ {
+  "id": 277,
+  "explanation": "When an accident causes only property damage, the priority is restoring traffic flow quickly, so those involved should clear their vehicles off the road promptly after exchanging identifying details."
+ },
+ {
+  "id": 278,
+  "explanation": "If you damage a vehicle or property while its owner is absent, you must still identify yourself by leaving visible contact details and reporting to the nearest police station within twenty-four hours."
+ },
+ {
+  "id": 279,
+  "explanation": "If a police officer is already present at the scene and has been told the incident's details, the separate duty to report it is satisfied because the police already have the necessary information."
+ },
+ {
+  "id": 280,
+  "explanation": "Any driver passing a casualty accident has a duty to stop, give first aid to the best of their ability, and call rescue forces, reflecting the general duty of care toward injured people on the road."
+ },
+ {
+  "id": 281,
+  "explanation": "Tunnels restrict visibility and leave no room to abort a maneuver, so overtaking is banned across an extended zone of fifty meters before the entrance and fifty meters after the exit, not just inside it."
+ },
+ {
+  "id": 282,
+  "explanation": "The general duty of care extends to the roadway itself, so anything that could disturb or endanger passersby or their vehicles must not be placed or left on a road."
+ },
+ {
+  "id": 283,
+  "explanation": "A broken-down vehicle left on a road creates an ongoing hazard and blocks traffic, so the law requires it be cleared away as soon as possible and no later than twenty-four hours."
+ },
+ {
+  "id": 284,
+  "explanation": "Unreasonable vehicle noise indicates a mechanical fault or a non-compliant vehicle, so a vehicle producing it must not be driven until the problem is fixed."
+ },
+ {
+  "id": 285,
+  "explanation": "Coasting in neutral removes engine braking and control on a descent, so the driver must always keep a gear selected and engaged rather than shifting to neutral to save fuel."
+ },
+ {
+  "id": 286,
+  "explanation": "Keeping a gear engaged while driving downhill preserves engine braking, giving the driver far more control over speed than relying on the footbrake or a disengaged clutch alone."
+ },
+ {
+  "id": 287,
+  "explanation": "A speed retarder is required specifically where the vehicle is equipped with one and a sign warns of a dangerous descent, to prevent the brakes from overheating from continuous heavy use."
+ },
+ {
+  "id": 288,
+  "explanation": "Fuel vapors can ignite from the heat or sparks of a running engine, so refueling must always be done with the engine switched off, without exception."
+ },
+ {
+  "id": 289,
+  "explanation": "Refueling with passengers still aboard increases the danger and severity of harm if the fuel ignites, so a vehicle carrying more than eleven passengers must have them disembark before fueling."
+ },
+ {
+  "id": 290,
+  "explanation": "A vehicle's owner bears default legal responsibility for offenses committed by it, and that responsibility shifts only if the owner can prove and identify who was actually driving at the time."
+ },
+ {
+  "id": 291,
+  "explanation": "A hand-propelled vehicle still uses the public roadway and interacts with other traffic, so the same traffic-law obligations that bind other vehicle drivers apply to its operator."
+ },
+ {
+  "id": 292,
+  "explanation": "Cargo height on a vehicle in this weight range is capped at four meters from the road surface to prevent it from striking bridges or overpasses and to keep the vehicle stable."
+ },
+ {
+  "id": 293,
+  "explanation": "Overhanging cargo is permitted only within a defined proportion, up to one third, of the loading platform's own length, so it does not create an unpredictable hazard extending far beyond the vehicle."
+ },
+ {
+  "id": 294,
+  "explanation": "A bus station may be used by other vehicle types only when the posted sign explicitly allows it, and here that sign permits private vehicles specifically on Sabbaths and holidays."
+ },
+ {
+  "id": 295,
+  "explanation": "Alcohol and drugs impair reaction time and judgment behind the wheel, so driving under their influence is banned without exception, regardless of the reason for the trip."
+ },
+ {
+  "id": 296,
+  "explanation": "An escort must be able to guide and react on behalf of an inexperienced driver, and being impaired by alcohol defeats that entire safety purpose, so it is prohibited."
+ },
+ {
+  "id": 297,
+  "explanation": "Police are given broad authority to test drivers for alcohol at any time, not only when they already suspect impairment, since drunk driving is a serious and often hard-to-detect hazard."
+ },
+ {
+  "id": 298,
+  "explanation": "A breathalyzer measures the alcohol content of a person's exhaled breath, which correlates with and provides information about their blood alcohol level."
+ },
+ {
+  "id": 299,
+  "explanation": "A driver stopped by police and lawfully asked to take a breath test must comply, since refusing to take it is treated the same as failing it."
+ },
+ {
+  "id": 300,
+  "explanation": "The law treats refusal to take a lawfully requested breath test as conclusive proof of drunk driving, since otherwise a driver could simply refuse the test to avoid detection."
+ }
+]

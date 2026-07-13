@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 401,
+  "category": "signs",
+  "question": "The purpose of information road signs is to:",
+  "answers": [
+   "Instruct vehicle drivers what to do.",
+   "Provide information about places and directions.",
+   "Determine prohibitions.",
+   "Alert passersby about road hazards ahead."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 402,
+  "category": "signs",
+  "question": "Which of the following traffic signs allows parking in a position that is not parallel to the sidewalk?",
+  "answers": [
+   "815",
+   "512",
+   "819",
+   "513"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 403,
+  "category": "signs",
+  "question": "Which traffic sign that is placed before an intersection requires drivers to give right-of-way?",
+  "answers": [
+   "301",
+   "504",
+   "308",
+   "310"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 404,
+  "category": "signs",
+  "question": "Which of the following traffic signs requires drivers to stop and give right-of-way to other approaching vehicles from either direction?",
+  "answers": [
+   "309",
+   "308",
+   "302",
+   "303"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 405,
+  "category": "signs",
+  "question": "Which traffic sign should appear after traffic sign 705?",
+  "answers": [
+   "701",
+   "122",
+   "703",
+   "702"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 406,
+  "category": "signs",
+  "question": "Which traffic sign should appear after traffic sign 701?",
+  "answers": [
+   "703",
+   "705",
+   "122",
+   "702"
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 407,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Mountain road.",
+   "Road-works ahead.",
+   "Uneven road surface",
+   "Speed bumps ahead."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 408,
+  "category": "signs",
+  "question": "What should you do when the traffic sign in the picture appears before you?",
+  "answers": [
+   "Drive faster to prevent the car from shaking.",
+   "Adjust your speed to the road’s conditions. Don't ignore an uneven road..",
+   "You are driving on a mountain road. Drive in low gear.",
+   "Obey the instructions of Public Works Department employees."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 409,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "U-Turn is permitted.",
+   "Sharp bend to the right.",
+   "Drive left only.",
+   "Winding road."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 410,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Enter curve in high speed and exit it slowly.",
+   "Drive normally. The speed at the curve’s entry and exit is insignificant.",
+   "Reduce speed before entering the curve and gradually increase speed coming out of it.",
+   "Honk before entering the curve."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 411,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Winding road ahead.",
+   "Narrow and winding road ahead.",
+   "Bend to the right and then bend to the left.",
+   "Hairpin curve ahead."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 412,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Drive in the middle of the road and turn-on the winker before each turn.",
+   "Drive faster in order to pass the place.",
+   "Slow down and move to the road’s left in the left curve.",
+   "Slow down, adjust your speed to the road’s conditions and keep to the right of the road."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 413,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Dangerous descent ahead.",
+   "Right curve followed by left curve ahead.",
+   "Winding road.",
+   "Instruction sign – hairpin curve."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 414,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Narrow bridge ahead.",
+   "Traffic congestion ahead.",
+   "Road narrows from the right.",
+   "Number of lanes is decreasing."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 415,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Give right-of-way in a narrow road.",
+   "Continue driving normally. You have right-of-way over opposing traffic.",
+   "Give a left signal and carefully cross to the left lane while glancing in the mirrors.",
+   "Slow down, keep to the right, and stay alert for oncoming traffic."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 416,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Careful, speed bumps ahead.",
+   "Careful, falling rocks.",
+   "Road works ahead.",
+   "Archeological works ahead."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 417,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Slow down and obey the instructions of the workers and of all the road signs in the area.",
+   "Drive carefully, rough road ahead.",
+   "Cross the place quickly without disturbing passersby.",
+   "Driving permit should be obtained from the operating contractor."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 418,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Tunnel entrance.",
+   "Barrier ahead.",
+   "Vehicle height restriction. No entry for a vehicle that exceeds, with its cargo, the height that is indicated in the sign.",
+   "Narrow and low roadway."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 419,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Caution, bicycle traffic ahead.",
+   "Path for bicycles only.",
+   "One-way lane for bicycles.",
+   "End of bicycle lane."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 420,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "T-Intersection ahead.",
+   "Railway crossing.",
+   "Cross road.",
+   "Junction in a freeway."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 421,
+  "category": "signs",
+  "question": "What are you required to do when the following road sign is placed?",
+  "answers": [
+   "Slow down and follow the accepted right-of-way rules and the traffic signs that are placed at the intersection.",
+   "Cross the intersection quickly, while paying attention to vehicles approaching the intersection from your right.",
+   "Slow down and give right-of-way to vehicles coming from your right only.",
+   "Always stop before the intersection and cross it when it is free of traffic only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 422,
+  "category": "signs",
+  "question": "Are you required to give right-of-way when the following road sign is placed?",
+  "answers": [
+   "Yes, when the following road sign is placed in an intersection, right-of-way is given to vehicles that continue driving straight.",
+   "No, when the following road sign is placed in an intersection, right-of-way is given to public vehicles only.",
+   "No, you should only give right-of-way according to the lawful right-of-way rules or to the traffic signs that are placed in the intersection.",
+   "Yes, when the following road sign is placed in an intersection, right-of-way is given to vehicles that come from the right only."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 423,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Making a right turn is forbidden.",
+   "Information road sign – T- junction to the right and then T-junction to the left",
+   "T-junction to the right.",
+   "In the intersection drive right only."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 424,
+  "category": "signs",
+  "question": "What are you required to do when the following road sign is placed?",
+  "answers": [
+   "Whoever drives straight shall continue driving and make sure that vehicles approaching the straight roadway give him right-of-way.",
+   "Always stop before the intersection and give right-of-way to vehicles which come from the right and intend to turn left.",
+   "Give right-of-way according to the accepted right-of-way rules and to the traffic signs that are placed at the junction.",
+   "Slow down and give right-of-way to vehicles approaching the intersection from your front."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 425,
+  "category": "signs",
+  "question": "Is it determined by the following road sign which rules for giving right-of-way should be applied?",
+  "answers": [
+   "Yes, when the following road sign is placed in an intersection, right-of-way is given to vehicles that continue driving straight only.",
+   "Yes, when the following road sign is placed in an intersection, right-of-way is given to public vehicles only.",
+   "No, right-of-way rules are determined according to the traffic load.",
+   "No, right-of-way is determined according to lawful right-of-way rules or according to the traffic signs that are placed in the junction."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 426,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Dead-end street ahead.",
+   "Give right-of-way to crossing vehicles.",
+   "Instruction road sign: Drive right only.",
+   "T-junction ahead."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 427,
+  "category": "signs",
+  "question": "Where is the following road sign placed?",
+  "answers": [
+   "In the intersection.",
+   "After the intersection.",
+   "A reasonable before the intersection.",
+   "No importance as to where the sign is placed"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 428,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "T- junction to the right and then T-junction to the left",
+   "Warning sign before a sharp right turn followed by a sharp left turn.",
+   "Left T-Intersection followed by right T-Intersection ahead.",
+   "Give right-of-way to vehicles from your right and then from your left."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 429,
+  "category": "signs",
+  "question": "Is it specified by the following road sign which rules for giving right-of-way should be applied?",
+  "answers": [
+   "Yes. You have right-of-way since you are driving in the main road.",
+   "No. Right-of-way is determined according to lawful right-of-way rules or according to the traffic signs that are placed in the intersection.",
+   "Yes. According to this sign, right-of-way should be given to vehicles that come from the right only.",
+   "Yes. Right-of-way should be given to vehicles that come from the right and from the left."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 430,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Cross the roundabout from its left.",
+   "The drivers inside the roundabout should yield when you enter it.",
+   "Roundabout ahead.",
+   "No right-of-way in the next square."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 431,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Enter the roundabout carefully since you have right-of-way.",
+   "Pay attention to traffic coming from your right within the roundabout.",
+   "Stop before entering the roundabout and cross it quickly.",
+   "Slow down before the roundabout."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 432,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Maintain your current speed.",
+   "Drive faster in order to clear the intersection.",
+   "Portable traffic sign ahead.",
+   "Caution, traffic light ahead."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 433,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Drive faster when yellow light is displayed by the sign.",
+   "Always stop before the intersection with traffic lights.",
+   "Continue driving carefully and obey the traffic light.",
+   "Ignore this sign, as it obligates public vehicle drivers only."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 434,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Crossroad ahead.",
+   "Merging of a roadway having right-of-way with a side road to its right (turning to the side road is allowed).",
+   "You are approaching a side road merging from the right (turning right is prohibited). You have right-of-way over traffic coming from the side road.",
+   "Give right-of-way to traffic coming from the road that merges from the right."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 435,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Continue driving, pay attention to vehicles merging from your left.",
+   "Change lane and allow approaching vehicles from the right to merge.",
+   "Give right-of-way to vehicles merging from your right.",
+   "Slow down and give right-of-way to vehicles merging from your right."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 436,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic signs?",
+  "answers": [
+   "You are merging with a roadway from the left. Give right-of-way and don’t turn left.",
+   "T-Intersection. It is allowed to turn to the side road.",
+   "Dead-end road ahead. Entry to this road is forbidden.",
+   "It is always required to make a complete stop and give right-of-way to merging traffic from the right."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 437,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Drive faster. Vehicles in the road you are entering should give you right-of-way.",
+   "Give right-of-way to vehicle traffic on the crossing road, from both directions.",
+   "Give right of way and carefully merge with the traffic in the road to your left.",
+   "You are driving in an acceleration lane. Merge quickly with vehicle traffic in the road you are entering."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 438,
+  "category": "signs",
+  "question": "Is there any reference in the following road sign to the giving of right-of-way?",
+  "answers": [
+   "No. Only instruction signs refer to the giving of right-of-way.",
+   "No. The sign belongs to the instruction signs group and is not, as far as right-of-way rules are concerned, obligatory.",
+   "Yes. You should give right-of-way to vehicle traffic on the road ahead.",
+   "No. This is a warning sign which doesn’t come to replace any right-of-way sign."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 439,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Careful, danger of sliding.",
+   "Traffic congestion ahead (illuminated sign).",
+   "Careful, men at work.",
+   "Caution! Keep distance."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 440,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Prepare to slow down, if necessary. Pay attention to traffic congestion and adjust your driving to the traffic and to the road’s conditions.",
+   "Continue driving and be alert about the conduct of other vehicles from your right.",
+   "Obey the instructions of road workers and proceed according to the markings.",
+   "Drive faster and overtake slow vehicles."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 441,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Railway crossing with more than one track.",
+   "Railway crossing ahead.",
+   "Warning sign before a train station.",
+   "Warning sign, 500 meters before a railway crossing."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 442,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "When you approach railway tracks – honk, open a window and listen to the train’s noise.",
+   "Always stop before railway tracks, look to the right and to the left and continue driving.",
+   "Slow down and prepare to stop if necessary before the railway tracks.",
+   "Cross the railway tracks quickly."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 443,
+  "category": "signs",
+  "question": "What is required by the following road sign?",
+  "answers": [
+   "Stop and be given right-of-way by traffic in the road that crosses.",
+   "The drivers in the road that crosses should give right-of-way.",
+   "Give right-of-way to vehicles coming from your right only.",
+   "Give right-of-way to traffic crossing on the road ahead."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 444,
+  "category": "safety",
+  "question": "What is a reasonable speed on a freeway(Motorway)?",
+  "answers": [
+   "A speed that takes into account traffic conditions, and that doesn’t exceed the permitted speed limit on that road.",
+   "In any case, not less that the allowed speed limit.",
+   "A speed that gives you maximum drive range, provided that it doesn’t exceed the speed limit.",
+   "At the driver’s discretion, provided that it doesn’t exceed the allowed speed limit."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 445,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Careful, electric bus ahead.",
+   "Careful! Local train ( or tram) crosses in both direction on the road ahead.",
+   "Careful, railway crossing.",
+   "Passenger train station."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 446,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Slow down and follow the right-of-way rules at the crossing area.",
+   "Stop and give right-of-way to a light rail.",
+   "Continue driving normally. You have right-of-way in the crossing area.",
+   "Drive carefully and do not cross any light-rail track."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 447,
+  "category": "signs",
+  "question": "When you are driving in a roadway and there is an unbroken separation line marked to your left accompanied by a broken line to its left:",
+  "answers": [
+   "You are forbidden to cross the separation line.",
+   "You are allowed to cross the lines, but vehicle traffic from the opposite side is forbidden to cross.",
+   "You are allowed to cross the lines with two wheels only.",
+   "You are allowed to cross the lines carefully."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 448,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Prepare for a possible braking, deviation or stopping due to falling rocks.",
+   "Dangerous descent, shift to low gear.",
+   "Stop and take another (alternative) road.",
+   "Drive faster to avoid falling rocks."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 449,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Approx. 100 meters to railway crossing.",
+   "Approx. 300 meters to railway crossing.",
+   "Approx. 30 meters to railway crossing.",
+   "Approx. 150 meters to railway crossing."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 450,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Slow down and prepare for a possible stop if necessary, before the railway tracks.",
+   "Stop 2 meters before the railway tracks and check if a train is approaching.",
+   "Drive faster and quickly cross the railway tracks.",
+   "If you see the train’s lights, stop 30 meters before the railway tracks."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 451,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "A distance of about 250 meters to an approaching level crossing.",
+   "It is prohibited to stop within a distance of 120 meters before the railway tracks.",
+   "A distance of about 70 meters to an approaching level crossing.",
+   "Approach to a level crossing. Approx 200metres before the crossing"
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 452,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "If you see the train’s lights, stop 20 meters before the crossing.",
+   "Slow down and prepare to stop before the crossing, if necessary.",
+   "Drive faster and cross the railway tracks.",
+   "Stop at a distance of 12 meters from the railway tracks to check if a train is approaching."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 453,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "If you see the train’s lights, stop six meters before the crossing.",
+   "A distance of about 170 meters to an approaching level crossing.",
+   "A distance of approx. 100 meters on approach to a level crossing.",
+   "A distance of about 250 meters to an approaching level crossing."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 454,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "A distance of about 250 meters to an approaching level crossing.",
+   "You should always stop at a distance of one meter before the level crossing.",
+   "Slow down and stop. Railway tracks 50 meters ahead.",
+   "Slow down and prepare to stop before the level crossing, if necessary."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 455,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "If you see the train’s lights, stop 20 meters before the crossing and don’t try to overtake.",
+   "Overtaking is prohibited, from the signpost until after the level crossing.",
+   "Stop at a distance of one meter at least before the tracks and check whether another vehicle is trying to overtake you.",
+   "Drive faster and cross the railway tracks as quickly as possible. Complete the overtaking maneuver after the crossing."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 456,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Crossroad ahead.",
+   "Level crossing, two tracks.",
+   "Level crossing, one track.",
+   "Road-Works site."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 457,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Prepare to stop before the intersection.",
+   "Always stop before the railway tracks.",
+   "Slow down and even stop before the crossing.",
+   "When the barrier’s lights are flickering, drive faster and cross the railway tracks."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 458,
+  "category": "signs",
+  "question": "How should you conduct yourself, from the place of the following sign until after the railway tracks?",
+  "answers": [
+   "Stop after the signpost and look left and right.",
+   "Slow down and cross the railway tracks at a constant speed. Don’t stop whilst on the tracks.",
+   "Give right-of-way to traffic coming from your opposite direction.",
+   "Cross the railway tracks quickly."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 459,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "You are approaching a train station.",
+   "Level-crossing with train traffic in both directions.",
+   "Careful! railway barrier.",
+   "Level crossing, more than one track."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 460,
+  "category": "signs",
+  "question": "How should you conduct yourself from the place of the following sign until after the railway tracks?",
+  "answers": [
+   "Cross the railway tracks quickly.",
+   "Slow down and stop before the railway tracks, until the train passes.",
+   "Slow down, check and verify that you can cross the railway tracks in a constant and uninterrupted drive. Don’t stop on the tracks.",
+   "Stop and wait for the instructions of a signaler/flagman."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 461,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "“Stop” sign ahead.",
+   "“Right-of-way” sign ahead.",
+   "Give right-of-way in the roundabout before you.",
+   "A distance of about 150 meters to an approaching roundabout."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 462,
+  "category": "signs",
+  "question": "Which traffic sign should be placed at an intersection, after passing traffic sign 139 that is displayed in the following picture?",
+  "answers": [
+   "303",
+   "307",
+   "302",
+   "301"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 463,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Stop before the signpost.",
+   "Give right-of-way to vehicle traffic in the roundabout.",
+   "Prepare to stop your vehicle at the nearest junction.. Stopping at the junction is obligatory",
+   "Prepare to stop the vehicle in about 300 meters."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 464,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Dangerous ascent.",
+   "Steep ascent.",
+   "Dead-end roadway.",
+   "Steep descent."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 465,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Use the brakes only.",
+   "Slow down and shift to low gear. Refrain from prolonged brake use.",
+   "Drive faster in the ascent by shifting to high gear.",
+   "Drive faster and shift to high gear."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 466,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Left curve followed by a right curve.",
+   "Rough road.",
+   "Drive in the center of the road.",
+   "Danger of skidding."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 467,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Drive fast in the right lane.",
+   "Slow down gently and refrain from sudden braking or sharp turns.",
+   "Shift into high gear.",
+   "Drive in the right lane and overtake quickly."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 468,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Caution! Pedestrian path.",
+   "Pedestrian crossing ahead.",
+   "Zebra crossing for children only.",
+   "Caution! Children nearby."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 469,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Stop and allow children who started to cross a pedestrian crossing to finish crossing.",
+   "Keep driving, even if pedestrians are crossing.",
+   "Always stop and allow children and elderly people to arrive to the pedestrian crossing and to safely cross it.",
+   "Slow down and be aware of pedestrians on the zebra crossing ahead."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 470,
+  "category": "signs",
+  "question": "Which traffic sign should be placed following traffic sign 135 shown in the picture?",
+  "answers": [
+   "901",
+   "306",
+   "413",
+   "226"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 471,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Zebra crossing for children only.",
+   "Pedestrians nearby.",
+   "Pedestrian path.",
+   "Children nearby."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 472,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Slow down and be ready to brake or turn to avoid the pedestrians in the vicinity.",
+   "Give right-of-way to traffic from the opposite direction.",
+   "Drive faster and cross the place quickly.",
+   "Honk continuously before the road sign."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 473,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Two-way traffic on the road ahead.",
+   "Entry to the boundaries of an urban road/s.",
+   "Give right-of-way to drivers approaching from the opposite direction.",
+   "You have right-of-way over traffic from the opposite direction."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 474,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Drive normally. The drivers from the opposite direction should give you right-of-way.",
+   "Stay on the right of road and pay attention to incoming traffic from the opposite direction.",
+   "Stay on the right lane because overtaking is prohibited.",
+   "Drive faster in the narrow road section."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 475,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Give right-of-way to all vehicles.",
+   "Be alert, speed camera ahead.",
+   "A hazardous place for which a specific road sign was not designated.",
+   "Careful! dangerous descent."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 476,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Give right-of-way to vehicles and pedestrians.",
+   "Slow down and shift into neutral gear.",
+   "Cross this road-section quickly.",
+   "Slow down and be very cautious. Prepare for a possible sudden braking."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 477,
+  "category": "signs",
+  "question": "A round shaped traffic-sign is:",
+  "answers": [
+   "An instruction sign.",
+   "A direction sign.",
+   "A warning sign.",
+   "An information sign."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 478,
+  "category": "traffic-laws",
+  "question": "Who is responsible for keeping the vehicle roadworthy at all times?",
+  "answers": [
+   "The insurance company.",
+   "The vehicle’s manufacturer or importer.",
+   "The registered owner of the vehicle and the driver.",
+   "The Licensing Office."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 479,
+  "category": "traffic-laws",
+  "question": "What should you do if a vehicle suddenly approaches you while you are being overtaken by another vehicle?",
+  "answers": [
+   "Make a complete abrupt stop in the right lane.",
+   "Deviate as far as possible to the right and do not increase your speed.",
+   "Honk to warn the overtaking driver.",
+   "Drive faster to exit the danger area."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 480,
+  "category": "traffic-laws",
+  "question": "How is a driver required to drive near a group of children?",
+  "answers": [
+   "Stop completely for as long as the children are near the road.",
+   "Continue driving in normal speed, provided that the pavements are wide.",
+   "Slow down, be prepared to stop and even stop if necessary..",
+   "Continue driving in normal speed, provided that he uses the horn to warn the children."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 481,
+  "category": "traffic-laws",
+  "question": "Who are obliged to act cautiously?",
+  "answers": [
+   "All road users.",
+   "Driving students only.",
+   "Only drivers.",
+   "Only pedestrians."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 482,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "The notice above or below the road sign is only intended for vehicles turning in the direction of the arrow.",
+   "Right turn is permitted for restricted vehicles only.",
+   "Right turn is to a one-way street.",
+   "No right turn."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 483,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Steep escent for the next 2,500 meters.",
+   "Steep escent starts in 2,500 meters.",
+   "Steep and winding descent for the next 2,500 meters.",
+   "Steep descent starts in 2,500 meters."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 484,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Beware! Dead spots.",
+   "Beware! Speed restriction bumps on the road ahead.",
+   "Beware ! Rough road.",
+   "Beware ! Obstacles on the road. ."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 485,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Slow down, rough road ahead.",
+   "Slow down because of road-works.",
+   "Slow down and cross the speed bumps With caution.",
+   "Slow down and prepare to bypass obstacles on the road."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 486,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for tractors.",
+   "Give right of way to tractors driving in this road section,",
+   "Beware! Work vehicles and tractors crossing.",
+   "Stop! Only agricultural vehicles are permitted to go through."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 487,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Honk continuously to warn the tractor drivers.",
+   "Give right-of-way to an agricultural vehicle on a freeway.",
+   "Turn-on the lights and stay on the right of the road.",
+   "Slow down as you may encounter a heavy and slow agricultural vehicle."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 488,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Bicycle traffic crossing ahead.",
+   "Careful! Two-wheeled motor vehicle.",
+   "Give right-of-way to bicyclists.",
+   "Bicycle path."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 489,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Stay away from the right edge of the road.",
+   "Slow down as you may encounter cyclists crossingn the road ahead.",
+   "Drive on the left of the road to avoid endangering anybody.",
+   "You have right-of-way. You can continue driving fast."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 490,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Road closed in both directions for all vehicles.",
+   "No entry for motor vehicles (one-way street ahead).",
+   "No entry for non-motor vehicles (one-way street ahead).",
+   "No entry to the lane beneath the sign."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 491,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Information sign: Entry of non-motor vehicles is prohibited in both directions.",
+   "No entry for all vehicles (one way street Oncoming traffic).",
+   "Warning sign: Entry of motor vehicles is prohibited in both directions.",
+   "Two-way street ahead."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 492,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic signs?",
+  "answers": [
+   "No left turn for public vehicles only.",
+   "A turn at the nearest left or nearest right turn is not permitted.",
+   "No left or U-turn.",
+   "No left U-turn only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 493,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "End of overtaking restriction.",
+   "End of overtaking section.",
+   "End of urban road.",
+   "No overtaking for public vehicles only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 494,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No left turn.",
+   "No U-turn to the left during night time only.",
+   "A \"u\" turn at the nearest left turn is forbidden.",
+   "No U-turn to the left and no left turn."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 495,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "You have right-of-way on the narrow road.",
+   "Give right-of-way in a narrow road to traffic from the opposite direction.",
+   "Traffic restrictions on the right of the road.",
+   "Two-way traffic ahead."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 496,
+  "category": "signs",
+  "question": "What are you required to do according to the following road sign?",
+  "answers": [
+   "Avoid driving on the right lane.",
+   "Give right of way to all vehicles coming from the opposite direction.",
+   "Drive faster to cross this section quickly.",
+   "Continue driving in normal speed, you have right of way."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 497,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No overtaking or passing of a restricted vehicle only.",
+   "No overtaking or passing of a motor vehicle with more than 2 wheels.",
+   "No overtaking or bypassing of a public vehicle only.",
+   "No overtaking or passing of a non-motor vehicle with more than six wheels."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 498,
+  "category": "signs",
+  "question": "According to the following road sign, is a motorcycle permitted to overtake a private passenger car?",
+  "answers": [
+   "Yes, but only on a one-way road.",
+   "No.",
+   "Yes, during day-time only.",
+   "Yes."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 499,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No overtaking permitted for commercial vehicles with an all up weight of more than 4,000 kg but may overtake a Motorcycle",
+   "No overtaking or bypassing of motor vehicles for any vehicle with an all up weight of more than eight tons.",
+   "A commercial vehicle with an all up weight of at least 14 tons is permitted to overtake or bypass a motor vehicle with more than 2 wheels.",
+   "No overtaking for vehicles with an all up weight of more than 12 tons."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 500,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "End of urban road.",
+   "End of overtaking restriction.",
+   "End of freeway.",
+   "End of road-section in which trucks are allowed to drive on the road’s “hard shoulder”."
+  ],
+  "correct": 1,
+  "hasImage": true
+ }
+]

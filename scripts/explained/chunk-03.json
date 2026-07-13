@@ -1,0 +1,402 @@
+[
+ {
+  "id": 301,
+  "explanation": "The impairing effect of alcohol depends on the total amount reaching the bloodstream (blood alcohol concentration), not on the type of drink, so a given quantity of alcohol in beer impairs a driver about as much as the same quantity in whisky."
+ },
+ {
+  "id": 302,
+  "explanation": "Beer is an alcoholic beverage, and like any other alcoholic drink its effect on driving ability depends on the amount of alcohol absorbed into the blood, so it impairs a driver's skills in a similar way to other alcoholic drinks."
+ },
+ {
+  "id": 303,
+  "explanation": "Israeli traffic law explicitly makes it an offense to drive under the influence of intoxicating or prohibited drugs, alongside the alcohol restrictions, so the claim that drug-impaired driving isn't prohibited is false."
+ },
+ {
+  "id": 304,
+  "explanation": "A vehicle emitting excessive oil or smoke is defective and unsafe to operate, so the law bars it from the road entirely until repaired, rather than merely limiting its speed or what it may carry."
+ },
+ {
+  "id": 305,
+  "explanation": "Israeli law recognizes a breathalyzer reading as valid evidence of blood alcohol concentration, so its results can be used in court to prove a drunk-driving charge without requiring a separate blood test."
+ },
+ {
+  "id": 306,
+  "explanation": "A police officer who reasonably suspects a driver is under the influence of alcohol or drugs is legally authorized to require a blood test, letting police enforce the impaired-driving laws without first needing a court order."
+ },
+ {
+  "id": 307,
+  "explanation": "Under Israeli law a driver must comply with a police officer's lawful request to give a breath sample or a blood, urine, or saliva sample; refusing such a test is itself an offense, regardless of privacy or dignity arguments."
+ },
+ {
+  "id": 308,
+  "explanation": "Exceeding the legally defined blood alcohol limit is, by itself, the definition of drunk driving under the law, so a driver over that limit is deemed drunk even if no other violation or visibly drunken behavior is involved."
+ },
+ {
+  "id": 309,
+  "explanation": "What matters legally is the driver's resulting blood alcohol concentration compared to the permitted limit, not whether the alcohol came from one type of drink or several mixed together, so sticking to a single drink type doesn't make impaired driving lawful."
+ },
+ {
+  "id": 310,
+  "explanation": "The Stop and Give-way signs are given unique shapes, an octagon and an inverted triangle, unlike other signs, precisely so a driver can identify their meaning from the outline alone even from an odd angle, at a distance, or in poor visibility."
+ },
+ {
+  "id": 311,
+  "explanation": "Alcohol acts as a depressant on the central nervous system, which slows the speed at which a driver perceives a hazard and reacts to it."
+ },
+ {
+  "id": 312,
+  "explanation": "Alcohol impairs judgment and lowers inhibitions, which leads an intoxicated driver to take greater risks, such as speeding or unsafe overtaking, than they would when sober."
+ },
+ {
+  "id": 313,
+  "explanation": "Alcohol disrupts the coordination between the limbs needed to smoothly and precisely operate the pedals and steering wheel together."
+ },
+ {
+  "id": 314,
+  "explanation": "Large quantities of alcohol narrow a driver's peripheral vision and overall field of view, reducing the ability to notice hazards approaching from the sides."
+ },
+ {
+  "id": 315,
+  "explanation": "Alcohol slows the eyes' recovery after being dazzled by oncoming headlights or bright light, leaving the driver effectively unable to see clearly for longer during that critical period."
+ },
+ {
+  "id": 316,
+  "explanation": "Alcohol has a measurable negative effect on eyesight, including how the eyes focus and adapt, which is one of the ways it undermines safe driving."
+ },
+ {
+  "id": 317,
+  "explanation": "Alcohol impairs the brain's ability to judge how far away objects are and how fast they and the driver's own vehicle are moving, which is essential for safe following and overtaking decisions."
+ },
+ {
+  "id": 318,
+  "explanation": "Alcohol has a sedative effect that induces drowsiness, and a drowsy driver reacts more slowly and is prone to lapses in attention."
+ },
+ {
+  "id": 319,
+  "explanation": "Alcohol is a suppressive, depressant drug that slows the nervous system, which directly degrades a driver's ability to notice and respond to events on the road."
+ },
+ {
+  "id": 320,
+  "explanation": "Safety blocks (wheel chocks) are required equipment specifically for heavier motor vehicles, with an all-up weight above 5,000 kg, since such vehicles pose a greater rolling-away hazard when parked, while buses are exempted from this particular requirement."
+ },
+ {
+  "id": 321,
+  "explanation": "Regulations set a maximum overall length of 12 meters for very heavy commercial vehicles, over 12,000 kg permissible weight, balancing cargo capacity against maneuverability and road safety."
+ },
+ {
+  "id": 322,
+  "explanation": "The regulation ties the number of passengers a heavy commercial vehicle (over 3,500 kg) may carry to safety limits beyond the driver's compartment, permitting up to six additional passengers besides those seated next to the driver."
+ },
+ {
+  "id": 323,
+  "explanation": "A change of address must be reported within 15 days to the Ministry of the Interior, since it maintains the population registry to which driver's license and vehicle registration records are tied."
+ },
+ {
+  "id": 324,
+  "explanation": "Speed retarders exist to control a vehicle's speed on long downhill stretches without overusing the service brakes, so the law requires their use specifically where a 'dangerous descent' sign warns of such a slope."
+ },
+ {
+  "id": 325,
+  "explanation": "Excessive cargo weight is a road-safety hazard, so the law empowers a police officer to take immediate administrative action by taking the vehicle off the road for 30 days, rather than requiring a court process first."
+ },
+ {
+  "id": 326,
+  "explanation": "Because both control how a vehicle is loaded, the law places joint responsibility for a cargo's stability and correct weight distribution on the driver as well as the vehicle's owner."
+ },
+ {
+  "id": 327,
+  "explanation": "The Licensing Authority may deny or refuse to renew a license where the applicant is disqualified from driving or has a health condition that could endanger themself or others, since fitness to drive safely is the core requirement for holding a license."
+ },
+ {
+  "id": 328,
+  "explanation": "Driving a tractor in Israel requires a Class 1 license, the license category the law designates for this type of agricultural or work vehicle."
+ },
+ {
+  "id": 329,
+  "explanation": "A Class B license is the category the law designates for driving a motor vehicle with an overall permissible weight of up to 3,500 kg, covering standard private cars."
+ },
+ {
+  "id": 330,
+  "explanation": "A Class B license holder may tow a trailer using an approved towing vehicle only when the trailer's all-up weight does not exceed 1,500 kg, beyond which a higher license class or endorsement is required."
+ },
+ {
+  "id": 331,
+  "explanation": "Driving a security or rescue vehicle requires a specific permit issued by the Licensing Authority, since these vehicles carry special privileges, such as exemptions or priority, that must be authorized centrally."
+ },
+ {
+  "id": 332,
+  "explanation": "The law requires a driver to reduce speed whenever there is imminent danger to life or property, since the duty to drive at a reasonable speed given all circumstances is meant to prevent harm, not just to stay under a numeric limit."
+ },
+ {
+  "id": 333,
+  "explanation": "The minimum age to obtain a Class B driver's license in Israel is 17 years."
+ },
+ {
+  "id": 334,
+  "explanation": "The minimum age to obtain a Class 1 driver's license in Israel is 16 years."
+ },
+ {
+  "id": 335,
+  "explanation": "The Licensing Authority may revoke or suspend an existing license, but only on defined grounds such as the driver's competence or medical fitness to drive, not at its own unrestricted discretion."
+ },
+ {
+  "id": 336,
+  "explanation": "The Licensing Authority is legally empowered to summon a license holder to attend a driving refresher or education course, consistent with the traffic regulations that allow mandatory retraining to improve road safety."
+ },
+ {
+  "id": 337,
+  "explanation": "A driver whose health condition changes in a way that could affect their fitness to drive must report it to the Licensing Authority, which is responsible for assessing whether the driver remains medically fit to hold a license."
+ },
+ {
+  "id": 338,
+  "explanation": "A warning triangle must be placed whenever it becomes necessary to abandon a vehicle on the road, since its purpose is to alert approaching traffic to the unexpected obstruction regardless of how long it remains or where it is located."
+ },
+ {
+  "id": 339,
+  "explanation": "A 'new driver' license is valid for a probationary period of two years, during which the driver is subject to additional restrictions before becoming a fully licensed driver."
+ },
+ {
+  "id": 340,
+  "explanation": "An agricultural machine wider than 340 cm must display a caution wide-vehicle sign at the front and illuminate width-warning lights during lighting-up time, so other drivers can recognize and judge its extra width, especially after dark."
+ },
+ {
+  "id": 341,
+  "explanation": "The Licensing Authority approves a change of vehicle ownership only once satisfied that all fees and taxes are paid and any liens or foreclosures on the vehicle are cleared, protecting both the buyer and any creditors."
+ },
+ {
+  "id": 342,
+  "explanation": "Both the registered owner (seller) and the buyer share legal responsibility for ensuring the ownership change is properly registered, since the transaction isn't complete from a legal standpoint until both parties fulfill their obligations."
+ },
+ {
+  "id": 343,
+  "explanation": "The law requires the Licensing Authority to be informed when a vehicle goes unused for more than a month, since the Authority tracks a vehicle's road-use status for registration and taxation purposes."
+ },
+ {
+  "id": 344,
+  "explanation": "A private passenger car must carry two standard number plates, one at the front and one at the rear, so the vehicle can be identified from either direction."
+ },
+ {
+  "id": 345,
+  "explanation": "The authority to summon a vehicle for a technical roadworthiness examination is given to a Licensing Authority examiner and to a police officer holding a traffic examiner certificate, limiting the power to properly qualified officials."
+ },
+ {
+  "id": 346,
+  "explanation": "When a vehicle examiner or certified traffic-examiner police officer finds technical flaws, they may take the vehicle off the road immediately and confiscate its registration documents, since a defective vehicle poses an ongoing safety risk if left in use."
+ },
+ {
+  "id": 347,
+  "explanation": "Additional lamps may only be installed on a vehicle with the Licensing Authority's approval, since unapproved lighting could dazzle other drivers or fail to meet safety standards."
+ },
+ {
+  "id": 348,
+  "explanation": "The law requires every vehicle to have a properly functioning speedometer at all times, since a driver cannot reliably judge and control their speed, or comply with speed limits, without one."
+ },
+ {
+  "id": 349,
+  "explanation": "The pictured sign marks the point where a taxi-stand designated zone ends, after which the special rules reserved for that stretch of road, such as priority stopping for taxis, no longer apply."
+ },
+ {
+  "id": 350,
+  "explanation": "A one-way street is legally defined as one where vehicles may travel in only a single direction, which distinguishes it from a narrow road, a dead-end, or a street where only public vehicles may use a contraflow direction."
+ },
+ {
+  "id": 351,
+  "explanation": "The law defines 'lighting-up time' broadly as nighttime or any other period when visibility is poor due to weather or other causes, not merely the fixed interval between sunset and sunrise."
+ },
+ {
+  "id": 352,
+  "explanation": "The law requires a fire extinguisher on all vehicles except private cars, tractors, motorcycles, and tri-motorcycles, reflecting the greater fire risk and passenger load of larger commercial and public vehicles."
+ },
+ {
+  "id": 353,
+  "explanation": "The regulation requires a private passenger car to be fitted with a wastebasket of a type approved by the Licensing Authority, aimed at reducing distraction and litter or fire hazards from loose trash inside the vehicle."
+ },
+ {
+  "id": 354,
+  "explanation": "The law prohibits using any visual display device other than the vehicle's own GPS or navigation screen while the vehicle is moving, since such displays would draw the driver's eyes and attention away from the road."
+ },
+ {
+  "id": 355,
+  "explanation": "Among these signs, only the octagonal Stop sign legally compels a driver to come to a complete stop at the stop line before proceeding, unlike a curve-warning sign, a give-way sign, or a merge-warning sign, which only call for caution or yielding."
+ },
+ {
+  "id": 356,
+  "explanation": "The rough or damaged road warning sign tells drivers to adapt their speed and handling to match the poor condition of the road surface ahead, unlike signs warning of a curve, a junction, or a general route marker."
+ },
+ {
+  "id": 357,
+  "explanation": "The default rule when passing a fixed obstruction in the roadway, such as a post or structure, is to keep to its right in line with normal traffic flow, unless a sign specifically instructs the driver to pass on the other side instead."
+ },
+ {
+  "id": 358,
+  "explanation": "The pictured sign is a guidance sign specifically designed to diagram how the number of travel lanes changes ahead, unlike a general road-narrows warning triangle or a two-way-traffic warning sign, neither of which depicts the actual lane layout."
+ },
+ {
+  "id": 359,
+  "explanation": "Restricting entry based on a vehicle's width, rather than the height of its cargo, means the sign bars any vehicle wider than the stated limit no matter how tall or short the load being carried is."
+ },
+ {
+  "id": 360,
+  "explanation": "Warning signs for an upcoming junction type are posted a standard distance in advance, about 150 meters on a non-urban road, so drivers have time to react, with the general junction-shape warning preceding the detailed layout sign placed at the junction itself."
+ },
+ {
+  "id": 361,
+  "explanation": "The pictured sign specifically warns that another road, without right of way, is about to join the road you are travelling on, unlike signs warning of a narrowing road, a lane-count change, or a lane-control instruction."
+ },
+ {
+  "id": 362,
+  "explanation": "Following a speed-bump warning sign, the corresponding road-surface marking is painted directly on the pavement at the location of the bump itself, reinforcing the earlier roadside warning right where the hazard is."
+ },
+ {
+  "id": 363,
+  "explanation": "Both pictured signs are warning signs alerting the driver to a road-surface hazard ahead, a rough surface and a speed bump respectively, and both call for the same response of slowing down and paying closer attention."
+ },
+ {
+  "id": 364,
+  "explanation": "Failing to obey a red light or failing to give right of way is treated as a serious safety violation, so a new driver convicted of it is barred from converting their probationary license into a full license, unlike more minor administrative lapses."
+ },
+ {
+  "id": 365,
+  "explanation": "The pictured sign specifically warns of an approaching T-junction where the side road branches off to the right, distinct from signs marking a left turn, a general junction-priority instruction, or a merge sign."
+ },
+ {
+  "id": 366,
+  "explanation": "The point-based corrective measures the Licensing Authority may impose are administrative and are added on top of whatever penalty a court separately imposes for the same traffic offense, rather than replacing or substituting for the court's sanction."
+ },
+ {
+  "id": 367,
+  "explanation": "This warning sign specifically alerts drivers to an upcoming intersection controlled by traffic lights, distinct from signs for lane control, a different junction type, or a traffic-signal aspect itself."
+ },
+ {
+  "id": 368,
+  "explanation": "This sign specifically warns that pedestrians may be present and walking along or crossing the road ahead, distinct from a crosswalk marker, a pedestrian-only path sign, or a marked-crossing priority sign."
+ },
+ {
+  "id": 369,
+  "explanation": "A general warning triangle alerting drivers to an upcoming roundabout is sometimes posted further back on the approach, before the regulatory give-way sign placed right at the roundabout's entrance that imposes the actual yielding obligation."
+ },
+ {
+  "id": 370,
+  "explanation": "Because the two signs describe the same merge from opposite viewpoints, the road you are merging onto displays the complementary sign warning its drivers that traffic may join from the corresponding side, even though they retain right of way."
+ },
+ {
+  "id": 371,
+  "explanation": "A distance-countdown warning marker is posted roughly 300 meters before a level crossing as the first in a sequence of advance warnings, giving drivers early notice well before reaching the tracks."
+ },
+ {
+  "id": 372,
+  "explanation": "The single-track crossing sign is posted immediately next to the tracks as the last and most specific warning, after the sequence of distance-countdown markers has already alerted the driver from farther back."
+ },
+ {
+  "id": 373,
+  "explanation": "Since one end of a one-way street displays the arrow marking the permitted direction of travel, the opposite end, where entry would go against that flow, must carry the no-entry sign to stop vehicles from entering the wrong way."
+ },
+ {
+  "id": 374,
+  "explanation": "This sign specifically depicts a level crossing with a single railway track, distinguishing it from the sign used where a crossing has multiple tracks or from the distance-countdown warning markers."
+ },
+ {
+  "id": 375,
+  "explanation": "After an advance warning triangle alerts drivers that a pedestrian crossing is coming up, the sign marking the crossing itself is posted at the actual crossing point to establish that pedestrians there have priority."
+ },
+ {
+  "id": 376,
+  "explanation": "This is the sign posted directly at a marked pedestrian crossing to indicate its location and assign right of way to pedestrians there, as opposed to the advance warning triangle that only alerts drivers a crossing is coming up."
+ },
+ {
+  "id": 377,
+  "explanation": "A stop-ahead warning sign is sometimes posted before the regulatory Stop sign itself, giving drivers extra notice of the approaching mandatory stop, particularly where sightlines to the stop sign are limited."
+ },
+ {
+  "id": 378,
+  "explanation": "This warning sign is specifically the one that alerts drivers that the road ahead carries traffic moving in both directions, distinct from signs about lane count, merging, or one-way direction markers."
+ },
+ {
+  "id": 379,
+  "explanation": "Under the point system, a driver with an accumulated total of up to 20 demerit points has those points remain on record, and count toward escalating consequences, for two years from the date of the offense rather than indefinitely."
+ },
+ {
+  "id": 380,
+  "explanation": "By mandating that traffic proceed straight only, this sign rules out any turn at that point, including a left U-turn, whereas the other pictured signs actually instruct or permit a left turn rather than forbidding one."
+ },
+ {
+  "id": 381,
+  "explanation": "This sign marks the point where the road configuration changes from a divided or one-way layout back into ordinary two-way traffic, so the driver must move back to the right-hand side and watch for oncoming vehicles."
+ },
+ {
+  "id": 382,
+  "explanation": "This sign specifically instructs drivers to pass the marked obstruction only on its left side, as distinct from signs allowing passage on either side or requiring passage on the right side only."
+ },
+ {
+  "id": 383,
+  "explanation": "Where one sign marks the start of an expressway-type road, an accompanying supplementary sign is posted alongside it to specify an extra condition that applies on that stretch, since ordinary roads don't carry that additional restriction."
+ },
+ {
+  "id": 384,
+  "explanation": "The two pictured signs serve different roles in the same warning sequence: one is posted in advance to warn that a pedestrian crossing is coming up, while the other is posted directly at the crossing to mark its exact location."
+ },
+ {
+  "id": 385,
+  "explanation": "A speed-limit sign displayed with a diagonal strike-through marks the end of a previously posted special or reduced-speed section, after which the ordinary speed limit for that road resumes."
+ },
+ {
+  "id": 386,
+  "explanation": "A no-overtaking sign displayed with a diagonal strike-through marks the point where that overtaking restriction ends, after which overtaking becomes permitted again."
+ },
+ {
+  "id": 387,
+  "explanation": "This is the specific regulatory sign posted at a roundabout's entrance that imposes the obligation to give way to traffic already circulating inside it, unlike a general give-way triangle, a narrow-road priority sign, or a roundabout warning triangle posted further back."
+ },
+ {
+  "id": 388,
+  "explanation": "A 'restricted (calm) zone' is a residential-type zone where the posted speed limit is capped at 30 km/h, reflecting the greater likelihood of children, pedestrians, and cyclists being present on those streets."
+ },
+ {
+  "id": 389,
+  "explanation": "Parking beside a pedestrian safety guardrail is prohibited by default, because it can block sightlines or safe pedestrian movement at that point, and is only allowed where a specific sign expressly permits it."
+ },
+ {
+  "id": 390,
+  "explanation": "Since the sign at one end of the narrow section tells drivers in that direction that they hold right of way over oncoming traffic, the complementary sign at the opposite end tells drivers coming the other way that they must give way instead."
+ },
+ {
+  "id": 391,
+  "explanation": "A stop hand-signal sign is the one likely to be paired with, and precede, the green go-signal sign, since together they represent the two states of a manually controlled stop-and-go traffic point."
+ },
+ {
+  "id": 392,
+  "explanation": "Before crossing railway tracks at a stop sign, a driver should stop completely, turn off the radio, and open the window to listen as well as look along the tracks, since sound is an important cue alongside sight, especially where the view is limited."
+ },
+ {
+  "id": 393,
+  "explanation": "This is the sign specifically indicating that both stopping and parking are prohibited on that side of the road, unlike a sign that only restricts parking while still allowing brief stopping."
+ },
+ {
+  "id": 394,
+  "explanation": "Overtaking is prohibited within the final distance-countdown zone approaching a level crossing, since a train crossing demands the driver's full attention and no lane-changing maneuvers so close to the tracks."
+ },
+ {
+  "id": 395,
+  "explanation": "This is the sign specifically prohibiting a left turn at the next junction, which applies equally to turning left into a gas station across the path of oncoming traffic, just as it would to any other left turn at that point."
+ },
+ {
+  "id": 396,
+  "explanation": "Unlike most prohibition signs, which automatically expire at the next intersection, this restriction continues beyond that point until its matching cancellation sign explicitly ends it."
+ },
+ {
+  "id": 397,
+  "explanation": "Because this sign closes the road to all vehicles rather than restricting only one direction of travel, the same sign is posted at both ends of the closed segment, since neither entry point permits any vehicle to enter."
+ },
+ {
+  "id": 398,
+  "explanation": "Failing to stop before a level crossing when stopping is mandatory is treated as a serious safety violation, so instead of granting a full license, the law extends the driver's 'new driver' probationary status for a further two years."
+ },
+ {
+  "id": 399,
+  "explanation": "Sending or reading text messages while driving takes the driver's eyes and attention off the road for extended periods, so the law prohibits it outright as an inherently dangerous distraction, however carefully the driver believes they are doing it."
+ },
+ {
+  "id": 400,
+  "explanation": "This is the specific supplementary parking sign that permits a vehicle to park with part of it, two wheels, up on the sidewalk at that location, unlike ordinary parking signs that only apply to the roadway itself."
+ }
+]

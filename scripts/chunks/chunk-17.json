@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1701,
+  "category": "safety",
+  "question": "The risk of skidding on a wet road is greater:",
+  "answers": [
+   "The slower you drive.",
+   "The faster you drive.",
+   "The risk of skidding on a wet road is identical to the risk of skidding on a dry road.",
+   "The newer are the tires."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1702,
+  "category": "vehicle",
+  "question": "An efficient Braking System with ABS:",
+  "answers": [
+   "How braking cancels the ABS.",
+   "Hard braking will cut out the engine.",
+   "Hard braking causes stopping on the spot.",
+   "Hard braking causes vibrations and noise."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1703,
+  "category": "safety",
+  "question": "Which driver  related ability is impaired during fog?",
+  "answers": [
+   "Vehicle acceleration.",
+   "Braking.",
+   "Steering.",
+   "Vision"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1704,
+  "category": "safety",
+  "question": "Accidents that are a result of driver fatigue might occur:",
+  "answers": [
+   "On narrow and winding roads only, and not in straight, wide and comfortable road sections.",
+   "On roads with long and steep descents only.",
+   "When the driver’s level of alertness decreases.",
+   "On roads with long and steep uphill sections only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1705,
+  "category": "safety",
+  "question": "How would you avoid colliding with a vehicle that drives in the same direction  you?",
+  "answers": [
+   "These collisions cannot be avoided.",
+   "Always turn on the distress lights (the four winkers).",
+   "Keep a sufficient distance from the vehicle in the front. and at the side",
+   "Always drive with your headlight turned on."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1706,
+  "category": "vehicle",
+  "question": "When is a blue warning light displayed on the dashboard?",
+  "answers": [
+   "All answers are correct.",
+   "When the high beam is turned on.",
+   "When the low beam is turned on.",
+   "When the parking lights are turned on."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1707,
+  "category": "traffic-laws",
+  "question": "When driving behind a big truck:",
+  "answers": [
+   "When a “general danger” sign is placed, and due to the size of the truck, you should keep from it a distance that is thrice bigger than the statutory distance. .",
+   "Keep a safe distance for safe braking – The law requires a gap of not less than one second.",
+   "Keep a small as possible distance from the vehicle in front.",
+   "Due to the vehicle’s size - Keep a distance that doubles the statutory gap."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1708,
+  "category": "vehicle",
+  "question": "The one of the functions of the grooves in the tyre tread",
+  "answers": [
+   "To facilitate water drainage between the road and the tire and to prevent engine wear.",
+   "To facilitate water drainage between the road and the tire and to maintain tire air pressure,",
+   "To facilitate water drainage between the road and the tire and to prevent tire wear.",
+   "Is too allow water drainage from the tire on wet roads and greater friction and contact with the road.."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 1709,
+  "category": "safety",
+  "question": "Driving at night with the high beam can cause:",
+  "answers": [
+   "It doesn’t disturb other drivers.",
+   "The dazzling ( blinding )of other drivers.",
+   "Damage to the vehicle’s lighting system, particularly to the headlights.",
+   "There is no statutory restriction on the use of the high beam while driving."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1710,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive with a tractor on the sidewalk in order to pass a road obstruction?",
+  "answers": [
+   "Yes, it is permitted to drive on the sidewalk very carefully and in first gear.",
+   "Yes, it is permitted to drive on the sidewalk if the roadway is in a bad condition.",
+   "No, it is prohibited to drive on the sidewalk in order to pass an obstruction.",
+   "Yes, it is permitted to bypass the obstacle through the sidewalk."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1711,
+  "category": "signs",
+  "question": "What is the meaning of the sign?",
+  "answers": [
+   "Portable flashing caution sign situated before a road works.",
+   "Portable flashing sign upon leaving an inter-urban road to enter a motorway (freeway).",
+   "Portable flashing sign for advertising to drivers.",
+   "Portable flashing sign before entering an airport."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1712,
+  "category": "traffic-laws",
+  "question": "Vehicle registration document shall not be issued or renewed for a taxi:",
+  "answers": [
+   "That was manufactured more than 4 years ago.",
+   "After more than 12 years from its day of manufacture",
+   "That was manufactured more than 8 years ago.",
+   "That was manufactured more than 10 years ago."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1713,
+  "category": "traffic-laws",
+  "question": "How is a driver required to conduct himself when the braking system’s check lamp lights-up on the dashboard?",
+  "answers": [
+   "Drive slowly until the garage – not faster than 10 KPH..",
+   "Ignore it and continue driving normally. The light in the check lamp doesn’t serve as proof for any malfunction.",
+   "Wait for the vehicle’s periodic maintenance treatment, and only then check this problem.",
+   "Stop and discontinue driving."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1714,
+  "category": "traffic-laws",
+  "question": "Who is responsible for a vehicle emitting smoke above statutory levels?",
+  "answers": [
+   "The vehicle’s treating garage.",
+   "The driver and the vehicle’s manufacturer.",
+   "The vehicle’s driver.",
+   "The owner of the gas station that sold the fuel."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1715,
+  "category": "safety",
+  "question": "Whilst driving on a rough road, you should:",
+  "answers": [
+   "Slow down and increase your alertness.",
+   "Hold your foot on the clutch pedal continuously to ensure smooth driving.",
+   "Hold your foot on the brake pedal, to be instantly prepared for any occurrence.",
+   "Drive faster to avoid shakings and pits."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1716,
+  "category": "traffic-laws",
+  "question": "An additional passenger is not permitted on a utility tractor unless:",
+  "answers": [
+   "It is stated in the vehicle’s registration document.",
+   "It is listed in the driving license.",
+   "A permit is given by the vehicle’s importer.",
+   "It is listed in the insurance policy."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1717,
+  "category": "traffic-laws",
+  "question": "Whilst driving, it is permitted to take one hand off the wheel for the following purpose only:",
+  "answers": [
+   "Receiving a mobile phone call.",
+   "Change gears.",
+   "Reading or sending an SMS Message.",
+   "Adjusting the passenger seat besides the driver."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1718,
+  "category": "traffic-laws",
+  "question": "When is it permitted to make a left U-turn in an intersection without traffic lights?",
+  "answers": [
+   "Only vehicles driving on more than two wheels are permitted to make the U-turn.",
+   "Only when the turn can be made from the right side of the road, and can be completed without stopping.",
+   "Only when the vehicle is directed by another person.",
+   "When no obstruction to traffic is caused, field of vision is clear and there is no prohibiting road sign."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1719,
+  "category": "safety",
+  "question": "What might be the cause of loss of control of a vehicle?",
+  "answers": [
+   "Driving too fast and not wearing seatbelts.",
+   "Driving too fast, lack of vigilance and being unfamiliar with the vehicle.",
+   "Driving too fast and having non-functional head rests.",
+   "Driving at a reasonable speed and being unfamiliar with the vehicle’s mechanisms only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1720,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive under the influence of sedatives?",
+  "answers": [
+   "Absolutely not, unless it is indicated otherwise in the medication’s prescription.",
+   "Yes, sedatives have no affect on driving.",
+   "It is permitted to take sedation pills half an hour before driving.",
+   "Only if the driver tends to be influenced by a certain medication."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1721,
+  "category": "safety",
+  "question": "The auxiliary (parking/hand) brake is used by the driver:",
+  "answers": [
+   "To reinforce the braking force of the service (foot) brake.",
+   "Only new drivers use the auxiliary brake.",
+   "To assist the driver when he begins driving on a steep uphill climb only.",
+   "To secure his vehicle from any movement."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1722,
+  "category": "traffic-laws",
+  "question": "Driving downhill in neutral gear:",
+  "answers": [
+   "Is permitted and not dangerous.",
+   "Is permitted but dangerous.",
+   "Is forbidden and very dangerous.",
+   "There is no legal reference to it."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1723,
+  "category": "safety",
+  "question": "A road accident is an incident",
+  "answers": [
+   "Unintentional, resulting in injury, including the driver, or property damage, or both.",
+   "An incident that characterizes young drivers only.",
+   "An incident that can always be prevented.",
+   "A premeditated incident resulting in property and infrastructure damage only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1724,
+  "category": "traffic-laws",
+  "question": "What is the speed limit of a bus, other than a minibus on, a Freeway?",
+  "answers": [
+   "70 k.p.h.",
+   "90 k.p.h.",
+   "100 k.p.h.",
+   "80 k.p.h."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1725,
+  "category": "traffic-laws",
+  "question": "A “Private bus” is defined as:",
+  "answers": [
+   "A bus that is not operated on a fixed route.",
+   "A bus that is not a public service vehicle.",
+   "A privately owned bus.",
+   "A bus for touring and traveling purposes only,"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1726,
+  "category": "traffic-laws",
+  "question": "The minimum age to obtain a driver’s license for a Public Service Vehicle is:",
+  "answers": [
+   "23 yrs.",
+   "21 yrs.",
+   "22 yrs.",
+   "20 yrs."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1727,
+  "category": "traffic-laws",
+  "question": "Holder of a Class B driver’s license is also permitted to drive:",
+  "answers": [
+   "A public minibus with an all up weight of up to 3,500 kg.",
+   "Any bus with an all up weight of up to 3,500 kg.",
+   "A private minibus with an all up weight of up to 3,500 kg.",
+   "Any motor vehicle with an all up weight of up to 6,000 kg."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1728,
+  "category": "vehicle",
+  "question": "When you squeeze the motorcycle’s clutch lever:",
+  "answers": [
+   "You disconnect the engine from the gearbox.",
+   "You connect between the engine and the gearbox.",
+   "The motorcycle stops on the place.",
+   "The engine’s fuel consumption increases."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1729,
+  "category": "signs",
+  "question": "Which road sign would follow road sign 716?",
+  "answers": [
+   "708",
+   "711",
+   "710",
+   "709"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1730,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a motorcycle in which a pressure exhaust is installed?",
+  "answers": [
+   "Yes.",
+   "It is only prohibited in private passenger cars.",
+   "Yes, but only if the exhaust was installed by a licensed mechanic.",
+   "Absolutely not."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1731,
+  "category": "signs",
+  "question": "Which road sign would follow road sign 710?",
+  "answers": [
+   "708",
+   "716",
+   "709",
+   "711"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1732,
+  "category": "traffic-laws",
+  "question": "A 17yr. old Israeli born citizen applies for a driving license.Which physician is certified to perform a medical examination for his application?",
+  "answers": [
+   "A physician who has been treating the license applicant for at least five years.",
+   "A physician who has been treating the license applicant for at least two years.",
+   "A physician who has been treating the license applicant for at least seven years.",
+   "A physician who has been treating the applicant for at least three years."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1733,
+  "category": "safety",
+  "question": "What should a motorcycle rider do when he steps on the foot brake, but the foot brake doesn’t function?",
+  "answers": [
+   "He should try to brake by strongly pressing the clutch handle.",
+   "He should try to brake by using the hand brake(front brake) and by shifting into low gear.",
+   "He should brake by shifting to lower gears only.",
+   "He should turn the handlebar to the right in order to brake through the change of the front wheel’s direction."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1734,
+  "category": "safety",
+  "question": "How would you drive a motorcycle on a rough non-urban road?",
+  "answers": [
+   "Drive slower because there is a risk of losing control.",
+   "Drive faster to minimize your stay-time on the rough section.",
+   "Continue driving at the same speed but avoid overtaking.",
+   "If the motorcycle’s tires are new you can continue driving safely at the same speed."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1735,
+  "category": "safety",
+  "question": "When approaching a junction with no traffic signs and you wish to turn right, whilst another vehicle approaches the junction from your opposite direction, you should:",
+  "answers": [
+   "Continue driving carefully.",
+   "Stop and give right of way to the approaching vehicle.",
+   "Slow down and, if needed, stop and give right of way.",
+   "In any case, stop."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1736,
+  "category": "traffic-laws",
+  "question": "Who is responsible for a vehicle parked in a prohibited area?",
+  "answers": [
+   "The vehicle’s owner as listed in its registration document, regardless of who was driving the vehicle at the time the offense was committed.",
+   "The vehicle’s owner as listed in its registration document, unless he can prove the identity of any other driver who committed the offense.",
+   "Complaint would only be filed when it is made clear who was driving the vehicle at the time the offense was committed.",
+   "The rental agency if the vehicle was rented from it."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1737,
+  "category": "traffic-laws",
+  "question": "Mark the correct sentence:",
+  "answers": [
+   "It is prohibited to park a vehicle on a pedestrian crossing or within a distance of 12 meters before it.",
+   "It is permitted to park vehicles on a pedestrian crossing on a non-urban road only.",
+   "It is prohibited to park vehicles within a distance of 20 meters before and after a pedestrian crossing.",
+   "It is prohibited to park vehicles on a pedestrian crossing and within a distance of 20 meters before it."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1738,
+  "category": "safety",
+  "question": "When approaching a vehicle that unloads children, you should:",
+  "answers": [
+   "Slow down and drive cautiously at a low speed.",
+   "Honk and overtake the vehicle from its left side.",
+   "Pull into the “hard shoulders” and pass the vehicle from its right side.",
+   "Overtake it quickly to reduce danger."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1739,
+  "category": "traffic-laws",
+  "question": "When the vehicle in front of you signals about its intention to turn left:",
+  "answers": [
+   "It is prohibited to pass the vehicle from its rights side.",
+   "You may overtake it from the left side only.",
+   "It is prohibited to pass it from either side.",
+   "It is permitted to pass the vehicle on its right side."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1740,
+  "category": "traffic-laws",
+  "question": "Is it permitted to push a vehicle, while its engine is shut-off, into a roadway to which vehicle entry is prohibited?",
+  "answers": [
+   "Yes, when the engine works on neutral gear.",
+   "Yes, but it should be lifted to the sidewalk.",
+   "No. pushing It is the same as driving.",
+   "Yes, when the engine is not working."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1741,
+  "category": "traffic-laws",
+  "question": "Who should you give right of way to at an intersection without traffic signs?",
+  "answers": [
+   "To vehicles turning right or left.",
+   "To vehicles coming from your left.",
+   "To vehicles coming from your right.",
+   "To public vehicles."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1742,
+  "category": "traffic-laws",
+  "question": "It is permitted to make a U-turn:",
+  "answers": [
+   "Only in intersections with traffic lights.",
+   "Only in intersections without traffic lights.",
+   "From all lanes, unless prohibited by a road sign.",
+   "When there is a white unbroken line."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1743,
+  "category": "traffic-laws",
+  "question": "If the roadway is marked with an unbroken separation line accompanied by a dotted line to its left:",
+  "answers": [
+   "An unbroken line with a dotted line to its left mark a separation area.",
+   "It is forbidden to cross these lines.",
+   "A dotted line may only appear on the right side of a white separation line.",
+   "It is permitted to cross the unbroken line for overtaking only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1744,
+  "category": "vehicle",
+  "question": "What is an Electronic Stability Program (ESP) System?",
+  "answers": [
+   "A system that prevents the possibility of a braking system malfunction.",
+   "A system that prevents the possibility of a steering system malfunction.",
+   "A system that prevents loss of control while skidding and keeps the vehicle on course.",
+   "A system that prevents the vehicle’s wheels from locking during an emergency braking, thus maintaining the vehicle’s steering."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1745,
+  "category": "traffic-laws",
+  "question": "When a white unbroken separation line is marked on the roadway, is it permitted to overtake a vehicle that is lawfully driving on the road’s “hard shoulders”?",
+  "answers": [
+   "Yes, but provided that the overtaken vehicle is a motorcycle.",
+   "No, it is prohibited to overtake.",
+   "Yes, but provided that the overtaking vehicle doesn’t cross the unbroken white line with any of its wheels.",
+   "Yes, but only if the overtaking vehicle is slow."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1746,
+  "category": "traffic-laws",
+  "question": "The “hard shoulders” are not designed for vehicle traffic, except for:",
+  "answers": [
+   "Hand propelled vehicles, tractors and slow moving vehicles, which delay the traffic behind them.",
+   "Private vehicles and motorcycles, in order to give right of way to buses.",
+   "All vehicles are prohibited to drive on the “hard shoulders”.",
+   "Taxis, in order to overtake other vehicles."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1747,
+  "category": "traffic-laws",
+  "question": "It prohibited to overtake before a pedestrian crossing:",
+  "answers": [
+   "Always.",
+   "Only on a non-urban road.",
+   "Only on a two-way urban road.",
+   "Only when a “pedestrian crossing ahead” sign is placed."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1748,
+  "category": "traffic-laws",
+  "question": "It is prohibited to park a vehicle less than a distance of:",
+  "answers": [
+   "15 meters after a stop sign.",
+   "15 meters after the intersection.",
+   "12 meters before a pedestrian crossing.",
+   "30 meters after a level crossing."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1749,
+  "category": "traffic-laws",
+  "question": "What is the certified “authority” for issuing bus operation permits?",
+  "answers": [
+   "The district licensing authority.",
+   "The Israel Police Commissioner.",
+   "The Director of the Vehicle Department in the Ministry of Transportation.",
+   "The Inspector of Transport."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1750,
+  "category": "signs",
+  "question": "When a traffic light displays a stable (not flashing) yellow light:",
+  "answers": [
+   "It indicates that the flashing yellow light is about to appear. You should drive faster and clear the intersection immediately.",
+   "It indicates that the flashing green light is about to appear. You should drive faster and clear the intersection immediately.",
+   "It indicates that the red light is about to appear. You should prepare to stop or clear the intersection immediately.",
+   "It indicates that the stable (not flashing) green light is about to appear and you would be able to continue driving."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1751,
+  "category": "traffic-laws",
+  "question": "How are you required to conduct yourself when a traffic light displays a green light but the intersection is blocked by vehicles?",
+  "answers": [
+   "It is prohibited to enter an intersection when the exit is blocked.",
+   "Cross the intersection as quickly as possible.",
+   "Follow the green light and enter the intersection.",
+   "Enter the intersection anyway."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1752,
+  "category": "traffic-laws",
+  "question": "On a narrow roadway, when two vehicles from opposite directions cannot pass together at the same time:",
+  "answers": [
+   "Right of way is given to a vehicle transporting more than 8 passengers.",
+   "Whoever arrives first has right of way.",
+   "The faster vehicle has right of way.",
+   "Both vehicles must keep as much as possible to the right and even pull into the “hard shoulders”."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1753,
+  "category": "traffic-laws",
+  "question": "It is prohibited to stop or park a vehicle before and after a level crossing, within a distance of:",
+  "answers": [
+   "At least 30 meters.",
+   "At least 50 meters.",
+   "At least 25 meters.",
+   "At least 20 meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1754,
+  "category": "safety",
+  "question": "When a rear camera is installed in a vehicle:",
+  "answers": [
+   "It displays the dead spots behind the vehicle.",
+   "It displays the dead spots around the vehicle.",
+   "It displays the dead spots in the vehicle’s front side.",
+   "It displays the dead spots behind the vehicle, while driving forward only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1755,
+  "category": "traffic-laws",
+  "question": "The speed limit of private passenger cars on urban roads (unless indicated otherwise on any traffic sign) is:",
+  "answers": [
+   "50 k.p.h.",
+   "80 k.p.h.",
+   "Up to 40 k.p.h.",
+   "50 k.p.h on a one-way road and 60 k.p.h on a two-way road."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1756,
+  "category": "traffic-laws",
+  "question": "Following a “level crossing” sign that is placed about a 100 meters before the crossing, how would you conduct yourself when a slow vehicle is driving before you?",
+  "answers": [
+   "You are permitted to overtake it.",
+   "You are permitted to overtake it only when the road ahead is clear.",
+   "You are prohibited from overtaking until after the level crossing.",
+   "You are permitted to overtake it only when its speed doesn’t exceed 35 k.p.h."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1757,
+  "category": "traffic-laws",
+  "question": "On a single lane two-way road, when the lanes are divided by an unbroken separation line:",
+  "answers": [
+   "Stopping and parking are unrestricted, unless any appropriate road sign is placed.",
+   "Parking and stopping are prohibited, even on the “hard shoulder”.",
+   "Stopping and parking are permitted in parallel to the sidewalk only.",
+   "Stopping is permitted for buses only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1758,
+  "category": "traffic-laws",
+  "question": "How is a driver required to conduct himself when approaching schools or playgrounds?",
+  "answers": [
+   "Avoid entering the street, except at night time.",
+   "Continue driving normally and pay attention to the pedestrian crossings only.",
+   "Honk continuously to warn children not to jump to the road.",
+   "Slow down and become more alert."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1759,
+  "category": "traffic-laws",
+  "question": "Is it permitted for a bus, which uses a public transportation lane, to overtake an overtaking vehicle?",
+  "answers": [
+   "Yes, but only on inter-urban roads.",
+   "Yes.",
+   "Yes, but only if there are no passengers on the bus.",
+   "Yes, but only if it overtakes a commercial vehicle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1760,
+  "category": "signs",
+  "question": "Which of the following road signs directs traffic to an interchange leading to a Freeway ( motorwat)",
+  "answers": [
+   "616",
+   "617",
+   "615",
+   "613"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1761,
+  "category": "signs",
+  "question": "How would you conduct yourself when a “stop” sign is placed on the right side of a two-lane one-way roadway?",
+  "answers": [
+   "Stop on either of the two lanes.",
+   "Stop if you intend to turn left only.",
+   "Stop if you are on the right lane only.",
+   "Stop if you are on the left lane only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1762,
+  "category": "traffic-laws",
+  "question": "When a vehicle stops before a level crossing:",
+  "answers": [
+   "It is permitted to overtake it, unless there is an unbroken separation line,",
+   "It is permitted to overtake it, unless the roadway’s width is less than 6 meters.",
+   "It is forbidden to overtake it.",
+   "It is only permitted to overtake it in case of a level crossing with a barrier."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1763,
+  "category": "signs",
+  "question": "Is it obligatory to obey a portable traffic sign held by a member of the road safety guards?",
+  "answers": [
+   "Yes, it is a legitimate road sign.",
+   "No, because it was not authorized by the Road Safety Authority.",
+   "No, because its smaller in size than normal traffic signs",
+   "No, it is not a legitimate road sign, but merely a recommendation."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1764,
+  "category": "traffic-laws",
+  "question": "A driver exiting a gas station must give right of way:",
+  "answers": [
+   "To vehicles approaching from his left only.",
+   "To vehicles driving fast.",
+   "To all approaching vehicles on the roadway, from all directions.",
+   "To vehicles approaching from his right only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1765,
+  "category": "safety",
+  "question": "How is a driver required to adjust the vehicle’s head rest?",
+  "answers": [
+   "The upper edge of the head-rest should be aligned with the bottom line of the driver’s neck.",
+   "The lower edge of the head-rest should be aligned with the upper tip of the driver’s head.",
+   "The upper edge of the head-rest should be aligned with the upper tip of the driver’s head.",
+   "Proper adjustment of the driver’s head-rest is of no significance."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1766,
+  "category": "traffic-laws",
+  "question": "It is prohibited to stop, park or stand a vehicle on or before a pedestrian crossing, within a distance of:",
+  "answers": [
+   "20 meters from the crossing.",
+   "15 meters from the crossing.",
+   "12 meters from the crossing.",
+   "24 meters from the crossing."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1767,
+  "category": "traffic-laws",
+  "question": "Which vehicles are permitted to pass other vehicles on their right side?",
+  "answers": [
+   "Vehicles driving on a bus lane.",
+   "It is only permitted when the roadway’s width exceeds 12 meters.",
+   "Only slow vehicles on an urban road.",
+   "Only motorcycles, when the roadway’s width exceeds 6 meters."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1768,
+  "category": "traffic-laws",
+  "question": "What is the correct sentence?",
+  "answers": [
+   "A driver must conduct himself in a way that doesn’t interfere with the right of any other person to fully use the road.",
+   "A vehicle owner is permitted to reserve for himself a parking space next to his place of work.",
+   "A driver approaching a pedestrian crossing is not always required to slow down.",
+   "The duty of care always requires slow driving."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1769,
+  "category": "signs",
+  "question": "How is a pedestrian crossing marked?",
+  "answers": [
+   "306, 811",
+   "135, 136",
+   "901, 707",
+   "413, 226"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1770,
+  "category": "safety",
+  "question": "A cement mixer is:",
+  "answers": [
+   "There is no proper definition for cement mixers.",
+   "An off-road vehicle.",
+   "a commercial truck.",
+   "A special-purpose vehicle."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1771,
+  "category": "traffic-laws",
+  "question": "What is the maximum freight height permitted for a vehicle carrier that has three loading surfaces, one over the other?",
+  "answers": [
+   "5.20 meters.",
+   "5.00 meters.",
+   "4.20 meters.",
+   "4.80 meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1772,
+  "category": "signs",
+  "question": "Can lawful roadway marking be considered as a road sign?",
+  "answers": [
+   "Always.",
+   "Only if it is accompanied by another sign.",
+   "Only within the limits of an urban road.",
+   "Only if it is colored white."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1773,
+  "category": "safety",
+  "question": "A freeway is designated for:",
+  "answers": [
+   "Only Vehicles which are capable and permitted to drive at a speed of 55 k.p.h .",
+   "Motor vehicles which are able to drive at a speed of at least 90 k.p.h.",
+   "Private passenger cars, taxis and buses only.",
+   "Motor vehicles and bicycles."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1774,
+  "category": "traffic-laws",
+  "question": "When is it permitted to turn on the fog lights?",
+  "answers": [
+   "Only in the dark.",
+   "Only in a condition of pouring rain, fog or snow.",
+   "Only during the winter.",
+   "Whenever the driver deems it fit."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1775,
+  "category": "traffic-laws",
+  "question": "Who has the authority to revoke a driving license?",
+  "answers": [
+   "A court of law, the Israel Police, the Road Safety Medical Institute.",
+   "A court of law and the Israel Police only.",
+   "The Licensing Authority, a court of law, the Israel Police.",
+   "The Licensing Authority and a court of law only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1776,
+  "category": "signs",
+  "question": "Is it permitted to drive on a separation area?",
+  "answers": [
+   "Yes, but only in order to cross it.",
+   "No, unless otherwise marked by a traffic sign.",
+   "Yes, always.",
+   "Yes, when the separation area is paved."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1777,
+  "category": "traffic-laws",
+  "question": "Is it permitted to repair a vehicle on the road?",
+  "answers": [
+   "Only if it close to a garage.",
+   "Only if the repair is related to the vehicle’s electricity system.",
+   "The type of repair is not important, as long as the vehicle is not left standing there for more than 12 hours.",
+   "Only a simple repair, provided that no inconvenience is caused to other road users, and the vehicle should not be left standing there for more than 24 hours."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1778,
+  "category": "vehicle",
+  "question": "During the vehicle’s annual test, the licensing facility shall register:",
+  "answers": [
+   "The number of kilometers traveled by the vehicle, as indicated on its odometer.",
+   "The number of traffic offenses perpetrated within the vehicle.",
+   "The number of seatbelts in the vehicle.",
+   "The number of head-rests in the vehicle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1779,
+  "category": "traffic-laws",
+  "question": "In an intersection without traffic lights, are you required to give right of way to vehicles coming from your opposite direction when you are about to turn left?",
+  "answers": [
+   "Only when these vehicles are turning right.",
+   "Always.",
+   "Only when these vehicles are turning left.",
+   "Only when theses vehicles continue driving straight."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1780,
+  "category": "traffic-laws",
+  "question": "On a narrow two-way road with an unbroken separation line dividing the two lanes, how would you conduct yourself when a horse drawn wagon drives before you and the opposite traffic lane is open?",
+  "answers": [
+   "Continue driving slowly behind the wagon.",
+   "Try to overtake the wagon from its right side and drive on the “hard shoulders”.",
+   "Overtake the wagon in accordance with all traffic rules, but only if the road ahead is open.",
+   "Overtake the wagon to prevent traffic delay."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1781,
+  "category": "traffic-laws",
+  "question": "How are you required to overtake a traffic island on a two-way roadway?",
+  "answers": [
+   "Always from the side having more traffic.",
+   "Always from the side of least traffic.",
+   "Always from its left side.",
+   "From its right side, unless instructed otherwise by any traffic sign."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1782,
+  "category": "traffic-laws",
+  "question": "On a steep descent, when driving on a narrow roadway that doesn’t allow 2 vehicles to pass at the same time:",
+  "answers": [
+   "Both vehicles should pull into the “hard shoulders”.",
+   "Right of way should be given to commercial vehicles weighing more than 4 tons.",
+   "The vehicle driving uphill should stop.",
+   "The vehicle driving downhill should give way and stop if necessary."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1783,
+  "category": "traffic-laws",
+  "question": "When there is a “no left turn” sign in an intersection:",
+  "answers": [
+   "It is permitted to make a U-turn when there is an arrow pointing to the right only.",
+   "It is permitted to make a U-turn from any lane.",
+   "It is permitted to make a U-turn when no traffic disturbance is caused and when the U-turn is not prohibited by any traffic sign or marking.",
+   "It is permitted to make a U-turn for private vehicles only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1784,
+  "category": "traffic-laws",
+  "question": "It is prohibited to overtake on a steep hill:",
+  "answers": [
+   "Only when there is a “danger” road sign.",
+   "When your field of vision is limited or obstructed.",
+   "Only when there is a “no overtaking” road sign.",
+   "Overtaking is permitted, provided that the weight of your car exceeds 4 tons."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1785,
+  "category": "traffic-laws",
+  "question": "It is prohibited to overtake before a pedestrian crossing:",
+  "answers": [
+   "Anywhere, neither in urban roads nor in inter-urban roads.",
+   "In any type of road, except in urban two-lane roads.",
+   "When a “pedestrian crossing” blue sign is at place.",
+   "Only when a “pedestrian crossing ahead” road sign is placed."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1786,
+  "category": "traffic-laws",
+  "question": "According to the law an accordian style bus:",
+  "answers": [
+   "Is obliged to display rectangular stickers on rear wall of the bus .",
+   "Is obliged to display two stripes on the rear wall of the bus 4X100 cm.",
+   "Is obliged to display Stickers and stripes.",
+   "Is obliged to display two reflecting stripes and writen on them \"keep distance\"."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1787,
+  "category": "signs",
+  "question": "When a traffic light in a junction displays a flashing green light:",
+  "answers": [
+   "A blinking green light indicates the same as a regular green light; hence it shouldn’t be given any special attention.",
+   "It indicates that the green light is about to turn to yellow, in 3 seconds.",
+   "It indicates that the traffic light is out of order and you should follow the signs that are placed in the intersection.",
+   "It indicates that the light turned green a few moments ago and that you can continue driving."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1788,
+  "category": "traffic-laws",
+  "question": "Is the Licensing Authority (Licensing Bureau) permitted to delay the renewal of a driving license for a person who has a pending fine?",
+  "answers": [
+   "The Licensing Bureau is only permitted to delay renewal if the fine was accompanied by the issuance of demerit points, based on the traffic point system.",
+   "Yes. It is permitted to delay renewal due to fines imposed by any governmental body.",
+   "No. The Licensing Bureau is not permitted to delay license renewal without the consent of the driving license holder.",
+   "Yes, but only if the fine was imposed due to a traffic offense."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1789,
+  "category": "vehicle",
+  "question": "When are you required to check engine oil level?",
+  "answers": [
+   "After starting-up the engine in the morning.",
+   "Before starting-up the engine and on a straight surface.",
+   "At the end of a drive and on a straight surface.",
+   "After starting-up the engine and on a straight surface."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1790,
+  "category": "safety",
+  "question": "Is there a connection between the driver’s judgment and the use of drugs and alcohol?",
+  "answers": [
+   "Alcohol undermines the driver’s judgment, unlike drugs.",
+   "They both have no impact on the driver’s judgment.",
+   "Drugs undermine the driver’s judgment, unlike alcohol.",
+   "They both impair the driver’s judgment."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1791,
+  "category": "safety",
+  "question": "When is there a danger of vehicle skidding?",
+  "answers": [
+   "During fog only.",
+   "On a narrow road, during a steep uphill climb.",
+   "On a dry and hot road.",
+   "During the first rain or when there is mud or oil on the road."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1792,
+  "category": "traffic-laws",
+  "question": "The law allows driving in summer:",
+  "answers": [
+   "All the answers are incorrect.",
+   "When the lights dont work.",
+   "With no windscreen wipers.",
+   "When the treads of the tires are less than 1 mm deep."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1793,
+  "category": "traffic-laws",
+  "question": "A minibus is designed to transport up to:",
+  "answers": [
+   "16 passengers apart from the driver.",
+   "12 passengers besides the driver.",
+   "16 passengers including the driver.",
+   "8 passengers besides the driver."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1794,
+  "category": "traffic-laws",
+  "question": "The all up weight of a minibus:",
+  "answers": [
+   "The law doesn’t restrict the all up weight of a minibus.",
+   "Should not exceed 5,000 kg.",
+   "Should not exceed 4,000 kg.",
+   "Should not exceed 6,000 kg."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1795,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a vehicle (other then an electric vehicle) on the sidewalk?",
+  "answers": [
+   "It is prohibited to clean the sidewalk with a motorcycle.",
+   "Yes, but only for the purpose of cleaning the sidewalk.",
+   "Yes, but only vehicles towing a trailer.",
+   "Yes, but only non-motor vehicles."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1796,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a passenger on a motorcycle while both his legs are on one side of the motorcycle?",
+  "answers": [
+   "Yes, but only while driving on a non-urban roadway.",
+   "No. It is only permitted to carry a passenger that sits astride the motorcycle.",
+   "Yes, but only while driving on a freeway.",
+   "Yes, but only while driving on an urban roadway."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1797,
+  "category": "traffic-laws",
+  "question": "From the answers before you, where especially should a driver slow down?",
+  "answers": [
+   "Whilst driving on an inter-urban road with a built centre divider.",
+   "Whilst driving on an inter-urban road without a built centre divider.",
+   "At the entrance to and whilst driving through a tunnel.",
+   "Whilst driving on an inter-urban road."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1798,
+  "category": "traffic-laws",
+  "question": "From the answers before you, where especially should a driver slow down?",
+  "answers": [
+   "On an inter-urban road.",
+   "In a congested area.",
+   "Whilst driving on a main road.",
+   "Whilst driving on an inter city road without a built central divider."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1799,
+  "category": "traffic-laws",
+  "question": "What’s the type of the vehicle in the picture and what is its statutory all up length?",
+  "answers": [
+   "A veicle conected to a trailer with an all up weight of 16.50 meters.",
+   "A veicle conected to a trailer with an all up weight of 17.60 meters.",
+   "An articulated vehicle with an all up weight of 16.50 meters.",
+   "An articulated vehicle with an all up weight of 17.60 meters."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1800,
+  "category": "traffic-laws",
+  "question": "The maximum height for a vehicle with a double platform, for transporting cars is?",
+  "answers": [
+   "5.20 meters",
+   "4.40 meters",
+   "4.80 meters",
+   "4.50 meters"
+  ],
+  "correct": 1,
+  "hasImage": false
+ }
+]

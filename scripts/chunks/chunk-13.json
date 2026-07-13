@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1301,
+  "category": "traffic-laws",
+  "question": "The width of a commercial vehicle (except for a vehicle with a refrigeration unit) shall not exceed:",
+  "answers": [
+   "2.80 meters.",
+   "3.50 meters.",
+   "2.55 meters.",
+   "2.10 meters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1302,
+  "category": "traffic-laws",
+  "question": "A freight transporting vehicle shall be marked with a “Caution, wide load” sign when:",
+  "answers": [
+   "The freight width is more than 1.80 meters.",
+   "The freight width is more than 2.50 meters.",
+   "The freight width is more than 2.10 meters.",
+   "The freight width is less than 2.40 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1303,
+  "category": "traffic-laws",
+  "question": "When is a driver of a vehicle weighing more than 6,000 kg required to take a half hour brake?",
+  "answers": [
+   "After 4.5 hours of non-stop driving.",
+   "After 6 hours of non-stop driving.",
+   "After a maximum of 4 hours of non-stop driving.",
+   "After 5 hours of non-stop driving."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1304,
+  "category": "traffic-laws",
+  "question": "What is the maximum permitted length of a rigid vehicle?",
+  "answers": [
+   "25.00 meters.",
+   "20.00 meters.",
+   "15.65 meters.",
+   "18.75 meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1305,
+  "category": "traffic-laws",
+  "question": "With is the maximum permitted length of a three-axle commercial vehicle?",
+  "answers": [
+   "11.00 meters.",
+   "15.30 meters.",
+   "12.00 meters.",
+   "11.30 meters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1306,
+  "category": "traffic-laws",
+  "question": "With is the maximum permitted length of a two-axle commercial vehicle?",
+  "answers": [
+   "11.30 meters.",
+   "11.00 meters.",
+   "12.00 meters.",
+   "15.30 meters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1307,
+  "category": "signs",
+  "question": "What is the meaning of this traffic sign?",
+  "answers": [
+   "Authorized parking space for public vehicles.",
+   "Beware, authorized shooting range location.",
+   "You are approaching a local train station.",
+   "City / Settlement / Region center."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 1308,
+  "category": "traffic-laws",
+  "question": "What is the meaning of “permitted load” on a commercial vehicle?",
+  "answers": [
+   "The vehicle’s weight plus the weight of the freight.",
+   "The vehicle’s own weight.",
+   "The maximum weight in Kg that is permitted to be loaded on the vehicle.",
+   "The vehicle’s all up weight."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1309,
+  "category": "traffic-laws",
+  "question": "What is the maximal excessive freight length permitted from the rear of a vehicle with an all up weight that exceeds 15,000kg?",
+  "answers": [
+   "One third the length of the loading platform from the front and also from the back – and only when the freight is in one unit.",
+   "One third of the loading platform from the front and also from the back, for freight that is divided to two.",
+   "Up to one meter in front and up to one meter behind only.",
+   "One third the length of the loading platform – and only when the freight is in one unit."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1310,
+  "category": "traffic-laws",
+  "question": "What is the all up weight of a trailer with 2 axles or more that is designed for transporting a container of any size?",
+  "answers": [
+   "Not less than 29,000 kg.",
+   "At least 25,000 kg.",
+   "Not more than 28,000 kg.",
+   "At least 30,000 kg."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1311,
+  "category": "traffic-laws",
+  "question": "What is a driver required to do when there’s a change in his health condition?",
+  "answers": [
+   "Report about it immediately to the Licensing Bureau via registered mail.",
+   "Report about it to the Licensing Bureau, only if it is a result of an accident.",
+   "Report about it to the Licensing Authority within 15 days.",
+   "Report about it immediately to the Ministry of Health."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1312,
+  "category": "traffic-laws",
+  "question": "The transportation of which freight width requires a permit from a police officer?",
+  "answers": [
+   "A freight width of up to 3.40 meters.",
+   "A freight width of more than 3.40 meters.",
+   "A freight width of up to 2.10 meters.",
+   "A freight width of up to 3.00 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1313,
+  "category": "traffic-laws",
+  "question": "What is the general freight height (from the ground) which requires a permit from a police officer?",
+  "answers": [
+   "Less than 4.20 meters.",
+   "More than 3.80 meters.",
+   "More than 4.80 meters.",
+   "More than 4.00 meters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1314,
+  "category": "traffic-laws",
+  "question": "What is the maximum freight height (when the freight is in one unit) permitted on a commercial vehicle with an all up weight of more than 15,000kg (without a permit from a police officer)?",
+  "answers": [
+   "3.50 meters.",
+   "4.80 meters.",
+   "4.20 meters.",
+   "3.80 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1315,
+  "category": "traffic-laws",
+  "question": "What is the maximum freight height permitted on a commercial vehicle with an all up weight of between 8000 kg to 15,000kg?",
+  "answers": [
+   "3.50 meters.",
+   "4.00 meters.",
+   "3.80 meters.",
+   "3.00 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1316,
+  "category": "traffic-laws",
+  "question": "When should you operate a flashing yellow lamp above the driver’s compartment?",
+  "answers": [
+   "When you are driving a vehicle carrying freight that is wider than the vehicle.",
+   "When you are driving a connected vehicle.",
+   "When you are driving a vehicle with a permitted weight of more than 15,000 kg.",
+   "When the length of the freight or of the vehicle exceeds 20.00 meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1317,
+  "category": "traffic-laws",
+  "question": "A vehicle registration document shall not be issued for a bus or renewed for a bus:",
+  "answers": [
+   "More than 10 years after its manufacture date.",
+   "More than 15 years after its manufacture date.",
+   "More than 8 years after its manufacture date.",
+   "More than 20 years after its manufacture date."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1318,
+  "category": "traffic-laws",
+  "question": "You are driving in the left lane of a one-way road. The driver in the right lane before you slowed down due to a pedestrian crossing the road from right to left. You are close to the pedestrian crossing, and therefore:",
+  "answers": [
+   "You should accelerate and quickly pass the crossing before the pedestrian arrives.",
+   "Use the horn to warn the passenger and quickly pass before him.",
+   "Continue driving normally; the pedestrian should make sure not to do anything risky and not to disturb you.",
+   "You should slow down and allow the pedestrian to finish crossing."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1319,
+  "category": "traffic-laws",
+  "question": "What is the obligatory number of rest days per year for a driver of a commercial vehicle with an all up weight of more than 6,000 kg?",
+  "answers": [
+   "At least two days per month.",
+   "At least 52 days.",
+   "At least 31 days.",
+   "In accordance with the collective labor agreement."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1320,
+  "category": "traffic-laws",
+  "question": "Which type of driver must rest at least 7 consecutive hours before commencing his work day?",
+  "answers": [
+   "Driver of a public service vehicle and of a commercial vehicle that has an all up weight of more than 6,000 kg and that is permitted to carry at least 11 passengers.",
+   "Drivers carrying hazardous materials.",
+   "Every holder of a Class 1 driving license.",
+   "Every holder of a Class B driving license."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1321,
+  "category": "traffic-laws",
+  "question": "What is the meaning of this sign?",
+  "answers": [
+   "Flashing orange light warning of an approaching level crossing.",
+   "Flashing orange light at road works.",
+   "Constant (not flashing) Orange light when traffic lights are not working.",
+   "Constant (not flashing) orange light warning of an approaching forked junction."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1322,
+  "category": "traffic-laws",
+  "question": "Which type of motor vehicle is authorized to carry a freight container?",
+  "answers": [
+   "A work vehicle that is authorized to transport containers.",
+   "A commercial vehicle with an all up weight of more than 15,000 kg, on an urban road only.",
+   "A commercial motor vehicle with a minimum all up weight of 16,000 kg.",
+   "A commercial vehicle with an all up weight of more than 15,000 kg, on an inter-urban road only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1323,
+  "category": "traffic-laws",
+  "question": "When does a vehicle carrying oversize freight require escort?",
+  "answers": [
+   "When the vehicle carries hazardous materials.",
+   "When the width of its freight is more than 3.40 meters.",
+   "When the vehicle was authorized to carry a heavy load.",
+   "When the width of its oversize freight is more than 3 meters and its length is more than by 20 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1324,
+  "category": "traffic-laws",
+  "question": "Which of the following vehicles requires chains and flags (perimeter lighting)?",
+  "answers": [
+   "A vehicle carrying a dust-creating material.",
+   "A vehicle carrying hazardous materials.",
+   "A trailer and a semi-trailer that don’t have a floor and walls.",
+   "A vehicle carrying steel cylinders."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1325,
+  "category": "traffic-laws",
+  "question": "Which of the following vehicles must carry a fire extinguisher?",
+  "answers": [
+   "All motor vehicles, except for private passenger cars, tractors, motorcycles and motorcycle and side-car",
+   "All commercial vehicles, public buses and tractors.",
+   "All motor vehicles with more than two wheels.",
+   "Trucks and public buses only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1326,
+  "category": "traffic-laws",
+  "question": "You want to carry a container on a trailer. What should be the all up weight of the trailer in order to carry a container?",
+  "answers": [
+   "At least 14,000 kg.",
+   "At least 12,000 kg.",
+   "At least 15,000 kg.",
+   "At least 10,000 kg."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1327,
+  "category": "traffic-laws",
+  "question": "Who is responsible for arranging the freight on the vehicle and ensuring that it is intact?",
+  "answers": [
+   "The driver’s employer.",
+   "Only the driver.",
+   "The person loading the freight.",
+   "The registered vehicle owner."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1328,
+  "category": "traffic-laws",
+  "question": "Who is responsible for the proper functioning of the “speed governer” that is installed in the vehicle?",
+  "answers": [
+   "The owner of the transported freight.",
+   "The driver and the vehicle owner.",
+   "The owner of the freight office.",
+   "The owner that is stated in the vehicle’s registration document only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1329,
+  "category": "traffic-laws",
+  "question": "When does the transport of high freight require the approval of a “police officer”?",
+  "answers": [
+   "In a commercial vehicle with an all up weight of up to 15,000 kg, when the height of the freight is more than 4 meters above ground.",
+   "In a commercial vehicle weighing more than 4,000 kg.",
+   "In a commercial vehicle with an all up weight of more than 15,000 kg, when the height of the freight is more than 4.80 meters above ground.",
+   "In a vehicle weighing 1.5 tons, when the height of the freight is more than 2.50 meters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1330,
+  "category": "traffic-laws",
+  "question": "Who is authorized to give permission for carrying oversize freight on a vehicle with an all up weight of more than 15,000 kg?",
+  "answers": [
+   "A police officer only.",
+   "The Licensing Bureau.",
+   "The General Director of the Public Works Department only.",
+   "A traffic safety officer."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1331,
+  "category": "safety",
+  "question": "On which part of the semi trailer is a 6.10 meter long freight container loaded?",
+  "answers": [
+   "On the front part.",
+   "On the rear part.- even when twist locks are absent.",
+   "This type of container should not be carried on a semi-trailer at all.",
+   "On the rear part – and only when appropriate twist locks are used."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1332,
+  "category": "safety",
+  "question": "When you apply the brake pedal during an emergency braking:",
+  "answers": [
+   "The vehicle stops on the spot.",
+   "The vehicle continues to a certain distance until reaching a complete stop.",
+   "The vehicle stops on the spot only when you drive at 50 k.p.h or slower.",
+   "The vehicle’s braking distance is constant, regardless of your driving speed."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1333,
+  "category": "traffic-laws",
+  "question": "A registration document shall not be provided or renewed for a rescue and towing vehicle with an all up weight of up to 16,000 kg:",
+  "answers": [
+   "The law doesn’t restrict the renewal of the registration document of such a vehicle.",
+   "More than 10 years after its manufacture date.",
+   "More than 8 years after its manufacture date.",
+   "More than 19 years after its manufacture date."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1334,
+  "category": "traffic-laws",
+  "question": "What is the maximum freight height (from the road’s surface) that may be carried by a commercial vehicle with an all up weight of up to 3,500kg?",
+  "answers": [
+   "3.5 meters.",
+   "3.0 meters.",
+   "4.0 meters.",
+   "2.5 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1335,
+  "category": "traffic-laws",
+  "question": "What is the maximum freight height (from the road’s surface) that may be carried by a commercial vehicle with an all up weight of up to 8,000kg?",
+  "answers": [
+   "3.50 meters.",
+   "4.00 meters.",
+   "2.50 meters.",
+   "3.00 meters."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1336,
+  "category": "traffic-laws",
+  "question": "What should a driver verify (according to the law) before making a U-turn on a straight road section?",
+  "answers": [
+   "That the vehicle doesn't carry any hazardous material.",
+   "That he starts turning from the farthest right lane.",
+   "That the turn is not made before a hill on the road.",
+   "That he starts turning from the farthest left lane."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1337,
+  "category": "traffic-laws",
+  "question": "When is it obligatory to operate a flashing yellow lamp above the driver’s compartment of a truck?",
+  "answers": [
+   "When the freight’s width is more than 3 meters.",
+   "When the freight’s width is three meters or less.",
+   "When carrying disposable equipment.",
+   "When the freight’s width is more than 2.80 meters."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1338,
+  "category": "traffic-laws",
+  "question": "The “Overall height” of a vehicle is measured:",
+  "answers": [
+   "From the floor of the box until the highest point of the truck.",
+   "From the road’s surface until the vehicle’s highest point (including all its fixtures, and when it is loaded)..",
+   "From the road’s surface until the vehicle’s highest point (including all its fixtures, and when it is not loaded).",
+   "From the road’s surface until the roof of the driver's compartment."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1339,
+  "category": "traffic-laws",
+  "question": "What is “all up weight”?",
+  "answers": [
+   "A vehicle’s own weight, plus the weight of the people and freight that the vehicle is permitted to drive or carry, as approved by the Licensing Authority.",
+   "It is fixed weight: 3,500 kg for light freight; 12,000 kg for medium freight; 15,000 kg for heavy freight.",
+   "A vehicle’s own weight plus the weight of the freight that the vehicle is permitted to carry, as approved by the Licensing Authority, excluding the weight of the driver and passengers.",
+   "A vehicle’s own weight minus the weight of the people and freight it is permitted to drive or carry, as approved by the Licensing Authority."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1340,
+  "category": "traffic-laws",
+  "question": "Define “own weight”:",
+  "answers": [
+   "The vehicle’s weight including all accessories plus fuel, water and oil, excluding driver and freight.",
+   "The vehicle’s weight with freight and with the driver, including the weight of the all accessories plus fuel.",
+   "The vehicle’s volume including all accessories plus fuel, water and oil, excluding driver and freight.",
+   "The vehicle’s weight including all accessories plus fuel, water and oil, including driver and freight."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1341,
+  "category": "traffic-laws",
+  "question": "What is a “desert vehicle”:",
+  "answers": [
+   "A front-wheel drive commercial vehicle, which is indicated as a desert vehicle within the driving license.",
+   "A public vehicle with front –wheel and rear-wheel drive and a standard chassis, which is indicated as a desert vehicle within its registration document.",
+   "Any private vehicle with front-wheel and rear-wheel drive which is indicated as a desert vehicle within its registration document.",
+   "A commercial vehicle which is indicated as a desert vehicle within its registration document."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1342,
+  "category": "traffic-laws",
+  "question": "Define “commercial vehicle”:",
+  "answers": [
+   "A motor vehicle used or designed to carry goods.",
+   "A motor commercial vehicle designed to transport people or carry goods for hire, provided that it is indicated in its registration document.",
+   "A motor vehicle used or designed to carry passengers and goods.",
+   "A motor vehicle used or designed to carry goods, and weighing over 8,000 kg only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1343,
+  "category": "traffic-laws",
+  "question": "What is the maximum speed permitted for work vehicles and commercial vehicles with an all up weight that exceeds 12,000 kg?",
+  "answers": [
+   "Same as any other vehicle on the roadway.",
+   "50 k.p.h on an urban road, and 90 k.p.h on a road with a built diving area;",
+   "40 k.p.h on an urban road, 80 k.p.h on a non-urban road, and 90 k.p.h on a road with a built diving area;",
+   "50 k.p.h on an urban road, and 80 k.p.h on any other type of road;"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1344,
+  "category": "traffic-laws",
+  "question": "The maximum speed limit on a freeway is 110 Kph What vehicles are forbidden to drive this speed?",
+  "answers": [
+   "A commercial vehicle with an all up weight that exceeds 12,000 kg, a work vehicle, a touring vehicle and a \"slow moving\" vehicle.",
+   "A vehicle with an all up weight that exceeds 8,000 kg.",
+   "A commercial vehicle with an all up weight that exceeds 10,000 kg.",
+   "Every vehicle with an all up weight that exceeds 12,000 kg."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1345,
+  "category": "traffic-laws",
+  "question": "Which class of license  is required for driving a commercial motor vehicle with an all up weight of less than 12,000 kg?",
+  "answers": [
+   "B.",
+   "A1.",
+   "D.",
+   "C1."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1346,
+  "category": "traffic-laws",
+  "question": "Which class of license  is required for driving a commercial motor vehicle with an all up weight of more than 12,000 kg?",
+  "answers": [
+   "D.",
+   "C1.",
+   "B.",
+   "C."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1347,
+  "category": "traffic-laws",
+  "question": "The grade of license required to drive a commercial vehicle  weighing more than 3500 kilogram, attached to a trailer with weight of 4000 kilogram:",
+  "answers": [
+   "C1.",
+   "C+E.",
+   "D.",
+   "B."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1348,
+  "category": "signs",
+  "question": "Which of the following road signs marks a \"freeway\"?",
+  "answers": [
+   "Sign 218.",
+   "Sign 216.",
+   "Sign 217.",
+   "Sign 219."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1349,
+  "category": "traffic-laws",
+  "question": "What is a “commercial vehicle”:",
+  "answers": [
+   "Any vehicle that carries passengers or any type of freight.",
+   "A vehicle used alternatively for carrying freights and for transporting passengers for hire.",
+   "A vehicle used or designed to carry freight for hire or to serve for the purpose of the vehicle owner’s occupation.",
+   "Any freight transporting vehicle."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1350,
+  "category": "traffic-laws",
+  "question": "What is a “work vehicle”:",
+  "answers": [
+   "A vehicle that is installed with work equipment and that is not designed to carry freights or transport passengers.",
+   "A vehicle with a driving speed that doesn’t exceed 40 k.p.h, and that is used for road works.",
+   "A vehicle that is designed to transport passengers and is permitted to perform road works.",
+   "A vehicle used for carrying goods for hire."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1351,
+  "category": "traffic-laws",
+  "question": "The law requires a trailer with an all up weight of more than 4,000 kg to have:",
+  "answers": [
+   "An \"additional license plate\" to be installed on the trailer's rear.",
+   "License plates which are twice the size of regular plates.",
+   "A trailer in such a weight doesn't require license plates at all.",
+   "An \"additional license plate\" to be installed on the trailer's front."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1352,
+  "category": "traffic-laws",
+  "question": "For safety reasons, it is required to install light-reflecting plates on the rear wall of a trailer or a semi-trailer. Hence, which of the following sentences is correct?",
+  "answers": [
+   "It is obligatory to install one 30cm X 60cm plate plate at the center of the vehicle’s rear wall.",
+   "It is obligatory to install 2 plates on a vehicle with a width of more than 150cm. The plates’ outside frame should be red and the rest yellow.",
+   "Three red/yellow plates should be installed on vehicles with a width of more than 200cm.",
+   "The plates will only be installed according to the requirements of the Licensing Bureau and in accordance with the directions of the chief examiner."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1353,
+  "category": "traffic-laws",
+  "question": "How would you mark a commercial vehicle with an all up weight of more than 12,500 kg?",
+  "answers": [
+   "With two light-reflecting stripes on the rear bumper.",
+   "It is not obligatory to mark a vehicle that doesn’t have a rear wall with light reflectors.",
+   "With two light-reflecting plates in the rear.",
+   "With 4 light-reflecting stripes, 2 vertical and 2 horizontal."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1354,
+  "category": "traffic-laws",
+  "question": "On a semi-trailer, what is the required distance, , between the driver’s cab and the front wall of the trailer?",
+  "answers": [
+   "A distance allowing free movement of the braking system’s air pipes, and not more than 50cm.",
+   "The distance depends on the length of the cab and the position of the fifth wheel and should not be less than 400 cm.",
+   "A distance in which both can move in all directions without touching each other, and that allows free movement of the connectors during maximal turn.",
+   "The distance between the trailer and the cab should not be more than 150 cm."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1355,
+  "category": "traffic-laws",
+  "question": "What is the fifth wheel on a Semi-trailer?",
+  "answers": [
+   "It is a popular expression meaning the steering wheel.",
+   "A fixture, shaped like a wheel, designed to lift the driver’s compartment during engine treatment.",
+   "A fixture (plate) that is designed to connect between the cab and the trailer.",
+   "It is a spare wheel to replace flat (punctured) tires."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1356,
+  "category": "traffic-laws",
+  "question": "The vehicle’s headlights light the road with:",
+  "answers": [
+   "A uniform white or bright-yellow color.",
+   "Bright white or yellow color, not necessarily in a uniform manner.",
+   "A uniform blue or bright-yellow color.",
+   "A uniform red or bright-yellow color."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1357,
+  "category": "traffic-laws",
+  "question": "What is required from the chains that are installed between the towing vehicle and the trailer?",
+  "answers": [
+   "They should allow the trailer to make a 90 degree or more turn in relation to the towing vehicle.",
+   "They should ground the electric charge (static electricity) that is accumulated in the vehicle while driving.",
+   "They should prevent a 90 degrees angle (the letter “L”) between the towing vehicle and the trailer.",
+   "Their links should be at least 12 mm thick."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1358,
+  "category": "traffic-laws",
+  "question": "In a  vehicle, towing a trailer the distance between the rear part of the towing vehicle and the front part of the trailer should not be more than:",
+  "answers": [
+   "250 cm.",
+   "150 cm.",
+   "400 cm.",
+   "There is no distance restriction between the towing vehicle and the trailer."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1359,
+  "category": "traffic-laws",
+  "question": "Which of the following commercial vehicles must have a towing permit for towing a trailer?",
+  "answers": [
+   "A vehicle with an all up weight of more than 8,000 kg.",
+   "A vehicle with an all up weight of more than 3,500 kg.",
+   "A vehicle with an all up weight of more than 6,000 kg.",
+   "A vehicle with an all up weight of more than 10,000 kg."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1360,
+  "category": "safety",
+  "question": "Which vehicles must be equipped with a fire extinguisher?",
+  "answers": [
+   "Only private passenger cars.",
+   "All motor vehicles, except for private passenger cars, tractors and motorcycles.",
+   "All motor vehicles.",
+   "Only two-wheelers."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1361,
+  "category": "traffic-laws",
+  "question": "Which vehicles must be equipped with chains or cables and lamps during lighting up time?",
+  "answers": [
+   "Every vehicle which carries oversize freight and which requires the approval of a police officer.",
+   "A more than 120cm wide trailer or semi-trailer, without floor and walls, which is designed to carry long freights.",
+   "Vehicles in which the freight sticks out of the loading platform.",
+   "Vehicles with an overall length of more than 20 meters and a width of more than 3 meters."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1362,
+  "category": "traffic-laws",
+  "question": "Safety shoes are obligatory:",
+  "answers": [
+   "In every motor vehicle with an all up weight of more than 5,000 kg, except for buses.",
+   "In semi-trailer trucks and connected vehicles only.",
+   "In every motor vehicle with an all up weight of more than 4,000 kg, except for buses and integral commercial vehicles.",
+   "In every motor vehicle with an all up weight of more than 5,000 kg."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1363,
+  "category": "traffic-laws",
+  "question": "Which types of vehicles must operate distress lights, or place a flashing yellow lamp, if forced to stand on a non-urban road during “light time”?",
+  "answers": [
+   "Commercial vehicles with an all up weight of more than 12,000 kg.",
+   "All vehicles, except for private vehicles and passenger transportation vehicles.",
+   "Commercial vehicles with an all up weight of more than 3,000 kg and buses only.",
+   "All motor vehicles with an all up weight of more than 3,500 kg, buses and working vehicles."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1364,
+  "category": "traffic-laws",
+  "question": "During “lighting up  time”, when weather conditions are good – from which distance is the yellow flashing light of the portable lamp supposed to be seen?",
+  "answers": [
+   "150 meters.",
+   "30 meters.",
+   "100 meters.",
+   "75 meters."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1365,
+  "category": "traffic-laws",
+  "question": "Which of the following commercial vehicles must be equipped with a speed “Governor”?",
+  "answers": [
+   "Commercial vehicles with an all up weight of up to 10,000 kg.",
+   "It is obligatory to install a speed limiter in every commercial vehicle.",
+   "Commercial vehicles with an all up weight of up to 8,000 kg.",
+   "Vehicles with an all up weight of more than 12,000 kg, truck tractors and work vehicles."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1366,
+  "category": "traffic-laws",
+  "question": "Which of the following commercial vehicles must be equipped with mud protectors?",
+  "answers": [
+   "Every vehicle that its rear wheels are not protected by wings, except for tractors and speed restricted vehicles.",
+   "Only commercial vehicles with an all up weight of more than 4,000 kg.",
+   "Only freight carrying vehicles.",
+   "Every vehicle that is used for transportation in bulk."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1367,
+  "category": "traffic-laws",
+  "question": "Which of the following types of vehicles must have a low rear collision protection bumper?",
+  "answers": [
+   "Commercial vehicles with a rear extension that covers 60% of the axle distance.",
+   "Commercial vehicles, trailers and semi-trailers with an all up weight of 3,500 kg or less.",
+   "Connected vehicles, integral commercial vehicles and semi-trailer trucks with an all up weight of more than 15,000 kg.",
+   "Commercial vehicles, trailers and semi-trailers, and work vehicles with an all up weight of more than 3,500 kg."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1368,
+  "category": "traffic-laws",
+  "question": "What is the legal definition of a “public service vehicle”?",
+  "answers": [
+   "A private passenger car that was fitted to transport passengers for hire.",
+   "All public transportation vehicles.",
+   "A vehicle used or designed to be used for transporting passengers for hire.",
+   "A publicly owned vehicle."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1369,
+  "category": "traffic-laws",
+  "question": "The law requires to install a third license plates in these types of vehicles:",
+  "answers": [
+   "Every commercial vehicle with an all up weight of up to 3,500 kg.",
+   "Every commercial vehicle with an all up weight of up to 7,500 kg.",
+   "Trucks with reclining trailers.",
+   "Every commercial vehicle and truck tractors."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1370,
+  "category": "traffic-laws",
+  "question": "Which of the following vehicles must be equipped with a reverse-drive buzzer?",
+  "answers": [
+   "All commercial vehicles must be equipped with this buzzer.",
+   "Vehicles with an all up weight of 12,000 kg or less.",
+   "Vehicles with an all up weight of more than 4,000 kg.",
+   "Commercial vehicles and work vehicles with an all up weight of more than 15,000 kg, tractors and buses."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1371,
+  "category": "traffic-laws",
+  "question": "It is obligatory to fit Extremity (width) side lights:",
+  "answers": [
+   "On a 210cm-or-more wide vehicle.",
+   "Only on connected vehicles or semi-trailers.",
+   "On all commercial vehicles.",
+   "On vehicles with an all up width of 180cm or less."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1372,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to install parking lights on a vehicle that also has Extremity (width) side lights?",
+  "answers": [
+   "Yes, the side lights have a different color and cannot replace the parking lights.",
+   "Yes, parking lights should be installed on all vehicles, regardless of side lights.",
+   "No.",
+   "Yes, it is obligatory - in case the side lights malfunction."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1373,
+  "category": "traffic-laws",
+  "question": "On which of the following trailers and semi-trailers is it obligatory to install an independent brake?",
+  "answers": [
+   "Trailers and semi-trailers with an all up weight of 8,000 kg or more.",
+   "Trailers and semi-trailers with an all up weight that exceeds 19,000 kg.",
+   "It is obligatory to install an independent brake on every trailer and semi-trailer, regardless of weight.",
+   "Trailers and semi-trailers with an all up weight that exceeds 3,000 kg."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1374,
+  "category": "traffic-laws",
+  "question": "On which of the following commercial vehicles is it obligatory to install an ABS wheel-locking prevention system?",
+  "answers": [
+   "Commercial vehicles with an all up weight of 8,000 kg or less.",
+   "Commercial vehicles with an all up weight of 4,000 kg or less.",
+   "Commercial vehicles with an all up weight of 12,000 kg or more.",
+   "Commercial vehicles with an all up weight of 10,000 kg or less."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1375,
+  "category": "traffic-laws",
+  "question": "On which of the following commercial vehicles and work vehicles is it obligatory to have a compression brake (retarder)?",
+  "answers": [
+   "On all of them, regardless of weight.",
+   "On a vehicle weighing at 8,000 kg or more.",
+   "On a vehicle weighing at least 12,000 kg.",
+   "On a vehicle weighing weighing 4,500 kg or more."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1376,
+  "category": "traffic-laws",
+  "question": "Explain the term “service brakes”:",
+  "answers": [
+   "A braking system that acts on all the wheels of a vehicle and allows slowing the vehicle down or stopping it in all road conditions.",
+   "An auxiliary (parking/hand) brake system, designed to prevent accidents, which only acts on the wheels of the rear axle.",
+   "A braking system that only slows the vehicle down during very steep descents, but is not used for stopping.",
+   "A braking system that is working at times of danger only and brakes the vehicle until making a complete stop."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1377,
+  "category": "traffic-laws",
+  "question": "Explain the term “independent brake”:",
+  "answers": [
+   "A device which causes the braking system to operate each wheel independently.",
+   "It is a device operated by the driver during continuous and steep descents.",
+   "A device within the braking system that brakes each wheel independently when the vehicle is slipping.",
+   "A spring loaded device that operates the braking system independently, and that starts operating when the air pressure in the braking system drops below its required level."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1378,
+  "category": "traffic-laws",
+  "question": "What is a “speed retarder”?",
+  "answers": [
+   "An electric or hydraulic mechanism, independent of the vehicle’s braking system, which decelerates the vehicle when operated.",
+   "An electronic system which automatically operates the brakes while driving on a steep decent, thus preventing brake overheating and brake loss.",
+   "A system installed in the vehicle that assists in emergency braking and stops the vehicle on the spot.",
+   "An electric mechanism installed in the braking system that shuts-off the engine and helps the vehicle to maintain constant speed on all roads."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1379,
+  "category": "traffic-laws",
+  "question": "What is a “pedestrian crossing”:",
+  "answers": [
+   "A suspended bridge or a tunnel designated for roadway crossing by pedestrians.",
+   "Every place on the roadway in which pedestrians usually cross.",
+   "A place in which school children cross.",
+   "A roadway section that is designated, by marking or by traffic sign, to permit pedestrian to cross the road. ."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1380,
+  "category": "traffic-laws",
+  "question": "Is the Licensing Authority authorized to permit the use of a vehicle with size and weight which exceed regulations?",
+  "answers": [
+   "No, only a police officer ranked superintendent or higher is allowed to provide such permission.",
+   "Yes, under special conditions.",
+   "Yes, following consultation with the Public Works Department and with the Police.",
+   "No, the Licensing Authority is prohibited to provide any permit against regulations."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1381,
+  "category": "traffic-laws",
+  "question": "A driver wishing to park his vehicle downhill shall:",
+  "answers": [
+   "Turn the front wheels towards the sidewalk and shift to reverse gear (in automatic vehicles – P).",
+   "Turn the front wheels towards the sidewalk and shift to first gear.",
+   "Turn the front wheels towards the sidewalk and shift to neutral gear (in automatic vehicles – N).",
+   "Turn the back wheels towards the sidewalk and shift to neutral gear."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1382,
+  "category": "signs",
+  "question": "What is the meaning of this sign?",
+  "answers": [
+   "Taxi rank. No entry to the street in which the sign is placed.",
+   "The end of the Taxi Rank.",
+   "The beginning of a public bus station.",
+   "Taxi rank. Parking and stopping is forbidden to all other vehicles."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1383,
+  "category": "traffic-laws",
+  "question": "When a driver is approaching a high point or a place in which his field of vision is obstructed, he should:",
+  "answers": [
+   "Continue driving in normal speed.",
+   "Turn on the four winkers (distress lights) to warn other drivers.",
+   "Drive faster and use the road’s “hard shoulders”.",
+   "Slow down and drive at a reasonable speed, which corresponds with his field of vision."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1384,
+  "category": "traffic-laws",
+  "question": "As of November 1st each year, every commercial vehicle with an all up weight exceeding 10,000 kg should carry:",
+  "answers": [
+   "A certification that the lights system functions properly.",
+   "A certificate that it had passed a winter check or an annual test that was conducted on August or afterwards.",
+   "A certification that the steering system functions properly.",
+   "A spedometer calibration certification."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1385,
+  "category": "traffic-laws",
+  "question": "What is the all up weight of a vehicle that is required to have a braking system check at least once every half a year?",
+  "answers": [
+   "16,000 kg or more.",
+   "8,000 kg or more.",
+   "10,000 kg or more.",
+   "12,000 kg or more."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1386,
+  "category": "traffic-laws",
+  "question": "Explain the term “axle” in a vehicle:",
+  "answers": [
+   "Shaft or system of drive shafts running the width of the vehicle, on which the wheels are installed.",
+   "The drive shaft that transmits the rotary motion from the gearbox to the differential.",
+   "A line along the vehicle, from bumper to bumper, which runs parallel to the vehicle's longitudinal axis.",
+   "The back beam of the chassis, to which the towing pin of the truck tractor is connected."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1387,
+  "category": "signs",
+  "question": "Which of the following signs means: Barrier before a level crossing?",
+  "answers": [
+   "404",
+   "403",
+   "113",
+   "511"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1388,
+  "category": "traffic-laws",
+  "question": "Explain the term “gross axle weight”:",
+  "answers": [
+   "The measured pressure at the tips of the chassis connected springs.",
+   "The own weight of each vehicle axle, including the wheels installed on it.",
+   "The overall weight of all the wheels installed on one axle against the road.",
+   "The own weight of the rear axle that includes the differential system."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1389,
+  "category": "safety",
+  "question": "Can unprescribed medications have a negative effect on driving?",
+  "answers": [
+   "Yes, but only in the summer.",
+   "Yes, but only in the winter.",
+   "Yes.",
+   "No."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1390,
+  "category": "signs",
+  "question": "What is the difference between the following signs?",
+  "answers": [
+   "Sign 505 indicates a stop for private buses. Sign 506 indicates a Tramway stop.",
+   "Sign 505 indicates a Tramway Stop. Sign 506 indicates a stop for Public bus transport.",
+   "Sign 505 indicates a stop for Public Transport (Buses). Sign 506 indicates a stop for a Public Tramway.",
+   "Sign 505 indicates a public transport stop on a Motorway (Freeway). Sign 506 indicates a public transport stop."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1391,
+  "category": "traffic-laws",
+  "question": "Which number marks the “wheelbase” of this vehicle?",
+  "answers": [
+   "14",
+   "16",
+   "7",
+   "3"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1392,
+  "category": "traffic-laws",
+  "question": "What is a “commercial vehicle”?",
+  "answers": [
+   "A motor vehicle used or designed to transport goods.",
+   "A vehicle that can only be used for self-transportation.",
+   "A vehicle in which passenger transportation, besides the driver, is prohibited.",
+   "A vehicle designed to carry bulk freight only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1393,
+  "category": "traffic-laws",
+  "question": "According to the driving work hours’ regulation, can freight-handling be accounted as driving?",
+  "answers": [
+   "No. Other than breaks and waiting periods, all other vehicle related activities are not accounted as driving.",
+   "Yes. Freight handling, arranging, loading and unloading is lawfully accounted as driving hours.",
+   "Yes, but not more than one hour a day.",
+   "No. Only actual driving, and not any other vehicle related action, is accounted as driving."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1394,
+  "category": "traffic-laws",
+  "question": "What is the responsibility of the controller of the vehicle as regards to the work and rest hours of the vehicle’s driver?",
+  "answers": [
+   "The controller of the vehicle must not permit the vehicle’s driver to exceed statutory work hours.",
+   "The controller of the vehicle is not responsible for the work and rest hours of the vehicle’s driver. The driver is solely responsible for it.",
+   "The controller of the vehicle may, under the approval of the safety officer, instruct the driver to exceed statutory driving hours.",
+   "The controller of the vehicle is responsible, yet the safety officer of a vehicle fleet may adjust the work and rest hours to meet the requirements, regardless of the law."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1395,
+  "category": "traffic-laws",
+  "question": "What is the correct way of driving downhill?",
+  "answers": [
+   "By shifting to neutral gear, to save on fuel.",
+   "By shifting to one of the gears and continuously stepping on the clutch pedal.",
+   "By shifting to high gear and continuously stepping on the brake pedal.",
+   "By driving in one of the gears."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1396,
+  "category": "traffic-laws",
+  "question": "When is it obligatory to operate the speed retarder while driving downhill?",
+  "answers": [
+   "Only when the slope rate is indicated in the “steep descent” sign.",
+   "In every downhill road section.",
+   "When the slope rate of the descent exceeds 6% and the length of the descent exceeds one kilometer.",
+   "When a “dangerous descent” sign is posted."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1397,
+  "category": "safety",
+  "question": "Is it obligatory to use an appropriate lower gear on every steep descent?",
+  "answers": [
+   "No.",
+   "Only on steep descents of at least one kilometer.",
+   "Yes.",
+   "Only when a “descent ahead” sign is placed at the beginning of the descent."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1398,
+  "category": "traffic-laws",
+  "question": "Is it permitted to stop a vehicle on a freeway?",
+  "answers": [
+   "Yes, but pnly in order to board passengers.",
+   "Yes, but only in order to drop passengers.",
+   "Yes, but only at the side of the road, for driver refreshment purposes.",
+   "No, except for stopping on the “hard shoulder” when the vehicle malfunctions and it is impossible to continue driving,"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1399,
+  "category": "traffic-laws",
+  "question": "What is a “path”?",
+  "answers": [
+   "Part of a road, designated for pedestrians only.",
+   "Road - paved or otherwise - designated for two-wheelers only.",
+   "Part of a road, designated for bicycles only.",
+   "part of a road that is not a roadway and designated for specific users."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1400,
+  "category": "traffic-laws",
+  "question": "While driving during “lighting up  time” in a vehicle with an overall width of 220 cm, is it obligatory to turn-on the “Extremity“ side lights?",
+  "answers": [
+   "Yes.",
+   "No, the side lights are to be used for warning when the vehicle malfunctions and stands on the road.",
+   "Yes, but only from November 1st until March 31st of the following year",
+   "No, the side lights should only be turned-on while the vehicle is standing for any reason."
+  ],
+  "correct": 0,
+  "hasImage": false
+ }
+]

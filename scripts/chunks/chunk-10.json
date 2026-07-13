@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1001,
+  "category": "vehicle",
+  "question": "What is the function of the ABS System?",
+  "answers": [
+   "To shorten the life span of the tires.",
+   "To facilitate softer and milder braking on a wet roadway.",
+   "To maintain the vehicle’s steering and maneuvering abilities during emergency braking.",
+   "To facilitate softer and milder braking on a dry roadway."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1002,
+  "category": "vehicle",
+  "question": "What is the function of the vehicle’s Electronic Stability Program (ESP) System?",
+  "answers": [
+   "To control the engine’s fuel consumption.",
+   "To prevent the wheels from locking.",
+   "To reduce the danger of skidding.",
+   "To reduce the emission of burnt gases from the engine."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1003,
+  "category": "vehicle",
+  "question": "How does the vehicle’s Electronic Stability Program (ESP) System function during dangerous driving conditions?",
+  "answers": [
+   "It checks the tires’ air pressure and activates the hand-brake in order to slow down the vehicle’s speed.",
+   "It controls the engine’s power only.",
+   "It controls the steering wheel.",
+   "It activates the brakes on on all weels seperately and controls the engine’s power."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1004,
+  "category": "vehicle",
+  "question": "What system helps to stabilize the vehicle when it is skidding or in danger of rolling over?",
+  "answers": [
+   "The Electronic Stability Program (ESP) System",
+   "The engine’s fuel consumption control system.",
+   "The signaling system.",
+   "The speed control system."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1005,
+  "category": "vehicle",
+  "question": "Why is it important for the vehicle to have intact bumpers (fenders)?",
+  "answers": [
+   "To give the vehicle an aesthetic look.",
+   "To reduce damage during accidents.",
+   "To avoid relatively minor accidents.",
+   "To prevent damage during serious accidents."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1006,
+  "category": "safety",
+  "question": "How should one drive on a flooded road?",
+  "answers": [
+   "Drive fast on high gear.",
+   "Drive slowly in low gear.",
+   "Drive fast on low gear.",
+   "Drive slowly on high gear."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1007,
+  "category": "signs",
+  "question": "What is the meaning of the signs?",
+  "answers": [
+   "Directional, above the lanes before an interchange on an Inter –urban road or a Motorway (Freeway).",
+   "Directional, to a central area or town.",
+   "Directional, to lanes before a junction, and positioned on the left.",
+   "Directional to lanes before a junction and placed on the right."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1008,
+  "category": "vehicle",
+  "question": "Why is it prohibited to install stiff and protruding accessories inside the passenger compartment?",
+  "answers": [
+   "Because these accessories might injure the passengers and the driver during an accident.",
+   "To prevent any chance of damaging the vehicle’s tires.",
+   "To avoid undermining the passengers’ field of vision while driving backwards.",
+   "Because they disturb the vehicle’s reception of radio transmissions,"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1009,
+  "category": "vehicle",
+  "question": "What is the relation between the vehicle’s air bags and safety belts during an accident?",
+  "answers": [
+   "If seat belts are not buckled, the passengers will be severely struck by the air bags.",
+   "There is no relation between the air bags and the seat belts.",
+   "The air bag only operates when the seat belt is not.",
+   "It is not obligatory to wear seat belts when air bags are installed in the vehicle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1010,
+  "category": "vehicle",
+  "question": "When air bags are installed in a vehicle:",
+  "answers": [
+   "It is unnecessary to install seat belts in that vehicle.",
+   "The seat belts must be fastened at all times when the vehicle is in motion.",
+   "If the airbag system malfunctions, seat belts should not be worn.",
+   "The seat belts should only be worn when the air big system malfunctions."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1011,
+  "category": "vehicle",
+  "question": "What is the SRS (Supplemental Restraint System) airbag system?",
+  "answers": [
+   "It is a system of external airbags that inflate after collision.",
+   "It is an airbag system that balances the vehicle during dangerous turns.",
+   "It is a system that cools the brakes during emergency braking.",
+   "It is a system designed to reduce passenger impact, through the inflation of airbags during collision."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1012,
+  "category": "vehicle",
+  "question": "What factor might undermine seat belt functioning and efficiency   whilst driving?",
+  "answers": [
+   "Exaggerated backward tilting of the seat’.",
+   "Driving on a rough road.",
+   "Driving while wearing few layers of clothes which are too hot.",
+   "Driver tiredness and sleepiness."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1013,
+  "category": "vehicle",
+  "question": "What is the significance of the head rests on the vehicle’s seats during an accident from behind?",
+  "answers": [
+   "They can prevent neck and back pains during long drives.",
+   "They reduce forward and backward head jolting (whiplash).",
+   "They can reduce and prevent passenger knee injuries during frontal collision.",
+   "They can reduce and prevent passenger leg injuries during vehicle roll-over."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1014,
+  "category": "vehicle",
+  "question": "What part of the vehicle reduces whiplash during collision?",
+  "answers": [
+   "The safety belts.",
+   "The rear bumper.",
+   "The head rests of the vehicle’s seats.",
+   "The air bags."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1015,
+  "category": "vehicle",
+  "question": "What are the side effects of using malfunctioning windshield wipers?",
+  "answers": [
+   "Damaging the vehicle’s engine.",
+   "Causing noises in the sound system within the driver’s compartment.",
+   "Impaired windshield visibility, as well as windshield damage.",
+   "Damaging the windshield’s sealing."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1016,
+  "category": "vehicle",
+  "question": "Does the vehicle’s engine have an effect on safe driving?",
+  "answers": [
+   "No, the engine has no effect on safe driving.",
+   "Yes, but the engine’s affect on safety is reflected only when a vehicle starts driving and accelerates.",
+   "Yes, especially for escaping emergency situations.",
+   "No, the engine’s effect is only reflected while driving in reverse."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1017,
+  "category": "vehicle",
+  "question": "By driving correctly and moderately, and maintaining proper tire air pressure:",
+  "answers": [
+   "The tires’ life span is prolonged.",
+   "The engine’s fuel consumption is increased.",
+   "The vehicle can drive faster.",
+   "The engine’s oil consumption is increased."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1018,
+  "category": "vehicle",
+  "question": "When is it recommended to check tire pressure?",
+  "answers": [
+   "After driving, when the tires are hot.",
+   "Only before the vehicle’s annual test.",
+   "The manner of checking air pressure is of no significance.",
+   "Before driving, when the tires are cold."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1019,
+  "category": "vehicle",
+  "question": "What are you required to check when one of the vehicle’s lamps is not working?",
+  "answers": [
+   "The bulb and the fuse connected to it.",
+   "The intactness of the lamp’s lens.",
+   "The functionality of the lights handle.",
+   "The battery’s voltage."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1020,
+  "category": "vehicle",
+  "question": "For what reason might the indicator warning light on the dashboard flash too quickly?",
+  "answers": [
+   "When one of the indicator bulbs is not working or malfunctioning.",
+   "Malfunction of the dashboard.",
+   "Low battery voltage.",
+   "When the signal stick is not positioned properly."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1021,
+  "category": "vehicle",
+  "question": "Which type of bulb would you use when required to change a bulb in the vehicle?",
+  "answers": [
+   "It is permitted to change a bulb in a certified licensing facility only.",
+   "A bulb, stipulated in the manufacturer’s manual.",
+   "It is prohibited to change a bulb without the permission of the treating garage.",
+   "The type of the bulb is unimportant, as long as it works."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1022,
+  "category": "signs",
+  "question": "What is the meaning of this traffic sign?",
+  "answers": [
+   "It is a warning, instruction or prohibitory sign, for public transport only.",
+   "It is a square information sign.",
+   "It is a warning, instruction or prohibitory sign, which conveys a message that is not covered by the provisions of the road sign table.",
+   "It is an unofficial road sign, which conveys various optional guidances."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1023,
+  "category": "vehicle",
+  "question": "What is the implication of driving a vehicle with a broken headlamp lens?",
+  "answers": [
+   "The light beam is not properly focused and other drivers are blinded by it.",
+   "Over-cooling of the lamp bulb.",
+   "Accelerated emptying of the battery.",
+   "Self-blinding of the driver."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1024,
+  "category": "vehicle",
+  "question": "What is the required air pressure of the vehicle’s spare tire?",
+  "answers": [
+   "The average air pressure of all the vehicle’s tires.",
+   "The pressure stated by the manufacturer",
+   "The air pressure of the spare tire is of no importance.",
+   "A pressure equaling the lowest pressure in the vehicle’s tires."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1025,
+  "category": "vehicle",
+  "question": "What is the required air pressure of the vehicle’s tires?",
+  "answers": [
+   "The tire air pressure is not so important.",
+   "According to the instructions of the garage or licensing facility.",
+   "A pressure that provides for the most comfortable driving.",
+   "The pressure should be according to the manufacturer’s manual."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1026,
+  "category": "vehicle",
+  "question": "What is the consequence of tyre pressure that is too low?",
+  "answers": [
+   "Increased driving noise at high speeds.",
+   "Increased wear and tear of the gear box.",
+   "Rapid wear and tear of the steering wheel.",
+   "Accelerated wear and tear of the tyres and reduced vehicle stability."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1027,
+  "category": "vehicle",
+  "question": "What is the consequence of tyre pressure that is too high?",
+  "answers": [
+   "Uneven tire wear and shortened of tyre life.",
+   "It is harder to turn the steering wheel.",
+   "Rapid wear and tear of the steering wheel.",
+   "Longer tire life span and reduced fuel consumption."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1028,
+  "category": "vehicle",
+  "question": "Where can you find information about the vehicle’s required tyre pressure?",
+  "answers": [
+   "Only in a licensed garage.",
+   "In the manufacturer’s manual.",
+   "In the vehicle’s insurance company.",
+   "In the vehicle’s registration document."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1029,
+  "category": "vehicle",
+  "question": "When the tire air pressure is too low, it might cause:",
+  "answers": [
+   "Quick wear and tear of the braking system.",
+   "Easy wheel manipulation.",
+   "Tire overheating.",
+   "Low fuel consumption."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1030,
+  "category": "vehicle",
+  "question": "What is the consequence of tyre pressure that is too low?",
+  "answers": [
+   "Low tire air pressure has no effect on driving.",
+   "Increased driving noise.",
+   "Increased fuel consumption and air pollution.",
+   "Easy-to-turn steering wheel."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1031,
+  "category": "vehicle",
+  "question": "The correct vehicle tire size is:",
+  "answers": [
+   "The size that was determined by the vehicle’s manufacturer.",
+   "The size recommended by the tire professional in the garage (the tire repairman).",
+   "The size that was determined by the tire manufacturer.",
+   "The size that appears to be most suitable for the vehicle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1032,
+  "category": "vehicle",
+  "question": "What is the permitted tyre size for a vehicle?",
+  "answers": [
+   "As determined by the tire manufacturer.",
+   "Any size of tire, as long as all the vehicle tires are of the same size.",
+   "As approved by a licensed garage.",
+   "As determined by the manufacturer and noted in the vehicle’s registration document."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1033,
+  "category": "vehicle",
+  "question": "What are you required to do after changing a wheel?",
+  "answers": [
+   "There is no need to do anything special.",
+   "Tighten the wheel’s retaining nuts after removing the jack stand, and repeat this procedure after driving 50km.",
+   "Make a general check (of tire properness and your kicking ability) by lightly kicking the tire.",
+   "Check the temperature of the tire before the next drive."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1034,
+  "category": "vehicle",
+  "question": "What is the proper way of checking engine oil level?",
+  "answers": [
+   "By using the engine’s dipstick, when the engine is cold and turned off.",
+   "There is no need to check the engine’s oil, but only to change it in accordance with the manufacturer’s requirements.",
+   "It can only be checked in a licensed garage.",
+   "Only before the vehicle’s annual test."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1035,
+  "category": "vehicle",
+  "question": "Is it permitted to change the size of tires on a vehicle?",
+  "answers": [
+   "Only if it is approved in advance by the Licensing Authority in the Ministry of Transportation.",
+   "Yes, to any size the driver wants, provided that all the vehicle’s wheels are replaced with new ones.",
+   "Yes, if the change is approved by the insurance company.",
+   "Absolutely not."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1036,
+  "category": "signs",
+  "question": "What is the meaning of thr following Road sign.",
+  "answers": [
+   "End of an inter-urban area",
+   "End of an urban area.",
+   "End of parking restrictions for commercial vehicles",
+   "End of parking restrictions on the road or pavement (side-walk)"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1037,
+  "category": "vehicle",
+  "question": "When is it required to exchange the vehicle’s fire extinguisher?",
+  "answers": [
+   "Every other annual test, meaning once every two years.",
+   "When it was fully or partially used, or when its pressure gauge indicates low internal pressure.",
+   "Every year, before the vehicle’s annual test.",
+   "When you cannot hear the material moving inside the fire extinguisher."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1038,
+  "category": "vehicle",
+  "question": "When is it recommended to check the tire air pressure?",
+  "answers": [
+   "When the tires are hot.",
+   "When the tires are cold.",
+   "Once a year.",
+   "Before every periodic treatment."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1039,
+  "category": "vehicle",
+  "question": "What are the risks of driving a vehicle with a leaking engine exhaust system?",
+  "answers": [
+   "Engine over-heating.",
+   "The penetration of burnt gases to the passenger compartment, which might cause loss of consciousness.",
+   "It might harm nearby vehicles.",
+   "There is no risk in driving a vehicle with a leaking emission system."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1040,
+  "category": "vehicle",
+  "question": "What should you pay attention to whilst parking in a closed parking lgarage?",
+  "answers": [
+   "The engine should continue running for at least 20 minutes, until it cools down.",
+   "The engine should not be left running for a long time, since the parking garaget is poorly ventilated.",
+   "The engine should not be left running for more than half an hour continuously.",
+   "Nothing. There are no restrictions on parking inside a closed parking lot."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1041,
+  "category": "vehicle",
+  "question": "How can we lower the vehicle’s fuel consumption?",
+  "answers": [
+   "Make sure to drive in the lowest gear.",
+   "Fill up the vehicle with a lower octane fuel than required.",
+   "Make as many strong engine accelerations as possible.",
+   "Change gear according to the correct speed and road conditions and avoid high engine revolutions."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1042,
+  "category": "vehicle",
+  "question": "How can we reduce air pollution caused by the vehicle’s gas emissions?",
+  "answers": [
+   "By washing the vehicle’s fuel tank once a month.",
+   "By keeping the engine and its surroundings clean.",
+   "It is impossible to reduce air pollution. It is a constant factor in the vehicle.",
+   "By regular maintenance of the vehicle’s engine and other systems."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1043,
+  "category": "safety",
+  "question": "What is the danger caused by fueling the vehicle while its engine is running?",
+  "answers": [
+   "There is no danger in keeping the engine running during vehicle fueling.",
+   "Combustion of fuel fumes by a spark.",
+   "When the engine is kept running, fuel consumption is increased.",
+   "Engine overheating might flare-up the fuel."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1044,
+  "category": "safety",
+  "question": "What should the driver verify before starting-up the engine?",
+  "answers": [
+   "That the hand (parking) brake is released.",
+   "That the hand (parking) brake is on.",
+   "There is nothing the driver must do before starting-up the engine.",
+   "That the vehicle has a sufficient amount of windshield cleaning fluid in the appropriate compartment."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1045,
+  "category": "vehicle",
+  "question": "What is the function of the vehicle’s auxiliary (parking/hand) brake?",
+  "answers": [
+   "To secure the vehicle from moving or going downhill..",
+   "To assist the driver during a “hill start” only.",
+   "Its use prevents wear of the service brakes (foot brake)?",
+   "To enhance the braking force of the vehicle’s brakes."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1046,
+  "category": "vehicle",
+  "question": "When is it required to check the vehicle’s air polluting emissions?",
+  "answers": [
+   "Vehicles cause no pollution; hence there is no need to perform a check.",
+   "Once a month, in every garage specializing in car electronics only.",
+   "Once every half a year, at the treating garage.",
+   "In the vehicle’s annual test at a licensing facility."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1047,
+  "category": "vehicle",
+  "question": "What danger might be caused due to low air pressure in one of the front wheels?",
+  "answers": [
+   "The steering wheel might be pulled to the direction of the wheel with the higher air pressure.",
+   "There is no danger, as long as the pressure level is at least half of the required pressure.",
+   "There is no risk. The air pressure in the front wheels is of no importance.",
+   "The steering wheel might be pulled to the direction of the wheel with the lower air pressure."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1048,
+  "category": "vehicle",
+  "question": "Which of the vehicle’s systems might cause an uneven wear of the front tires?",
+  "answers": [
+   "The air conditioning system.",
+   "The steering system.",
+   "The braking system.",
+   "The electricity system."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1049,
+  "category": "vehicle",
+  "question": "What might be causing the steering wheel to be pulled, in a non voluntary manner, to either side whilst driving?",
+  "answers": [
+   "A malfunction in the braking system only.",
+   "A malfunction in the vehicle’s engine.",
+   "Low air pressure in one of the back wheels.",
+   "Low air pressure in one of the front wheels."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1050,
+  "category": "vehicle",
+  "question": "What is the correct order of actions while changing a wheel?",
+  "answers": [
+   "Release two nuts, lift the vehicle with the jack stand and then release the nuts completely.",
+   "Loosen the retaining/screw nuts, lift the vehicle with the jack stand, and then completely release all the nuts.",
+   "Lift the vehicle with the jack stand and then release the nuts completely.",
+   "Release the nuts completely and lift the vehicle with the jack stand."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1051,
+  "category": "vehicle",
+  "question": "The required air pressure in the vehicle’s tires:",
+  "answers": [
+   "Is written on a sticker inside the vehicle.",
+   "Is written in the insurance policy.",
+   "Is written in the vehicle’s registration documents.",
+   "Is written in the insurance certificate."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1052,
+  "category": "vehicle",
+  "question": "What is the function of the vehicle’s dashboard( Control panel)",
+  "answers": [
+   "To control and receive information from the vehicle’s different systems.",
+   "The dashboard regulates the engine systems, and prevents tire wear.",
+   "To serve as an additional security measure during frontal collisions.",
+   "To control the sound system in the driver’s compartment only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1053,
+  "category": "signs",
+  "question": "On the road is sign 405 and a motorcycle overtakes a car?",
+  "answers": [
+   "According to the sign both vehicles are prohibited from entering this road.",
+   "According to the sign a motor-cycle is prohibited to overtake a car.",
+   "According to the sign a car is prohibited to overtake a motor-cycle.",
+   "According to the sign overtaking is prohibited."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1054,
+  "category": "safety",
+  "question": "What is the driver required to check before starting to drive?",
+  "answers": [
+   "That none of the dashboard’s (control panel)warning lights are turned on.",
+   "Engine air pressure, cleanliness of windshields and proper function of the air-conditioning system.",
+   "The driver is only supposed to drive the vehicle. All checks should be performed in a garage only.",
+   "Level of windshield cleaning fluid and proper function of the lighting system only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1055,
+  "category": "vehicle",
+  "question": "What should a driver do when he detects a safety failure in the steering wheel or brakes while driving?",
+  "answers": [
+   "Continue driving carefully until the nearest garage.",
+   "He should stop driving only if the failure is in the ignition or fuel system.",
+   "Stop driving immediately.",
+   "Identify the source of the problem and try to overcome it."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1056,
+  "category": "vehicle",
+  "question": "Who is permitted to repair vehicle safety part failures?",
+  "answers": [
+   "Every driver having know-how and experience in the field of vehicle mechanics.",
+   "Every professional in any vehicle repair garage.",
+   "Every driver, as long as he follows the manufacturer’s manual.",
+   "A qualified mechanic at a licensed garage only."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1057,
+  "category": "vehicle",
+  "question": "What is “preventive maintenance” of a vehicle?",
+  "answers": [
+   "Maintenance that prevents the vehicle from driving properly.",
+   "Intermittent and unplanned maintenance, at the driver’s own discretion only.",
+   "Regular and planned maintenance to ensure the proper function of the vehicle and its systems.",
+   "Maintenance of unexpected vehicle failures."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1058,
+  "category": "vehicle",
+  "question": "What is considered as a proper vehicle maintenance frequency?",
+  "answers": [
+   "As required, and according to the pace in which malfunctions are detected in the vehicle.",
+   "At the discretion of the vehicle’s owner only.",
+   "The maintenance frequency recommended by the vehicle’s manufacturer.",
+   "As recommended by the insurance company."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1059,
+  "category": "vehicle",
+  "question": "What will be the result of moderate driving, without performing heavy engine accelerations?",
+  "answers": [
+   "Savings in the vehicle’s electricity consumption.",
+   "Engine fuel consumption savings.",
+   "Driving becomes longer than necessary.",
+   "Engine oil consumption savings."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1060,
+  "category": "safety",
+  "question": "What is a driver required to do after driving through a puddle and dampening the brakes?",
+  "answers": [
+   "He shouldn’t do anything. There is no connection between water and the braking system.",
+   "Drive fast to dry the brakes.",
+   "Tow the vehicle to the nearest garage.",
+   "Drive very slowly until the brakes dry out and resume normal functioning."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1061,
+  "category": "safety",
+  "question": "Why should we avoid running the vehicle’s engine in a closed placed?",
+  "answers": [
+   "Because the emitted burnt gases (exhaust)are toxic.",
+   "To avoid engine over-heating due to poor ventilation.",
+   "There is no need to avoid it, because it is not important whether or not the engine is running in a closed or open place.",
+   "Because the engine cannot be operated in a closed place."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1062,
+  "category": "vehicle",
+  "question": "Which vehicle component (part) engages or disengages the rotational movement from the engine to the gear box?",
+  "answers": [
+   "The battery.",
+   "The wheels.",
+   "The fan.",
+   "The clutch."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1063,
+  "category": "safety",
+  "question": "When is it required to operate the parking (hand) brake whilst parking?",
+  "answers": [
+   "Only when the vehicle is parked on a steep descent.",
+   "Always.",
+   "Only when the vehicle is parked uphill.",
+   "Only on a wet road."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1064,
+  "category": "vehicle",
+  "question": "What is the risk of using the GPS navigation system while driving?",
+  "answers": [
+   "There is no risk in using the GPS navigation system while driving. It is only beneficial.",
+   "Disruption of the engine management systems.",
+   "Driver distraction.",
+   "Fast draining of the vehicle’s battery."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1065,
+  "category": "vehicle",
+  "question": "What is a vehicle GPS navigation system?",
+  "answers": [
+   "A system providing information about vehicle location and assisting the driver to reach his destination.",
+   "An efficiency enhancement sub-system within the steering system.",
+   "A system checking the proper function of the vehicle’s computerized systems.",
+   "A system measuring the vehicle’s fuel consumption."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1066,
+  "category": "vehicle",
+  "question": "Where would you place the jack stand while changing a wheel?",
+  "answers": [
+   "The place is insignificant.",
+   "In the place that was marked by the manufacturer, or in another strong and safe place, close to the wheel you want to replace.",
+   "As close as possible to the vehicle’s rear.",
+   "At the most convenient place for the driver."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1067,
+  "category": "vehicle",
+  "question": "The auxiliary (parking/hand) brake may also be used:",
+  "answers": [
+   "To reduce wear and tear of the braking system.",
+   "As an emergency brake .",
+   "To prevent the vehicle from moving only.",
+   "To assist drivers while driving in reverse."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1068,
+  "category": "vehicle",
+  "question": "When we want to verify that the vehicle’s tire air pressure is correct:",
+  "answers": [
+   "We should take the vehicle to a licensed garage, which is the only place allowed to check tire air pressure.",
+   "We check the air pressure with a tire pressure gauge.",
+   "It is enough to just look at the tires.",
+   "We should take the vehicle to a licensed tire repairman, which is the only one allowed to check tire air pressure."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1069,
+  "category": "vehicle",
+  "question": "Which of the following warning indicators does not require the driver to stop driving when it lights-up?",
+  "answers": [
+   "Engine temperature.",
+   "The fuel level indicator.",
+   "Brakes failure.",
+   "Engine oil pressure."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1070,
+  "category": "traffic-laws",
+  "question": "A bus route permit regulates:",
+  "answers": [
+   "Only the route in which the bus is listed.",
+   "Only the fare of the route service.",
+   "The service on that route.",
+   "The details and size of the bus."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1071,
+  "category": "safety",
+  "question": "Why is a driver required to adjust his sitting position before starting to drive?",
+  "answers": [
+   "To prevent unnecessary leg pains that are a result of prolonged sitting in the driver’s seat.",
+   "To have good control of the vehicle’s operation, instruments and field of vision.",
+   "Only pregnant women are required to adjust their sitting position.",
+   "To have easier access to the radio or cellular phone."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1072,
+  "category": "safety",
+  "question": "What vehicle features should be adjusted in order to ensure a comfortable and safe sitting position?",
+  "answers": [
+   "The side mirrors and the radio stations.",
+   "The seat’s position, the angle of the back rest, and the steering wheel position.",
+   "The head rests and the position of the pedals.",
+   "The seat’s position and the air flow direction from the vents."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1073,
+  "category": "signs",
+  "question": "What is the meaning of the road-sign?",
+  "answers": [
+   "Number of a main road.",
+   "Number of a Motorway (Freeway).",
+   "Distance to the nearest Junction.",
+   "Distance to the nearest road."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1074,
+  "category": "safety",
+  "question": "When there is fog, a part from fog lights.",
+  "answers": [
+   "preferble to drive slowly according to field of vision.",
+   "drive whith high beam.",
+   "obligatory to drive whith emergency lights.",
+   "drive fast whith main bean."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1075,
+  "category": "safety",
+  "question": "How do dirty mirrors affect vehicle safety?",
+  "answers": [
+   "Dirt might damage the safety systems.",
+   "A clean vehicle helps to improve the driver’s concentration and general feeling.",
+   "A dirty vehicle endangers and pollutes its close environment.",
+   "They impair the driver’s vision."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1076,
+  "category": "safety",
+  "question": "A panoramic mirror:",
+  "answers": [
+   "Is hard to adjust.",
+   "Does not correctly reflect the distance of the objects seen in it.",
+   "Is very flexible.",
+   "Is very expensive."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1077,
+  "category": "vehicle",
+  "question": "What safety measures should be taken before lifting the vehicle with a jack stand?",
+  "answers": [
+   "You should prevent vehicle movement (by putting on the hand brake and placing blocks under the wheels) and loosen wheel retaining/screw nuts.",
+   "You should verify that the vehicle stands on a straight and horizontal surface.",
+   "You should shift the gear handle to neutral and release the parking brake.",
+   "You should first lift the vehicle from another corner, to verify that the jack stand is functioning properly."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1078,
+  "category": "signs",
+  "question": "What is the meaning of the road sign?",
+  "answers": [
+   "Early warning to destinations before an Inter urban junction.",
+   "Early warning to destinations before a junction in an urban area.",
+   "Early warning to destination before leaving an Urban area.",
+   "Early warning to destinations before a motor –way (Freeway)."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1079,
+  "category": "vehicle",
+  "question": "What are you required to do when the engine temperature lamp indicates engine overheating?",
+  "answers": [
+   "Continue driving in high speed to achieve strong ventilation that would help to cool down the engine.",
+   "Continue driving slowly to achieve strong ventilation that would help to cool down the engine.",
+   "Shut off the engine, clear passengers away from the place and call for help.",
+   "Stop the vehicle and leave the engine working on medium RPM in order to cool down. If it doesn’t cool down, shut-off the engine."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1080,
+  "category": "vehicle",
+  "question": "What regular vehicle maintenance check-ups should be performed by the driver?",
+  "answers": [
+   "Checking the vehicle’s recent mileage.",
+   "Fluid and oil check, tire air pressure check, and functional check of the lamps and wipers.",
+   "Checking the vehicle’s registrations.",
+   "Fluid check, trunk check, and functionality check of the lamps and wipers."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1081,
+  "category": "vehicle",
+  "question": "The level of which types of fluids is a driver required to check in his vehicle?",
+  "answers": [
+   "Clutch oil and engine oil.",
+   "Steering wheel oil and clutch oil.",
+   "Brake fluid and air-condition gas.",
+   "Engine oil, coolant, brake fluid and windshield cleaning fluid."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1082,
+  "category": "safety",
+  "question": "Which of the following accessories reduces passenger impact severity during an accident?",
+  "answers": [
+   "Seat belts, airbags and head rests.",
+   "Head rests and the brake and clutch pedals.",
+   "Rear windshield wipers and head rests.",
+   "Fog lights and orthopedic seats."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1083,
+  "category": "safety",
+  "question": "On which axle do the tractor’s service brakes act?",
+  "answers": [
+   "The rear axle.",
+   "There are no service brakes in a tractor.",
+   "The front axle.",
+   "On all axles."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1084,
+  "category": "safety",
+  "question": "Which additional system, absent in other types of vehicles, is found in tractors?",
+  "answers": [
+   "A hydraulic system for lifting and operating attachments.",
+   "A standard electro-hydraulic steering system.",
+   "An Air brake system with a condensed air system.",
+   "A hydrostatic differential-lock system."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1085,
+  "category": "safety",
+  "question": "What is the purpose of the level (balanced) movement of the tractor’s front axle?",
+  "answers": [
+   "To improve the tractor’s stability while driving on a surface that is not level.",
+   "To improve the tractor’s stability while driving at an extreme side slope.",
+   "To improve the tractor’s stability while driving on fast roadways and paths.",
+   "To improve driving comfort on roadways and leveled paths."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1086,
+  "category": "safety",
+  "question": "How is a driver of a tractor equipped with a shuvelloader required to conduct while parking?",
+  "answers": [
+   "The loader’s position is not important.",
+   "Leave the loader at the height of the steering wheel in order to balance the tractor.",
+   "Lower the loader to the ground.",
+   "Leave the loader elevated to avoid bumping with it."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1087,
+  "category": "safety",
+  "question": "What determines the maximum weight that can be lifted by the tractor’s hydraulic lift arms?",
+  "answers": [
+   "The hydraulic oil type and the lifted device.",
+   "The maximum air pressure approved by the manufacturer of the tractor’s rear tires.",
+   "The manufacturer’s table, which indicates weight restrictions according to the distance of its center of gravity from the tractor.",
+   "The mechanical condition of the tractor’s engine, pump and hydraulic system."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1088,
+  "category": "safety",
+  "question": "What would happen if the weight exerted on the tractor’s rear hydraulic arms is too high or far away from the tractor?",
+  "answers": [
+   "The front wheels would lift in the air.",
+   "The pressure and load would cause the tractor’s rear wheels to explode.",
+   "The heavy load would damage the hydraulic system.",
+   "The tractor chassis might be seriously damaged."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1089,
+  "category": "traffic-laws",
+  "question": "Why is it required to install a safety frame in a tractor?",
+  "answers": [
+   "To protect operator from high falling objects.",
+   "To protect operator during a collision accident.",
+   "To protect the operator./driver in the event that the tractor rolls over.",
+   "To protect operator while working between trees and branches."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1090,
+  "category": "safety",
+  "question": "How should you do in the event that the tractor rolls over?",
+  "answers": [
+   "Jump off the tractor as quickly as possible when it starts to roll-over.",
+   "Call for help and try to stabilize the tractor during roll-over.",
+   "Hit the brakes and try to reduce the roll-over impact.",
+   "Hold the steering wheel tightly and stay as close as possible to it."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1091,
+  "category": "safety",
+  "question": "Why are tractor wheels being filled with water?",
+  "answers": [
+   "To improve driving quality and comfort on dirt roads.",
+   "To prevent tire overheating during particularly hard works.",
+   "To increase its weight and thus improve the wheels’ traction on the road.",
+   "It is a convenient way to carry water for different purposes while working."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1092,
+  "category": "safety",
+  "question": "For what reason are weights installed on the tractor’s front?",
+  "answers": [
+   "To improve the front wheels’ surface grip.",
+   "To reduce some of the stress on the tractor’s rear axle while lifting loads.",
+   "To improve driving quality and comfort on dirt roads.",
+   "To prevent the tractor’s rear part from jumping while driving at high speed."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1093,
+  "category": "safety",
+  "question": "For what reason are weights installed on the tractor’s front?",
+  "answers": [
+   "To prevent the front part from jumping during high-speed off-road driving.",
+   "To reduce some of the stress on the tractor’s rear axle while lifting loads.",
+   "To improve driving quality and comfort on dirt roads.",
+   "To prevent its front part from elevating while lifting loads from its rear side."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1094,
+  "category": "safety",
+  "question": "What is the function of the tractor’s differential lock?",
+  "answers": [
+   "To assist when one of the tractor’s wheels sinks or skids.",
+   "To assist in maintaining driving direction while driving on a straight road.",
+   "To prevent the tractor from slipping in sharp turns.",
+   "To assist during emergency braking."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1095,
+  "category": "safety",
+  "question": "Is it possible to brake only one wheel in a tractor?",
+  "answers": [
+   "Yes, on both axles.",
+   "Only on the rear axle.",
+   "Not on any axle.",
+   "Only on the front axle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1096,
+  "category": "safety",
+  "question": "When is it required to brake only one wheel in a tractor (brake separation)?",
+  "answers": [
+   "When the tractor driver wants to make a maneuver in a particularly large radius between structures or crops.",
+   "When one wheel slides against the ground and the tractor cannot proceed.",
+   "When the tractor driver wants to make a sharp turn on the spot while driving at a high speed.",
+   "When the tractor driver wants to make a sharp turn on the spot while driving at a very slow speed."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1097,
+  "category": "safety",
+  "question": "Is it permitted to drive a tractor with brakes that are permanently separated?",
+  "answers": [
+   "No. It might cause overheating and brake loss.",
+   "Yes, but is will cause uneven wear between the right and left brakes.",
+   "No. It might cause the tractor to roll-over while braking.",
+   "Yes, provided that the driver’s leg is positioned exactly between the two brake pedals."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1098,
+  "category": "safety",
+  "question": "What is the function of the tractor’s PTO (“Power Take Off”) power transfer?",
+  "answers": [
+   "To operate the oil pump of the hydraulic system.",
+   "To operate the front axle in tractors with four wheel drive.",
+   "To tow special equipment that requires smart and delicate support.",
+   "To move attachments and additional equipment operated by the tractor."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1099,
+  "category": "safety",
+  "question": "What RPM (Rounds per Minute) level should be determined to operate the tractor’s PTO (“Power Take Off”) power transfer?",
+  "answers": [
+   "Always according to the recommendation of the tractor’s manufacturer only.",
+   "The RPM is determined automatically with the operation of the PTO.",
+   "Any RPM level in which the equipment can be operated.",
+   "Standard RPM, unless otherwise indicated on the operated equipment."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1100,
+  "category": "safety",
+  "question": "What is the most important safety rule while operating a PTO power transfer?",
+  "answers": [
+   "The power transfer should only be operated when the engine is already hot.",
+   "The power transfer should not be operated while driving, but only when the tractor is standing.",
+   "The power transfer should not be operated without the supervision of an additional operator on the ground.",
+   "Stay away from the moving parts of the tractor and of the attachment."
+  ],
+  "correct": 3,
+  "hasImage": false
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 701,
+  "explanation": "At an intersection with no traffic signs, the default rule is that each driver yields to the vehicle approaching from their right, which here means the garbage truck goes first, the private vehicle next, and you last since you have vehicles on your right at every step."
+ },
+ {
+  "id": 702,
+  "explanation": "Cyclists hold the same right-of-way status as motor vehicles under Israeli traffic law, so at an unsigned intersection the cyclist's position in the priority-to-the-right sequence lets them enter before the motorcyclist or you."
+ },
+ {
+  "id": 703,
+  "explanation": "A cyclist is treated exactly like any other vehicle for right-of-way purposes, so the cyclist's position in the entry order gives them priority ahead of the red private vehicle at this unsigned intersection."
+ },
+ {
+  "id": 704,
+  "explanation": "Without signs, right-of-way runs in sequence from the vehicle furthest to the right inward, which places the cyclist first, the blue vehicle second, and you, as the left-most approach, last."
+ },
+ {
+  "id": 705,
+  "explanation": "Because the red vehicle is not a recognized emergency vehicle, it gets no automatic priority; ordinary right-of-way rules based on approach position apply, putting you ahead of the red vehicle and the cyclist last."
+ },
+ {
+  "id": 706,
+  "explanation": "In a roundabout, a vehicle already circulating has priority over one entering, and this applies to every type of road user, including cyclists, so you must always yield to the cyclist."
+ },
+ {
+  "id": 707,
+  "explanation": "A driver making a turn must give way to vehicles that continue straight through or approach with priority, so you must let the green vehicle proceed before completing your turn."
+ },
+ {
+  "id": 708,
+  "explanation": "At an intersection without priority signs, a driver must yield to every vehicle approaching from their right, not just the closest one, so both the tractor and the truck have to be let through."
+ },
+ {
+  "id": 709,
+  "explanation": "Right-of-way is decided by approach position, not by vehicle size, so you must yield to both the motorcyclist and the bus rather than assuming only the larger vehicle needs to be given way."
+ },
+ {
+  "id": 710,
+  "explanation": "A motorcyclist carries the same right-of-way status as a car, so their approach position at this unsigned intersection entitles them to go before you or the red vehicle."
+ },
+ {
+  "id": 711,
+  "explanation": "Because right-of-way depends on each vehicle's approach direction rather than its size or type, you must give way to both the motorcyclist and the bus before entering."
+ },
+ {
+  "id": 712,
+  "explanation": "A cyclist's right-of-way is not overridden by a larger vehicle or by a vehicle turning left, so the cyclist, positioned to receive priority here, may enter the intersection first."
+ },
+ {
+  "id": 713,
+  "explanation": "There is no rule that a motorcyclist must always wait for a car; right-of-way depends on approach position, and here that entitles the motorcyclist to go first while you yield."
+ },
+ {
+  "id": 714,
+  "explanation": "A driver turning left must give way to oncoming traffic that continues straight, so even though it may seem like you have priority, you must let the red vehicle go first."
+ },
+ {
+  "id": 715,
+  "explanation": "Even when the law designates you as having right of way, the general duty of care requires you to keep watching the other driver and be ready to react, since having right of way is not guaranteed until the other vehicle actually yields."
+ },
+ {
+  "id": 716,
+  "explanation": "The vehicle order here follows the applicable priority rule for this junction, letting the left-turning vehicle go first, with the tractor and blue vehicle following according to their own relative approach positions."
+ },
+ {
+  "id": 717,
+  "explanation": "Applying the standard right-of-way sequence based on each vehicle's approach direction, the red vehicle enters first, the motorcycle second, and your vehicle last."
+ },
+ {
+  "id": 718,
+  "explanation": "Right-of-way is determined by position and direction, not by vehicle size, so the claim that big vehicles automatically get priority is false; here only the private vehicle's path actually crosses yours and must be yielded to."
+ },
+ {
+  "id": 719,
+  "explanation": "When you are the one with right of way at this intersection, both other drivers are obligated to yield to you, but you should still proceed carefully in case they fail to actually stop."
+ },
+ {
+  "id": 720,
+  "explanation": "A motorcyclist has the same right-of-way entitlement as any other vehicle, so their approach position here requires you to let them pass before you proceed."
+ },
+ {
+  "id": 721,
+  "explanation": "Vehicles already circulating inside a roundabout have priority over those entering it, so you must give way to the red vehicle already in the roundabout regardless of your own direction of travel."
+ },
+ {
+  "id": 722,
+  "explanation": "Israeli traffic rules require that when a vehicle stops on an inter-urban road, the first person exiting it must put on a standard fluorescent vest before stepping out, because leaving the vehicle unprotected into traffic is hazardous at any time, not only when other vehicles are visible nearby."
+ },
+ {
+  "id": 723,
+  "explanation": "A driver transporting children must wait until every child has gotten off the bus and moved a safe distance away from the vehicle before driving off, since driving away immediately risks hitting a child still near the bus."
+ },
+ {
+  "id": 724,
+  "explanation": "Following the priority-to-the-right sequence at this unsigned intersection, the vehicle on the right enters first, you go next, and the vehicle on the left, having the fewest vehicles to its right, enters last."
+ },
+ {
+  "id": 725,
+  "explanation": "When turning right, a driver must not cut off a cyclist going straight through the intersection; the safe approach is to let the cyclist continue and complete the turn behind them rather than overtaking or forcing them to yield."
+ },
+ {
+  "id": 726,
+  "explanation": "The lane-guidance signage ahead marks that only the two right-hand lanes remain usable past that point, so drivers must position themselves in one of those lanes in advance rather than continuing in the lane about to end."
+ },
+ {
+  "id": 727,
+  "explanation": "A driver intending to turn left must be positioned in the left-hand lane serving that direction of travel, since lane discipline rules require using the lane that matches the intended maneuver."
+ },
+ {
+  "id": 728,
+  "explanation": "The posted lane sign restricts certain lanes to specific vehicle types, and the light private vehicle is the one failing to comply with that restriction while the other two vehicles are driving in lanes permitted for their type."
+ },
+ {
+  "id": 729,
+  "explanation": "The sign ahead indicates that the current lane will end or is restricted, so you must move into the adjacent right lane in good time rather than continuing straight or waiting at the marking."
+ },
+ {
+  "id": 730,
+  "explanation": "Looking far ahead lets a driver anticipate the road's condition and other road users' behavior early, so they can plan their driving and avoid being caught off guard, which is a core principle of proactive traffic vision."
+ },
+ {
+  "id": 731,
+  "explanation": "Safely joining traffic requires signaling your intention in good time with the indicator, checking all directions including blind spots, and waiting until the way is genuinely clear before moving, rather than forcing your way in quickly."
+ },
+ {
+  "id": 732,
+  "explanation": "Before driving off, a driver must first confirm the hand-brake is applied so the vehicle cannot roll, and adjust the seat for a safe driving position, since vehicle control begins with securing the vehicle and setting up properly to reach the pedals and wheel."
+ },
+ {
+  "id": 733,
+  "explanation": "The correct sequence before slowing down is to check the mirrors first to know what is behind you, then ease off the accelerator and apply the brakes or downshift, so the driver behind has advance warning rather than being surprised by sudden braking."
+ },
+ {
+  "id": 734,
+  "explanation": "The fluorescent vest must be kept in the driver's compartment, within reach while seated, because it needs to be put on before exiting the vehicle; storing it in the trunk would force the driver to step out unprotected just to retrieve it."
+ },
+ {
+  "id": 735,
+  "explanation": "Gear selection should respond to the vehicle's actual speed together with traffic density, road surface, and visibility conditions, matching the same reasonable-speed principle that governs safe driving overall."
+ },
+ {
+  "id": 736,
+  "explanation": "Before driving any unfamiliar vehicle, a driver must first make sure they understand and can properly operate its controls, since maintaining full control of the vehicle is a basic legal and safety obligation."
+ },
+ {
+  "id": 737,
+  "explanation": "To secure a parked automatic vehicle, the driver should shift into the parking gear, which locks the transmission, and additionally apply the parking brake for a second layer of security against unwanted movement."
+ },
+ {
+  "id": 738,
+  "explanation": "Before moving the gear selector out of park, the driver must apply the foot brake so the vehicle cannot start rolling the instant a driving gear is engaged."
+ },
+ {
+  "id": 739,
+  "explanation": "Before releasing the hand-brake to start driving, the driver must first apply the foot brake, ensuring the vehicle stays stationary and under control during the transition."
+ },
+ {
+  "id": 740,
+  "explanation": "On a continuous steep descent, relying on the brakes alone risks overheating and brake fade, so the driver should shift into a lower gear appropriate to the slope and use the brake pedal intermittently to control speed."
+ },
+ {
+  "id": 741,
+  "explanation": "An automatic transmission vehicle should only be started with the hand-brake applied and the gear selector in park or neutral, preventing any unintended movement the instant the engine turns over."
+ },
+ {
+  "id": 742,
+  "explanation": "Automatic transmissions can be forced to downshift without moving the gear lever by sharply pressing the accelerator for a 'kick-down,' or by using a dedicated electronic gear-select switch where equipped."
+ },
+ {
+  "id": 743,
+  "explanation": "Shifting an automatic transmission out of park requires stepping on the brake pedal and pressing the selector's lock-release button before moving the lever into a driving gear, a safety interlock preventing accidental engagement."
+ },
+ {
+  "id": 744,
+  "explanation": "On a narrow downhill road, a descending driver must yield to vehicles climbing uphill specifically when the road is too narrow for both to pass simultaneously, regardless of whether it is urban, signposted, or the uphill vehicle's weight."
+ },
+ {
+  "id": 745,
+  "explanation": "Keeping to the right side of the road maximizes the separation from oncoming traffic, which reduces the chance of a head-on collision, the most severe type of crash due to the high combined closing speed."
+ },
+ {
+  "id": 746,
+  "explanation": "Driving on the right leaves the vehicle with a clear path to the hard shoulder, giving the driver an escape route to use if a sudden hazard appears."
+ },
+ {
+  "id": 747,
+  "explanation": "A red traffic light must be obeyed regardless of an approaching vehicle with sirens and lights behind you, since only recognized emergency-vehicle exemptions permit disregarding a red light, and other drivers are not authorized to run the light themselves."
+ },
+ {
+  "id": 748,
+  "explanation": "Keeping to the right side of the road leaves the left side of the lane open, so vehicles behind you are not blocked from overtaking."
+ },
+ {
+  "id": 749,
+  "explanation": "Positioning your vehicle to the right of the lane lets drivers behind you see further down the road past your vehicle, improving their field of vision compared to following directly in the center."
+ },
+ {
+  "id": 750,
+  "explanation": "Keeping to the right increases the gap between your vehicle and oncoming traffic, which is the core safety benefit of right-side driving on a two-way road."
+ },
+ {
+  "id": 751,
+  "explanation": "Overtaking is prohibited both inside a tunnel and within a defined distance, 50 meters, before or after it, because reduced visibility and confined space make passing maneuvers especially dangerous in that zone."
+ },
+ {
+  "id": 752,
+  "explanation": "Driving on the right side of the road is the general rule, but it is temporarily suspended while overtaking, since completing that maneuver requires moving into the adjacent lane."
+ },
+ {
+  "id": 753,
+  "explanation": "On a single-lane, two-way road, a driver preparing to turn left is allowed to position toward the center rather than staying at the far right edge of the lane, since positioning must accommodate the turn."
+ },
+ {
+  "id": 754,
+  "explanation": "The obligation to drive in the right lane is suspended specifically while overtaking another vehicle, since the maneuver requires temporarily using another lane."
+ },
+ {
+  "id": 755,
+  "explanation": "A private car is not obligated to use the right lane when that lane is designated for another category of road user, such as a public transportation lane, since driving there would itself violate the lane restriction."
+ },
+ {
+  "id": 756,
+  "explanation": "The default lane-discipline rule requires driving in the right lane on a multi-lane road, with the only exceptions being while overtaking or preparing to turn left."
+ },
+ {
+  "id": 757,
+  "explanation": "Vehicles carrying hazardous materials above 3,500 kg may only be parked in an urban area if kept more than 400 meters from public or residential buildings, limiting the risk to people and property nearby."
+ },
+ {
+  "id": 758,
+  "explanation": "By definition, a lane is a portion of the road's width designed to accommodate a single line of vehicle traffic, a concept that excludes two-wheeled vehicles from that specific measure."
+ },
+ {
+  "id": 759,
+  "explanation": "The pictured device is a traffic cone, used to give directions or mark an obstruction or hazard at a road-works site, matching the standard worksite-sign category."
+ },
+ {
+  "id": 760,
+  "explanation": "Deviating abruptly between lanes without first checking creates the risk of colliding with a vehicle that was in your blind spot or otherwise unseen before you moved."
+ },
+ {
+  "id": 761,
+  "explanation": "A safe lane change requires signaling early enough for other drivers to notice, checking all-around including blind spots, and glancing at the mirrors before actually moving over, not just switching on the indicator."
+ },
+ {
+  "id": 762,
+  "explanation": "The correct procedure is to check the mirrors and surroundings first, confirm the target lane is genuinely clear, and only then move into it with a smooth, moderate diagonal path rather than a sudden or unchecked deviation."
+ },
+ {
+  "id": 763,
+  "explanation": "Changing lanes safely requires first assessing the position and speed of vehicles already in the lane you intend to enter, so you can judge whether there is a safe gap before moving."
+ },
+ {
+  "id": 764,
+  "explanation": "Parking on the left side of the road is permitted only on a one-way street that is not part of a road with a physical separation area, since parking there otherwise would obstruct or endanger opposing or divided traffic flow."
+ },
+ {
+  "id": 765,
+  "explanation": "Maintaining a proper following distance reduces the frequent braking and re-accelerating that wears out brakes and burns extra fuel, so the statement about its effect on wear and consumption is correct."
+ },
+ {
+  "id": 766,
+  "explanation": "Before stopping or parking, a driver must first verify that it is legally permitted at that spot, then check the surroundings, and only then slow down carefully, following that specific order for safety and legality."
+ },
+ {
+  "id": 767,
+  "explanation": "When an emergency vehicle on duty approaches from behind, a driver must pull over to the right side of the road, clear of any intersection, and stop to let it pass safely."
+ },
+ {
+  "id": 768,
+  "explanation": "A driver must signal at a reasonable distance before beginning to move out of the lane to overtake, giving other road users enough advance warning to react, rather than signaling only at the last moment or after starting to move."
+ },
+ {
+  "id": 769,
+  "explanation": "The core difficulty approaching an intersection is that the driver must process many things at once, such as signs, other vehicles, and pedestrians, within a very short span of time."
+ },
+ {
+  "id": 770,
+  "explanation": "Because an intersection demands handling many tasks at once, the correct response is to slow down in advance, observe carefully in all directions, and avoid any activity unrelated to driving so full attention is available."
+ },
+ {
+  "id": 771,
+  "explanation": "A cluster of traffic signs before an intersection forces the driver to slow down in order to read and correctly respond to each sign's instructions in time."
+ },
+ {
+  "id": 772,
+  "explanation": "Safe overtaking requires starting only when the road ahead is clear for a sufficient distance, and continuing to verify throughout the maneuver that it remains clear, rather than checking only once at the start."
+ },
+ {
+  "id": 773,
+  "explanation": "Handicapped parking spaces are reserved for vehicles displaying the matching disability permit regardless of whether the spaces happen to be empty, since the restriction is based on the driver's entitlement, not current occupancy."
+ },
+ {
+  "id": 774,
+  "explanation": "On a wet road, reduced tire grip increases the chance that a vehicle will skid into the intersection area, which is the specific hazard this scenario highlights."
+ },
+ {
+  "id": 775,
+  "explanation": "Because pedestrians can behave unpredictably near intersections, a driver should anticipate possible risky pedestrian actions in advance rather than reacting only after they occur."
+ },
+ {
+  "id": 776,
+  "explanation": "Intersections are inherently risky because many different types of road users cross paths at numerous points within a small area, creating multiple potential conflict points simultaneously."
+ },
+ {
+  "id": 777,
+  "explanation": "The hard shoulder is reserved for non-motor vehicles, tractors, and other speed-restricted vehicles, not for ordinary motor traffic trying to bypass congestion."
+ },
+ {
+  "id": 778,
+  "explanation": "A pedestrian crossing next to an intersection is considered the safest crossing point precisely because drivers are legally required to slow down while approaching that intersection area."
+ },
+ {
+  "id": 779,
+  "explanation": "Before entering any intersection, a driver's first priority is confirming that it is actually clear and can be crossed safely, rather than assuming the way is open."
+ },
+ {
+  "id": 780,
+  "explanation": "A driver with a disability is permitted to use the bus lane as an accommodation, but the speed limit still applies to them exactly as it does to every other driver."
+ },
+ {
+  "id": 781,
+  "explanation": "When turning right, the driver should stay close to the road's right edge from the start of the turn through its completion, preventing a wide swing that could create a dangerous gap for other road users."
+ },
+ {
+  "id": 782,
+  "explanation": "During a right turn, a two-wheeler such as a bicycle or motorcycle may attempt to pass into the gap forming to the driver's right, which is the specific hazard a turning driver must watch for."
+ },
+ {
+  "id": 783,
+  "explanation": "A private car may turn right from a lane other than the rightmost one only where the road has more than one lane specifically marked for right turns."
+ },
+ {
+  "id": 784,
+  "explanation": "Turning left must be done from the corresponding lane on each side, so from a two-way road the driver uses the left lane, lane 2, and turns into the matching left-most lane of the destination one-way road, lane 5, keeping proper lane alignment throughout the turn."
+ },
+ {
+  "id": 785,
+  "explanation": "This sign instructs drivers to shift into the next lane on the right as soon as traffic conditions safely allow, typically ahead of a lane closure or obstruction."
+ },
+ {
+  "id": 786,
+  "explanation": "Both signs shown belong to the category posted only at road-work sites, identifying temporary hazards or lane changes related to construction rather than permanent road features."
+ },
+ {
+  "id": 787,
+  "explanation": "Israeli vehicle regulations set the maximum permitted overall length for this type of bus at 18.75 meters, the figure that applies to articulated buses under the law."
+ },
+ {
+  "id": 788,
+  "explanation": "Even though sign 308 normally grants your direction priority through the narrow section, once an oncoming vehicle has already entered it, you must wait for it to clear the section before driving through, since a vehicle already committed to a single-lane passage cannot safely be met head-on."
+ },
+ {
+  "id": 789,
+  "explanation": "A driver must not enter an intersection that is not clear, since doing so risks becoming stuck and blocking cross traffic; the correct action is to stop before it and wait until it is safe to proceed."
+ },
+ {
+  "id": 790,
+  "explanation": "A lane is defined by the portion of road width meant for one line of traffic, whether or not it is marked with paint, so a driver can still be cited for deviating from an unmarked lane."
+ },
+ {
+  "id": 791,
+  "explanation": "Turning left from a lane other than the leftmost one is permitted only where the road has two or more lanes specifically marked for turning left."
+ },
+ {
+  "id": 792,
+  "explanation": "An unbroken separation line may never be crossed for any maneuver, including making a U-turn, regardless of traffic conditions or blocked intersections ahead."
+ },
+ {
+  "id": 793,
+  "explanation": "A U-turn is defined as a maneuver in which the driver reverses direction to travel back the way they came, distinguishing it from an ordinary turn at an angle."
+ },
+ {
+  "id": 794,
+  "explanation": "Making a U-turn carries multiple simultaneous risks, including delaying oncoming or following vehicles, forcing a sudden brake from an approaching driver, and the chance of an outright collision, so all of these are valid concerns."
+ },
+ {
+  "id": 795,
+  "explanation": "A left U-turn is prohibited under any of several independent conditions, including a posted no-U-turn sign, insufficient visibility for approaching drivers, or being near a steep crest or curve, so all these situations apply."
+ },
+ {
+  "id": 796,
+  "explanation": "The pictured location does not provide adequate visibility or space for a safe U-turn, so the maneuver is not permitted there under any circumstance."
+ },
+ {
+  "id": 797,
+  "explanation": "Before making a left U-turn, a driver must confirm both that the maneuver is legally permitted at that location and that it will not disturb or endanger other traffic."
+ },
+ {
+  "id": 798,
+  "explanation": "Responsibility for safety while reversing always rests with the driver actually operating the vehicle, even if another person is outside guiding them."
+ },
+ {
+  "id": 799,
+  "explanation": "The main danger of reversing is that road users, especially pedestrians and cyclists, can be hidden in the driver's blind spots directly behind the vehicle, risking a collision the driver never sees coming."
+ },
+ {
+  "id": 800,
+  "explanation": "A blind spot is the portion of the area around a vehicle where the driver cannot see or detect other road users using mirrors or direct vision."
+ }
+]

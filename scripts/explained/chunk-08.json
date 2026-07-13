@@ -1,0 +1,402 @@
+[
+ {
+  "id": 801,
+  "explanation": "Reversing severely limits a driver's visibility and creates blind spots, so the safest approach is to check all around continuously and creep backward slowly enough to stop for any hazard."
+ },
+ {
+  "id": 802,
+  "explanation": "Traffic law defines a reasonable speed as one that fits the road, surroundings, and traffic conditions while letting the driver stay in full control of the vehicle at all times."
+ },
+ {
+  "id": 803,
+  "explanation": "The maximum permitted speed is a legal ceiling that a reasonable speed can never exceed under any circumstance, including while overtaking; exceeding it is always a violation."
+ },
+ {
+  "id": 804,
+  "explanation": "Driving fast lengthens both reaction and braking distances and raises the centrifugal force in turns, so a driver has less room to stop in time and can more easily lose control."
+ },
+ {
+  "id": 805,
+  "explanation": "Because reaction distance shortens directly with lower speed and braking distance shortens by the square of the speed reduction, a slower driver can react, brake and stop over a shorter distance, which is safer in a dangerous situation."
+ },
+ {
+  "id": 806,
+  "explanation": "Kinetic energy rises sharply with speed, so a high-speed impact strikes with far greater force, causing more severe injury to people and more property damage than a slow-speed collision."
+ },
+ {
+  "id": 807,
+  "explanation": "Reasonable speed means adapting to road and traffic conditions so the driver keeps full control of the vehicle and can always stop safely, not simply picking any comfortable speed."
+ },
+ {
+  "id": 808,
+  "explanation": "At high speed, events unfold too quickly relative to a driver's available reaction time, leaving very little time to notice and properly respond to what happens on the road."
+ },
+ {
+  "id": 809,
+  "explanation": "Because braking distance grows with the square of speed, even a moderate increase in speed produces a much longer total stopping distance."
+ },
+ {
+  "id": 810,
+  "explanation": "Stopping distance is the total distance the vehicle covers from the instant the driver spots the danger until it comes to a complete stop, combining reaction distance and braking distance."
+ },
+ {
+  "id": 811,
+  "explanation": "Stopping distance is made up of two parts: the distance covered during the driver's reaction time before braking begins, plus the distance covered while the brakes are being applied."
+ },
+ {
+  "id": 812,
+  "explanation": "Reaction distance is the ground covered between the moment a driver notices a hazard and the moment they actually begin to respond to it, before any braking or steering has occurred."
+ },
+ {
+  "id": 813,
+  "explanation": "Braking distance is specifically the distance the vehicle travels once the driver has pressed the brake pedal until the vehicle comes to a full stop."
+ },
+ {
+  "id": 814,
+  "explanation": "Keeping a safe gap behind the vehicle ahead exists so that if it brakes or slows suddenly, the following driver has room and time to stop without hitting its rear."
+ },
+ {
+  "id": 815,
+  "explanation": "The law requires a gap that lets a driver stop and avoid a collision under the actual speed and road conditions at the time, taking every relevant factor into account, not just a fixed distance."
+ },
+ {
+  "id": 816,
+  "explanation": "The more space kept from the vehicle ahead, the more of the road ahead a driver can see past it, since a larger gap opens up a wider view of upcoming hazards."
+ },
+ {
+  "id": 817,
+  "explanation": "Keeping a proper gap means fewer sudden brake applications and more even, gradual driving, which reduces brake wear and lowers fuel consumption."
+ },
+ {
+  "id": 818,
+  "explanation": "A driver who maintains a comfortable gap ahead can drive in a calmer, less stressed way that avoids constant speed adjustments, reducing fatigue and the risk it creates."
+ },
+ {
+  "id": 819,
+  "explanation": "When followed too closely, a driver should make sure enough space remains ahead of them to brake gently rather than suddenly, since an abrupt stop risks being hit from behind."
+ },
+ {
+  "id": 820,
+  "explanation": "The recommended technique is the two-second count: note when the vehicle ahead passes a fixed point and count off two seconds before you reach that same point."
+ },
+ {
+  "id": 821,
+  "explanation": "Poor visibility, a slippery surface, or driver fatigue all reduce the margin for error, so the normal two-second gap needs to be increased in these conditions."
+ },
+ {
+  "id": 822,
+  "explanation": "Passing more than one vehicle in a single maneuver is allowed only when overtaking is not otherwise restricted there and the passing lane has enough clear space to finish safely."
+ },
+ {
+  "id": 823,
+  "explanation": "Before overtaking, a driver must be certain both that the maneuver is legally allowed and that it can be completed safely without any doubt, since a mistake there risks a head-on collision."
+ },
+ {
+  "id": 824,
+  "explanation": "Overtaking is only justified when the overtaking vehicle has enough of a speed advantage over the vehicle ahead to complete the pass and return to the lane within a safe distance."
+ },
+ {
+  "id": 825,
+  "explanation": "Leaving proper distance ahead is what gives another vehicle, such as one finishing an overtake, room to safely move back into the gap in front of you."
+ },
+ {
+  "id": 826,
+  "explanation": "Overtaking on a two-lane, two-way road forces the driver into the opposing lane, creating the danger that an oncoming vehicle could appear there during the maneuver."
+ },
+ {
+  "id": 827,
+  "explanation": "The horn may be used briefly, only when actually necessary, to alert a driver ahead before passing, rather than sounded continuously throughout the maneuver."
+ },
+ {
+  "id": 828,
+  "explanation": "On a one-way street with two lanes there is no oncoming traffic, so the real danger of moving left is colliding with or cutting off a vehicle already traveling in that left lane."
+ },
+ {
+  "id": 829,
+  "explanation": "Passing on the right is permitted specifically when the vehicle ahead is positioned in a left-turn lane and signaling left, since it has effectively vacated the through lane."
+ },
+ {
+  "id": 830,
+  "explanation": "A hybrid vehicle combines its conventional engine with an added electric motor that works alongside it, rather than replacing or duplicating the regular engine."
+ },
+ {
+  "id": 831,
+  "explanation": "Before deliberately pulling onto the hard shoulder, a driver must check well to the rear, signal in good time, and slow down so the maneuver doesn't surprise following traffic."
+ },
+ {
+  "id": 832,
+  "explanation": "Safely pulling onto a hard shoulder requires that it be level with the road surface and wide enough to accommodate the vehicle without instability."
+ },
+ {
+  "id": 833,
+  "explanation": "When the hard shoulder sits lower than the road, a driver must first slow to a low speed and then ease onto it gradually, so the height difference doesn't destabilize the vehicle."
+ },
+ {
+  "id": 834,
+  "explanation": "After pulling onto the hard shoulder, the vehicle should be positioned as far from the traveled roadway as possible to keep it clear of passing traffic."
+ },
+ {
+  "id": 835,
+  "explanation": "Before rejoining the road from the hard shoulder, a driver must check all traffic on the road, signal their intention clearly, and merge back gradually rather than abruptly."
+ },
+ {
+  "id": 836,
+  "explanation": "The first step in rejoining the road from the shoulder is to signal with the indicator, giving other traffic advance notice of the intended merge before any movement begins."
+ },
+ {
+  "id": 837,
+  "explanation": "An unplanned move onto the hard shoulder is justified when a sudden hazardous object or obstacle appears in the driving lane, leaving the shoulder as the only safe escape."
+ },
+ {
+  "id": 838,
+  "explanation": "Braking while straddling the road and the shoulder is risky because the two surfaces often have different friction levels, which can make the vehicle spin instead of stopping straight."
+ },
+ {
+  "id": 839,
+  "explanation": "Mountain roads are typically narrow and winding, with sharp curves, bends, and sudden changes in slope that demand extra caution and reduced speed."
+ },
+ {
+  "id": 840,
+  "explanation": "On mountain roads, long descents can overheat the brakes and cause loss of braking ability, while narrow winding sections with limited room to pull off raise the risk of a head-on collision."
+ },
+ {
+  "id": 841,
+  "explanation": "Using a low gear on a mountain road lets engine braking do much of the work, so the brakes aren't overused and don't overheat to the point of losing effectiveness."
+ },
+ {
+  "id": 842,
+  "explanation": "On a narrow, winding mountain road, staying to the far right, using your lights, and matching your speed to the road's conditions keeps you clear of oncoming traffic around blind curves."
+ },
+ {
+  "id": 843,
+  "explanation": "A vehicle skids when the braking force applied or the vehicle's own inertia becomes greater than the grip the tires can maintain on the road surface."
+ },
+ {
+  "id": 844,
+  "explanation": "While braking, inertia is the force that keeps the vehicle moving forward even as the brakes try to slow it, which is why stopping takes distance rather than happening instantly."
+ },
+ {
+  "id": 845,
+  "explanation": "While turning, centrifugal force pushes the vehicle outward, away from the direction of the turn, and this force grows quickly as speed increases."
+ },
+ {
+  "id": 846,
+  "explanation": "Skidding is caused by anything that comes between the tire and the road surface and breaks direct contact, such as water, oil, mud, or loose gravel."
+ },
+ {
+  "id": 847,
+  "explanation": "Skids typically result from late, sudden braking combined with a road surface that lacks enough traction, such as one covered in water, oil, or debris."
+ },
+ {
+  "id": 848,
+  "explanation": "The immediate danger of a skid is that the driver loses the ability to steer and loses overall control of the vehicle's direction."
+ },
+ {
+  "id": 849,
+  "explanation": "A skid is best brought under control through correct speed beforehand, smooth steering input, and gentle, early use of the brakes rather than sudden, forceful reactions."
+ },
+ {
+  "id": 850,
+  "explanation": "Skidding is best prevented by driving at a reasonable speed for the conditions and applying the brakes gently, since harsh braking is what most often triggers a loss of traction."
+ },
+ {
+  "id": 851,
+  "explanation": "At night, a driver's field of vision is limited to the headlight beam, glare from oncoming lights can cause temporary blindness, and judging distances becomes harder."
+ },
+ {
+  "id": 852,
+  "explanation": "When dazzled by an oncoming vehicle's lights, the correct response is to slow down, move toward the right, and fix your gaze on the road edge or lane line rather than the light itself."
+ },
+ {
+  "id": 853,
+  "explanation": "Because visibility at night is limited to the headlight beam, a driver must set their speed so the vehicle can stop within the distance that is actually illuminated ahead."
+ },
+ {
+  "id": 854,
+  "explanation": "The way to lessen the effect of glare from an oncoming vehicle is to avoid looking directly at its lights, slow down, and keep to the right side of the road."
+ },
+ {
+  "id": 855,
+  "explanation": "Driving continuously for many hours brings on severe fatigue and a growing tendency to doze off, both of which seriously impair a driver's alertness and control."
+ },
+ {
+  "id": 856,
+  "explanation": "Fatigue while driving is best managed by getting adequate rest beforehand and taking real rest and refreshment breaks during the trip, rather than pushing through tiredness."
+ },
+ {
+  "id": 857,
+  "explanation": "A short break only relieves driver fatigue for a limited time; it does not eliminate tiredness for the rest of a long journey, so further breaks are still needed."
+ },
+ {
+  "id": 858,
+  "explanation": "A driver should approach their parked vehicle from the front, facing oncoming traffic, so they can see approaching vehicles rather than have their back turned to the road."
+ },
+ {
+  "id": 859,
+  "explanation": "Before starting to drive, the seat, steering wheel, mirrors, and head restraints must all be properly adjusted so the driver has comfortable control and full visibility."
+ },
+ {
+  "id": 860,
+  "explanation": "The interior mirror should show the view through the rear windshield and, as far as possible, the areas to both sides behind the vehicle, giving a full picture of following traffic."
+ },
+ {
+  "id": 861,
+  "explanation": "The outer side mirrors are meant to show the edge of the vehicle's own body plus the road running along its sides, helping the driver judge position and nearby traffic."
+ },
+ {
+  "id": 862,
+  "explanation": "Before driving, a driver must be sure they can competently operate and handle the vehicle, since the general duty of care requires being in control of the vehicle at all times."
+ },
+ {
+  "id": 863,
+  "explanation": "Before starting the engine, the foot brake should be pressed, the parking brake set, and the gear lever in Neutral (Park in automatic vehicles) with the clutch pressed, so the vehicle cannot move unexpectedly."
+ },
+ {
+  "id": 864,
+  "explanation": "Danger when starting to drive is avoided by first properly observing the road and surrounding traffic before pulling away, rather than moving off and reacting afterward."
+ },
+ {
+  "id": 865,
+  "explanation": "The correct way to check the road before merging is to glance in the mirrors and also turn your head toward the direction you intend to move, since mirrors alone leave blind spots."
+ },
+ {
+  "id": 866,
+  "explanation": "Signaling alone does not create a right to move; a driver must also actually look around properly, since the general duty of care requires more than just indicating intent."
+ },
+ {
+  "id": 867,
+  "explanation": "Driving in a straight line without swerving is best achieved by fixing your gaze on the furthest point you can see ahead, letting your steering naturally track toward it."
+ },
+ {
+  "id": 868,
+  "explanation": "Looking far ahead lets a driver gather the information needed to plan the drive according to the road's conditions well in advance, avoiding sudden surprises."
+ },
+ {
+  "id": 869,
+  "explanation": "Being familiar with the vehicle's controls means the driver can operate them without conscious thought, freeing full attention to concentrate on the road and surrounding traffic."
+ },
+ {
+  "id": 870,
+  "explanation": "A properly adjusted driver's seat lets the driver see the road comfortably and drive without unnecessary strain, reducing fatigue over the journey."
+ },
+ {
+  "id": 871,
+  "explanation": "Before braking to slow down or stop, a driver should check the mirrors for a vehicle behind, since braking without checking risks a rear-end collision if followed too closely."
+ },
+ {
+  "id": 872,
+  "explanation": "Gripping the steering wheel correctly allows precise, controlled turning inputs, which keeps the driver in command of the vehicle's direction at all times."
+ },
+ {
+  "id": 873,
+  "explanation": "Selecting the appropriate gear in a manual vehicle sets a driving speed suited to conditions without putting unnecessary strain on the engine."
+ },
+ {
+  "id": 874,
+  "explanation": "The correct sequence when slowing down is to reduce speed first and then shift into a lower gear, rather than downshifting before the vehicle has actually slowed."
+ },
+ {
+  "id": 875,
+  "explanation": "Reversing limits a driver's field of vision and makes handling the vehicle less comfortable and precise compared with driving forward."
+ },
+ {
+  "id": 876,
+  "explanation": "The general duty of care means reverse driving should always be done slowly, since visibility and control are limited regardless of vehicle type or conditions."
+ },
+ {
+  "id": 877,
+  "explanation": "The general duty of care requires a driver reversing to take whatever care and precautions are needed to prevent danger, impact, nuisance, or disturbance to others."
+ },
+ {
+  "id": 878,
+  "explanation": "When a vehicle is seen backing out of a parking space into your path, the safe response is to slow down and be ready to stop, since the reversing driver has limited visibility of you."
+ },
+ {
+  "id": 879,
+  "explanation": "Before turning right, a driver must account for the possibility that a cyclist is positioned to their right and take active steps to avoid hitting them during the turn."
+ },
+ {
+  "id": 880,
+  "explanation": "When a lane is blocked by a double-parked vehicle, the safe approach is to slow down, let any oncoming traffic pass first, and only then move around the obstruction, since swerving early risks a head-on collision."
+ },
+ {
+  "id": 881,
+  "explanation": "A vehicle leaving a dirt road onto a paved road has no priority, so the driver must give way to all traffic on the paved road from both directions before entering."
+ },
+ {
+  "id": 882,
+  "explanation": "A double solid line means crossing or overtaking is prohibited from either side, so deviating into the opposite lane there is against the law regardless of visibility."
+ },
+ {
+  "id": 883,
+  "explanation": "A tall vehicle presents a large side surface to the wind, so a strong crosswind pushes it sideways and forces the driver to slow down and actively counter that lateral force."
+ },
+ {
+  "id": 884,
+  "explanation": "Following too closely narrows the driver's view of the road ahead of the vehicle in front, making it harder to judge whether overtaking can be completed safely, which increases the risk."
+ },
+ {
+  "id": 885,
+  "explanation": "Reading the shadow and outline cues in the picture shows that there are actually two vehicles ahead, the silver one and another vehicle in front of it, not just one."
+ },
+ {
+  "id": 886,
+  "explanation": "The added electric motor in a hybrid vehicle shares the driving load with the conventional engine, so overall fuel consumption ends up lower than in a regular vehicle."
+ },
+ {
+  "id": 887,
+  "explanation": "When an overtaking vehicle signals its intent to move back into your lane, the correct response is to let it merge back safely and without being obstructed or hurried."
+ },
+ {
+  "id": 888,
+  "explanation": "When another vehicle is exiting a parking space into your path, the correct response is to slow down and let it merge into traffic rather than forcing your way past."
+ },
+ {
+  "id": 889,
+  "explanation": "When another driver is reverse-parking between two vehicles, you should slow down or stop and give them room to finish the maneuver rather than trying to squeeze past."
+ },
+ {
+  "id": 890,
+  "explanation": "The hard shoulder on a freeway exists primarily as an emergency escape space to be used in situations of danger, not for routine stops or convenience."
+ },
+ {
+  "id": 891,
+  "explanation": "A U-turn is allowed from any lane by default, and is only prohibited where a specific road sign expressly forbids it at that location."
+ },
+ {
+  "id": 892,
+  "explanation": "Cars parked close together along a road can hide a pedestrian, especially a child, who may suddenly step out from between them into the driver's path."
+ },
+ {
+  "id": 893,
+  "explanation": "Even with no pedestrians visible on a marked crossing, a driver should slow down, since pedestrians have priority there and one could appear from behind a parked vehicle or blind spot."
+ },
+ {
+  "id": 894,
+  "explanation": "Two motorcycles may travel side by side in one lane only while one of them is actually engaged in lawfully overtaking or passing the other, not as a general riding practice."
+ },
+ {
+  "id": 895,
+  "explanation": "In the pictured scenario, it is fog that is reducing visibility and creating the poor field of vision, rather than glare or vehicle spacing."
+ },
+ {
+  "id": 896,
+  "explanation": "Since it isn't clear how other drivers will react to the vehicle exiting the parking space, the truck driver should slow down and be ready to stop until it's confirmed everyone ahead is behaving safely."
+ },
+ {
+  "id": 897,
+  "explanation": "Pedestrians already crossing at a marked crossing have priority even when a driver is turning through the intersection, so the driver must slow down and stop if necessary to let them finish crossing."
+ },
+ {
+  "id": 898,
+  "explanation": "A cyclist near the roadway could unexpectedly swerve onto it or lose balance and fall into the vehicle's path, so a driver approaching from behind must be ready for that."
+ },
+ {
+  "id": 899,
+  "explanation": "The general duty of care calls for letting a merging truck enter your lane without obstruction, rather than speeding up or blocking its path."
+ },
+ {
+  "id": 900,
+  "explanation": "Parking a vehicle immediately before a pedestrian crossing is not permitted, since it blocks sightlines between drivers and pedestrians using the crossing."
+ }
+]

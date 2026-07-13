@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1,
+  "category": "traffic-laws",
+  "question": "Who is under obligation to be familiar with the traffic laws and obey them?",
+  "answers": [
+   "Only a pedestrian",
+   "Every road user.",
+   "Only a professional driver.",
+   "Only a driver."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 2,
+  "category": "traffic-laws",
+  "question": "Under what conditions can a person drive a motor vehicle?",
+  "answers": [
+   "The driver must have a valid license for the same class of vehicle.",
+   "According to the conditions, laid down in the annual test.",
+   "The driver should be the registered owner or have legal control.",
+   "According to the conditions laid down in the Manufacturer’s manual."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 3,
+  "category": "traffic-laws",
+  "question": "What is the duty of a person who owns or has control of a vehicle?",
+  "answers": [
+   "Not to permit to anyone to drive, who doesn’t have a valid license for the type of vehicle.",
+   "To register any person who drives his vehicle in the vehicle travel log",
+   "To allow any person who asks him to drive his vehicle.",
+   "To make sure that photocopies of the driver’s license and insurance policy only are carried in the vehicle"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 4,
+  "category": "traffic-laws",
+  "question": "Apart from a driving instructor, who may escort a “new driver”?",
+  "answers": [
+   "Any holder of a valid driving license for the same class of vehicle, and aged at least 24 yrs old.",
+   "A holder of a driving license for the same class of vehicle for at least 3 years and aged at least 30 yrs old, or a holder of a license for at least 2 yrs and aged at least 35 yrs old.",
+   "Any person who has not been convicted for any traffic offence during the past two years.",
+   "A holder of a driving license for the same class of vehicle for at least 5 years and aged at least 24 yrs old, or a holder of a license for at least 3 yrs and aged at least 30 yrs old."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 5,
+  "category": "traffic-laws",
+  "question": "Is a policeman allowed to detain without a warrant a driver who committed an offence in front of him?",
+  "answers": [
+   "Not under any condition",
+   "Yes, but only under a court certificate",
+   "Yes, if the driver doesn’t give his name and address or doesn’t present his license as required",
+   "Yes, only if the driver committed an offence that actually endangered road users"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 6,
+  "category": "traffic-laws",
+  "question": "A police officer may revoke a driver’s license for a period of thirty days:",
+  "answers": [
+   "When the driver endangers the life of a person on a pedestrian crossing",
+   "An arrest warrant was issued against the vehicle’s owner",
+   "When the driver committed an offence of holding a driver’s license that has been expired for more than ten days",
+   "When the passenger on the driver’s side did not wear a seatbelt"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 7,
+  "category": "traffic-laws",
+  "question": "A police officer may revoke a driver’s license for a period of sixty days:",
+  "answers": [
+   "When the driver commits a traffic offence which doesn’t cause a road accident",
+   "When a driver involved in an accident is reasonably suspected of being responsible for causing injury or causing damage to property.",
+   "When the driver is caught speeding",
+   "When the driver commits a traffic offence in which a person is killed"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 8,
+  "category": "traffic-laws",
+  "question": "When may a police officer revoke a driver’s license for a period of ninety days?",
+  "answers": [
+   "When the driver is involved in a car accident in which only property damage was caused",
+   "When the driver disobeys a stop sign",
+   "When a driver involved in an accident is reasonably suspected of causing the death of a person.",
+   "When the driver fails to give right of way."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 9,
+  "category": "traffic-laws",
+  "question": "What is the penalty for driving whilst disqualified?",
+  "answers": [
+   "A fine of 80,000 NIS",
+   "6 yrs in jail and 2 yrs on probation.",
+   "None, if the driver presents a valid driver’s license within 7 days",
+   "Up to 3 years in jail, plus other penalties."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 10,
+  "category": "traffic-laws",
+  "question": "What is the legal definition of a “road”",
+  "answers": [
+   "Any place that is open for public passage, except for city streets",
+   "Asphalt or concrete paved road ways only.",
+   "The term “road” has no legal definition",
+   "Any rail, street, alley, square, passage, bridge and any other open space in which the public has a right to pass through"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 11,
+  "category": "traffic-laws",
+  "question": "What is the legal definition of “lighting up time”",
+  "answers": [
+   "The time period of natural lighting conditions, when there is no need to have the vehicle lights turned on",
+   "The night time or any other time of the day in which visibility conditions are poor due to weather conditions.",
+   "The time period in which the vehicle’s lights must be turned on while driving in a freeway",
+   "The night time period, between sunset and sunrise"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 12,
+  "category": "traffic-laws",
+  "question": "Define “parking”",
+  "answers": [
+   "Stopping a vehicle for a defined period of time, in order to unload cargo, intermittently",
+   "Stopping the vehicle for more than thirty seconds",
+   "Standing a vehicle in order to load it with cargo only, intermittently",
+   "Standing a vehicle for an uninterrupted period of time, not for the purpose of immediate loading or unloading of passengers or loading or unloading of goods."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 13,
+  "category": "traffic-laws",
+  "question": "A utility tractor is a tractor type that:",
+  "answers": [
+   "Has at least two wheels, an all up weight of not more than 1,500 kg, and is steered with a handlebar",
+   "Has four wheels, an unlimited all up weight, and is steered with a handlebar",
+   "Has at least three wheels and an all up weight of more than 12,000 kg",
+   "Has at least four wheels, an all up weight of not more than 1,500 kg, and is steered with a wheel"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 14,
+  "category": "traffic-laws",
+  "question": "Define “ATV (All Terrain Vehicle)”:",
+  "answers": [
+   "A vehicle that has at least four wheels, with the rider sitting astride the vehicle and steering with handlebars.",
+   "A vehicle that has at least four wheels and is steered with a wheel.",
+   "A vehicle that has at least two wheels, with the rider sitting astride the vehicle and steering with handlebars.",
+   "A vehicle that has at least four wheels and is steered with a wheel. The driver sits on it with both legs on one side of the seat."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 15,
+  "category": "signs",
+  "question": "When a no stopping sign (433) is placed on the right side of a two-way highway:",
+  "answers": [
+   "Stopping is prohibited on both sides of the vehicle.",
+   "Stopping is prohibited on the right side of the roadway and on the hard shoulder.",
+   "Stopping is prohibited on the roadway only.",
+   "Stopping is prohibited on the hard shoulder only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 16,
+  "category": "traffic-laws",
+  "question": "Define “one way street”",
+  "answers": [
+   "Any path in which vehicle traffic is allowed in one direction only",
+   "Any roadway in which vehicle traffic is allowed in one direction only",
+   "Any roadway in which only motor vehicle traffic is allowed in one direction only",
+   "Any roadway in which vehicle traffic is allowed in both directions"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 17,
+  "category": "traffic-laws",
+  "question": "What is “night time”?",
+  "answers": [
+   "The period of time in which it is required to turn on the vehicle’s parking lights",
+   "A period of heavy fog only",
+   "The period of time that starts 15 minutes following sunset and ends 15 minutes before sunrise",
+   "The period of time between sunset and the following sunrise."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 18,
+  "category": "traffic-laws",
+  "question": "The following picture shows a pavement. Which of the following sentences is correct?",
+  "answers": [
+   "Motorcycles are permitted to use the pavement instead of the road.",
+   "The pavement is designed for pedestrians only.",
+   "Private passenger vehicles are always permitted to park temporarily on the pavement, when there is no parking space on the road.",
+   "Bicyclists are permitted to ride on the pavement as well."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 19,
+  "category": "traffic-laws",
+  "question": "What is an “Interchange”?",
+  "answers": [
+   "The area that is formed by the meeting of at least three roadways, at the same level.",
+   "A meeting of at least two roadways at the same level in a freeway.",
+   "A meeting point of roads at different levels, in which it is possible to drive and pass from one road to the other",
+   "A junction of roads at the same level in an urban area."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 20,
+  "category": "traffic-laws",
+  "question": "“Permitted load” on a commercial vehicle is:",
+  "answers": [
+   "The maximum weight of the cargo (in Kg) that is permitted to be loaded on the vehicle",
+   "The weight of the cargo plus the vehicle’s own weight",
+   "The all up weight of a transport vehicle",
+   "The vehicle’s own weight, including: water, oil, fuel and the weight of the driver"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 21,
+  "category": "traffic-laws",
+  "question": "The boundary of the intersection / junction is determined by:",
+  "answers": [
+   "The stop lines on each of the roads that meet in the intersection",
+   "The place in which traffic signs are posted before the intersection",
+   "The imaginary line drawn between the pavements or kerbs of each road meeting the junction.",
+   "The meeting of two or more pedestrian crossings in the intersection"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 22,
+  "category": "traffic-laws",
+  "question": "A back seat passenger must wear a seatbelt. Who is held responsible if a back seat passenger doesn’t wear his seat-belt?",
+  "answers": [
+   "The driver only",
+   "The driver and the passenger",
+   "The passenger only",
+   "The owner of the vehicle"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 23,
+  "category": "traffic-laws",
+  "question": "What is a “pedestrian crossing”?",
+  "answers": [
+   "A part of the pavement that is marked for pedestrian crossing",
+   "A part of the road designated and marked for pedestrians to cross.",
+   "A part of the road edge that is marked for pedestrian crossing",
+   "A part of the road that is marked for pedestrian crossing, including the pavement"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 24,
+  "category": "traffic-laws",
+  "question": "Define level crossing:",
+  "answers": [
+   "A place where a road and a railroad meet on a freeway.",
+   "A place where a road and a railroad meet at different levels.",
+   "A place where a road and a railroad meet or cross at the same level.",
+   "Any place where a railroad can be crossed"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 25,
+  "category": "traffic-laws",
+  "question": "What is “all up weight”?",
+  "answers": [
+   "A vehicle’s own weight, as approved by the Licensing Authority",
+   "A vehicle’s own weight, plus the weight of the people and cargo that the vehicle is allowed to drive or carry, as approved by the Licensing Authority",
+   "A vehicle’s own volume plus the weight of the people and cargo it is allowed to drive or carry, as approved by the Licensing Authority",
+   "The volume of the vehicle and of the cargo it is allowed to drive or carry, as approved by the Licensing Authority"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 26,
+  "category": "traffic-laws",
+  "question": "What is “own weight”?",
+  "answers": [
+   "The vehicle’s weight with cargo but without the driver.",
+   "The vehicle’s weight without cargo and without the driver.",
+   "The vehicle’s weight with cargo and with a driver",
+   "The vehicle’s volume without cargo but without the driver"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 27,
+  "category": "traffic-laws",
+  "question": "When a driver gives “right of way”, it means that:",
+  "answers": [
+   "He merges with traffic without causing an accident",
+   "He allows other drivers to continue driving without causing them to change their speed or to stop",
+   "He barely manages to push into the traffic flow",
+   "He enters the traffic flow in the same speed as the other vehicles."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 28,
+  "category": "traffic-laws",
+  "question": "When is it permitted to overtake, in one go, two vehicle that are driving before you on your lane",
+  "answers": [
+   "Only on highways.",
+   "When overtaking is not prohibited, and when the overtaking can be safely completed.",
+   "This type of overtaking is absolutely prohibited by law.",
+   "Only when overtaking two private passenger cars."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 29,
+  "category": "traffic-laws",
+  "question": "Define an “axle” of a vehicle:",
+  "answers": [
+   "The vehicle’s back beam to which the vehicle’s spare wheel is connected.",
+   "A shaft which transmits the rotary motion from the gearbox to the engine.",
+   "Shaft or system of shafts running the width of the vehicle attached to the wheels.",
+   "The vehicle’s front part, designed to absorb the impact of low-speed collisions"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 30,
+  "category": "traffic-laws",
+  "question": "Who is a “road user”?",
+  "answers": [
+   "A person who uses the road for standing or running only",
+   "A person who uses the road for riding a motor vehicle only",
+   "A person who uses the road for bicycle riding only",
+   "A person who uses the road for driving, traveling, riding, walking, standing or any other purpose"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 31,
+  "category": "traffic-laws",
+  "question": "Define “to dip the lights”:",
+  "answers": [
+   "Turning off the high beam and turning on the fog lights",
+   "Changing the height of the parking beam",
+   "Reverting from low beam to high beam.",
+   "Reverting from high beam to low beam."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 32,
+  "category": "traffic-laws",
+  "question": "Define “Junction”:",
+  "answers": [
+   "A meeting point of two roads or more.",
+   "The area formed by the junction of two or more roads at different levels.",
+   "The area formed by the junction of a railroad and a roadway",
+   "The junction of two urban roadways, provided that they are both asphalt-paved."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 33,
+  "category": "traffic-laws",
+  "question": "Define “stop line”:",
+  "answers": [
+   "A line drawn on either full or half width across the road marking a stopping point for vehicles.",
+   "A line along the road, marking the point in which a vehicle must stop, in junctions with traffic lights only.",
+   "A line along the road, marking the point in which a vehicle must stop, before a railway crossing",
+   "A junction-line along the road, either full or partial, marking the point in which a vehicle must stop near a pavement"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 34,
+  "category": "traffic-laws",
+  "question": "Define “play street”:",
+  "answers": [
+   "A main road joined by side roads.",
+   "A road designed for children’s games, pedestrians and vehicles, sign posted at the entrance with the “play street” sign.",
+   "A street designated for children’s games, into which only pedestrians and two wheeled vehicles are permitted to enter.",
+   "A street in which different types of vehicles may drive side by side"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 35,
+  "category": "traffic-laws",
+  "question": "What is a “rigid veicle”?",
+  "answers": [
+   "A vehicle body which exceeds the size of a normal vehicle.",
+   "A vehicle body in which the driver’s compartment is separated from the trunk.",
+   "A vehicle body with a partition between the driver’s seat and the passengers.",
+   "A vehicle body in which the driver’s compartment and the trunk comprise one unit."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 36,
+  "category": "traffic-laws",
+  "question": "Define “slow moving vehicle”:",
+  "answers": [
+   "A motor vehicle having a prescribed maximal speed of 50 k.p.h.",
+   "A motor vehicle having a prescribed maximal speed of no less than 50 k.p.h.",
+   "A vehicle restricted by law to 40 k.p.h. or less",
+   "A motor vehicle having a prescribed maximal speed of 55 k.p.h."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 37,
+  "category": "traffic-laws",
+  "question": "Which of the following is an emergency vehicle?",
+  "answers": [
+   "A Red Magen David Ambulance, an Israel Police vehicle, IDF vehicle, Fire-fighting vehicle, integrated policing vehicle or any other vehicle approved by the Authority, when it sounds its emergency signals and operates flashing lights and sounds an alarm signal.",
+   "Any ambulance, IDF vehicle, fire-fighting vehicle or other commercial vehicle that was authorized to function as an emergency vehicle by the Licensing Authority",
+   "Every vehicle of the Israel Police or the IDF and vehicles that are used for regular security missions in borderline settlements",
+   "A vehicle of the Israel Police or the IDF and a fire-fighting vehicle only"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 38,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive passengers for hire in a private passenger car?",
+  "answers": [
+   "Yes, if a contract is signed between the driver and the passengers",
+   "Yes, if the vehicle is equipped with a standard chassis, approved by the Licensing Authority",
+   "No",
+   "No, except with a permission of the Tax Authorities"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 39,
+  "category": "traffic-laws",
+  "question": "What is the definition of an “obsolete vehicle” in regard to private passenger cars?",
+  "answers": [
+   "A private passenger car is not included in the definition of an “obsolete vehicle”.",
+   "A private passenger car that was manufactured more than 19 years ago.",
+   "A private passenger car that was manufactured more than 15 years ago.",
+   "A vehicle that does not meet the compelling Israeli standard."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 40,
+  "category": "traffic-laws",
+  "question": "What is a “private passenger car”?",
+  "answers": [
+   "A public motor vehicle, designed to carry eight passengers, licensed as a public vehicle",
+   "A private motor vehicle, designed to carry up to eight passengers, apart from the driver and stated on the vehicle license private vehicle.",
+   "A motor vehicle, designed to carry ten passengers, licensed as a private vehicle",
+   "A private motor vehicle, designed to carry at least twelve passengers, licensed as a private vehicle"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 41,
+  "category": "traffic-laws",
+  "question": "When a vehicle is disqualified from use on the road:",
+  "answers": [
+   "It is forbidden to be on the road without authorization from the licensing authority.",
+   "It is forbidden to get back on the road without authorization of the insurance company",
+   "It is allowed to stay on the road for a period of up to seven days after being taken off the road.",
+   "It is allowed to stay on the road unlimitedly, as long as it doesn’t pose any traffic safety risk"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 42,
+  "category": "traffic-laws",
+  "question": "Define “path”:",
+  "answers": [
+   "Part of the width of the road designated for pedestrians only.",
+   "A part of the road, designed for motorcycle traffic only.",
+   "Lane or part of a lane that is not a road and designated for specific users.",
+   "A part of the road, which was marked by the “Israel’s Paths” Company."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 43,
+  "category": "safety",
+  "question": "When driving in reverse:",
+  "answers": [
+   "You must use another person to guide you.",
+   "You must use another person to guide you on highways..",
+   "You must use another person to guide you during \"lighting up time\".",
+   "You are permitted to use another person to guide you."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 44,
+  "category": "traffic-laws",
+  "question": "After parking your car besides the pavement, on the right side of an urban road:",
+  "answers": [
+   "You should verify that the passenger sitting in the left back seat gets out very carefully from the car to the road.",
+   "You should verify that the maximal distance between the car and the pavement is one meter.",
+   "Before getting out of the car, you should verify that this will not disturb any road user.",
+   "If the street is not lit, you should turn on the parking lights."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 45,
+  "category": "traffic-laws",
+  "question": "Define “built dividing area”:",
+  "answers": [
+   "A separation area which divides the road lengthwise by means of an elevated structure above the road way",
+   "The area along a roadway, in which road users can stop, park their vehicles or stand in for refreshment",
+   "Any area that is marked on the road on which it is forbidden to drive",
+   "Any part of the road (pavement, hard shoulder, traffic island) which is elevated above the road way."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 46,
+  "category": "traffic-laws",
+  "question": "What is a “safety seat”:",
+  "answers": [
+   "A seat meeting specified standards installed on two-wheelers and designed for transporting children.",
+   "A seat, meeting specified standards, secured to the vehicle with a safety belt and used for transporting children with independent belts.",
+   "Any seat that is adjusted for driving children and elderly people and meets the standard which was set by the Ministry of Environmental Protection",
+   "A seat which is installed inside a vehicle during its manufacture-stage and is adjusted for driving children with a maximum age of 14 years"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 47,
+  "category": "traffic-laws",
+  "question": "What is a “booster seat”?",
+  "answers": [
+   "A seat that is designed for transporting small children, restrained by the safety belt of the vehicle.",
+   "A standard seat that is designed for transporting children until 18 years of age",
+   "A seat that is designed for a driver whose height is less than 160 cm and whose age is more than 18 years",
+   "A seat that is designed for transporting children on bicycles only while the children are restrained by a safety belt."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 48,
+  "category": "traffic-laws",
+  "question": "Define “motor vehicle”:",
+  "answers": [
+   "A vehicle propelled by a diesel engine only",
+   "A vehicle propelled by a gasoline engine only.",
+   "A vehicle, propelled by any power or mechanical means.",
+   "A vehicle with at least two wheels."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 49,
+  "category": "traffic-laws",
+  "question": "Which documents should a driver be in possession of whilst driving?",
+  "answers": [
+   "Valid driving license, vehicle registration, compulsory insurance certificate and any other lawfully issued certificate",
+   "Driving license and vehicle registration only",
+   "Identity card, driving license, comprehensive insurance certificate and a certification of a towing arrangement for the vehicle",
+   "Identity card, driving license and a certificate testifying about the vehicle’s proper functioning signed by a manager of a garage"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 50,
+  "category": "traffic-laws",
+  "question": "When may a driver be in possession of only photocopies of his original vehicle documents?",
+  "answers": [
+   "Only a vehicle transport company is allowed to hold a photocopy of the vehicle registration",
+   "It is only permitted when the vehicle is owned by a corporation, and the photocopied documents’ validity is authorized by the safety officer’s signature and stamp on them.",
+   "When the vehicle is owned by a private person, and the photocopy is certified by the vehicle owner’s signature",
+   "Never. The driver must always be in possession of the original documents"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 51,
+  "category": "traffic-laws",
+  "question": "Is a driver obliged to show a policeman the vehicle’s original documents?",
+  "answers": [
+   "Yes, at a time and place to be determined by the policeman",
+   "No, a certified photocopy is sufficient",
+   "No, a photocopy signed by the vehicle’s owner is sufficient",
+   "Yes, at the time determined by the vehicle’s driver"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 52,
+  "category": "traffic-laws",
+  "question": "The lawful “point system for traffic offenses” is:",
+  "answers": [
+   "A system for issuing demerit points to drivers who are convicted of committing traffic offences once every five years.",
+   "A system for issuing demerit points to drivers who were convicted of committing offences against the traffic regulations.",
+   "A system through which courts are notified about vehicle improper functioning.",
+   "A system for registering convictions in criminal offences."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 53,
+  "category": "traffic-laws",
+  "question": "In what condition should the driver and vehicle’s document be kept?",
+  "answers": [
+   "The law doesn’t provide any explicit reference to this issue",
+   "It is enough if they are stainless and have a clear photo.",
+   "They should be kept at home, clean and readable at all times.",
+   "They should always be kept inside the car, clean and readable"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 54,
+  "category": "traffic-laws",
+  "question": "Where should a “new driver” sign be placed?",
+  "answers": [
+   "At the center of the vehicle rear window’s top edge, visible to other drivers from all sides",
+   "On the top edge of the vehicle’s left side window, visible to those driving on the left of the vehicle",
+   "On the bottom edge of the vehicle’s rear window, visible to those driving behind",
+   "On the bottom edge of the vehicle’s right side window, visible to those driving on the right of the vehicle"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 55,
+  "category": "traffic-laws",
+  "question": "For how long should a driver place a “new driver” sign on his rear window?",
+  "answers": [
+   "For a period of two years or for as long as he is a new driver",
+   "For a period of nine months",
+   "For a period of six months",
+   "For a period of three months"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 56,
+  "category": "traffic-laws",
+  "question": "Is it permitted to make changes in the vehicle or driver’s documentation?",
+  "answers": [
+   "It is permitted only to highlight writings that were erased or made unclear over time",
+   "It is permitted only to add or change an address, in the main post office branch",
+   "It is permitted only to add the zip code of a residence address, in the main post office branch",
+   "No. Only the Licensing Authority is allowed to change details in these documents."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 57,
+  "category": "traffic-laws",
+  "question": "Which changes in health condition must be reported to the Licensing Authority?",
+  "answers": [
+   "The driver doesn’t have to report anything to the Licensing Authority, but only to the Ministry of Health",
+   "Any detection of the following conditions: heart disease or any limitation of the nervous system, bones, eye-sight and hearing",
+   "The driver doesn’t have to report anything to the Licensing Authority. The report shall be made by the treating physician of the driver",
+   "A driver doesn’t have to report about changes in his health, except in case of a neurological problem"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 58,
+  "category": "traffic-laws",
+  "question": "Should every road user obey the traffic signs?",
+  "answers": [
+   "Yes, while on the sidewalk only.",
+   "Yes, every road user should obey the road signs.",
+   "No, only vehicle drivers should obey the traffic signs",
+   "Yes, while on the road way only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 59,
+  "category": "traffic-laws",
+  "question": "Do traffic light instructions have priority over “right-of-way giving” signs?",
+  "answers": [
+   "No, In legal terms, the instructions of a traffic light and the instructions of traffic signs are of equal effect",
+   "No, but a stop sign has priority over a green light for traffic moving in the same direction",
+   "Yes, traffic light instructions have priority over any type of traffic sign, except for a flashing yellow light",
+   "Sometimes. Traffic light instructions have priority in an urban way only"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 60,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions and signals of a policeman in uniform?",
+  "answers": [
+   "Yes, always, while taking extra precautions",
+   "No, only to the directions of a traffic policeman",
+   "No, only if the policeman is on duty",
+   "Yes, only as regards to traffic directions"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 61,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions of a policeman who has identified himself with an appropriate certificate?",
+  "answers": [
+   "No. you must only obey a traffic policeman who directs traffic in an intersection.",
+   "Yes, even if his directions contradict those of a road sign.",
+   "Generally not.",
+   "Yes, but only concerning traffic directions that are given within the intersection."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 62,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions and signals of a municipal inspector in uniform?",
+  "answers": [
+   "No. It is only obligatory to obey as regards to parking directions within city limits",
+   "No. It is only obligatory to obey as regards to the presentation of a driver’s license",
+   "Usually not",
+   "Yes, if the directions are related to traffic control."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 63,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions of a Public Works Department employee in uniform?",
+  "answers": [
+   "No, unless he directs you to stop on the road’s “hard shoulders” only.",
+   "Yes, but on urban roads only.",
+   "Yes, wherever road pavement or maintenance works are conducted.",
+   "No, it is only obligatory to obey a policeman in uniform,"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 64,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions and signals of a military policeman in uniform?",
+  "answers": [
+   "No, only for the purpose of stopping a vehicle",
+   "Yes, equally to a civil policeman",
+   "No, only as regards to the presentation of a driver’s license",
+   "Usually not"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 65,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions and signals of a policeman, even when a certain direction or signal is opposed to the traffic signs?",
+  "answers": [
+   "Yes, except for directions which contradict a stop sign.",
+   "Yes, it is obligatory to obey with full caution.",
+   "No, it is not obligatory to obey",
+   "Yes, except for directions which contradict a no-entry sign."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 66,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions and signals of a military policeman, even when a certain direction or signal is opposed to the traffic signs?",
+  "answers": [
+   "Yes, it is obligatory to obey with full caution.",
+   "Yes, except for directions which contradict a no-entry sign.",
+   "No, it is not obligatory to obey",
+   "Yes, except for directions which contradict a stop sign."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 67,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to obey the directions and signals of an authorized municipal inspector, even when a certain direction or signal is opposed to the traffic signs?",
+  "answers": [
+   "Yes, except in the case of a “stop” sign",
+   "No, it is not obligatory to obey",
+   "Yes, it is obligatory to obey, with full caution",
+   "Yes, except in the case of a “no-entry” sign"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 68,
+  "category": "traffic-laws",
+  "question": "Can a temporary sign, which is posted under the direction of a police officer, be regarded as a legitimate traffic sign?",
+  "answers": [
+   "No, it is not a legitimate traffic sign",
+   "Yes, except in the case of a “no-entry” sign",
+   "Yes, it is regarded as a legitimate traffic sign",
+   "Yes, except in the case of a “stop” sign"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 69,
+  "category": "traffic-laws",
+  "question": "When an intersection is posted with both traffic signs and traffic lights, the instructions of which has the priority over the other?",
+  "answers": [
+   "Traffic signs always have priority (a traffic light might malfunction)",
+   "A stop sign has priority over a non-flickering traffic light",
+   "A “right-of-way giving” sign has priority over a non-flickering traffic light",
+   "Traffic light signals (except for a flashing yellow light) have priority over a right-of-way sign"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 70,
+  "category": "traffic-laws",
+  "question": "Can an owner of a valid driver’s license for a particular group of vehicle drive any vehicle of the same group?",
+  "answers": [
+   "Yes, provided that the driver can operate and use it proficiently",
+   "Yes, holder of a valid driver’s license can drive any vehicle, unconditionally",
+   "Yes, provided that he holds a police certificate, testifying that he can operate the vehicle proficiently",
+   "Yes, provided that he had not been found guilty of any traffic offence"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 71,
+  "category": "traffic-laws",
+  "question": "When is it forbidden for a person to drive any type of vehicle?",
+  "answers": [
+   "When he did not rest at least 8 hours before driving",
+   "When his physical or mental state might endanger other road-users",
+   "Before taking a medication and during the following 24 consecutive hours",
+   "As long as the driver holds a valid driver’s license, there is no law that prohibits him from driving"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 72,
+  "category": "traffic-laws",
+  "question": "Can a person drive a vehicle immediately after taking medications which have effect on his fitness to drive?",
+  "answers": [
+   "No, unless 4 hours pass from the time he takes the medication",
+   "Yes, if these medications do not affect his level of driving",
+   "No.",
+   "Yes, when the medication has a lasting harmful effect"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 73,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive an un-roadworthy vehicle?",
+  "answers": [
+   "Yes, if the malfunction doesn’t involve the vehicle’s brake system",
+   "It is forbidden to drive an un-roadworthy vehicle that cannot be fully controlled",
+   "Yes, if the malfunction involves the vehicle’s lighting system only",
+   "Yes, if the malfunction involves the vehicle’s steering system only"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 74,
+  "category": "traffic-laws",
+  "question": "Is it permitted to drive a vehicle when its front field of vision is restricted?",
+  "answers": [
+   "Yes, but during the day time.",
+   "No, unless the restriction is only negligible.",
+   "Yes, provided that the field of vision is restricted from the front side only.",
+   "It is forbidden during rainy weather and permitted at any other time."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 75,
+  "category": "traffic-laws",
+  "question": "Is it permitted to take one hand off the wheel or handlebar while driving?",
+  "answers": [
+   "Yes, only for tuning the vehicle’s radio or operating the lighter",
+   "No, except for changing gears and operating the direction indicator, or in order to assure the vehicle's proper function.",
+   "Not for any reason",
+   "Yes, for using a cellular phone"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 76,
+  "category": "traffic-laws",
+  "question": "How can a cellular phone be operated whilst driving?",
+  "answers": [
+   "Only by means of a “hands free device” that is installed in the vehicle and can be used without being held.",
+   "When the driver holds the phone with the right hand",
+   "Only by using earphones that are connected to both ears",
+   "It is absolutely forbidden to use a phone while driving"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 77,
+  "category": "traffic-laws",
+  "question": "When is a driver obliged to wear eyeglasses or contact lenses?",
+  "answers": [
+   "When his driver’s license states that he must wear them while driving.",
+   "Only when he is driving during lighting up time, and provided that this requirement is stated on his driver’s license",
+   "Only when he is driving during night time, provided that this requirement is stated on his driver’s license",
+   "While driving in limited visibility and when he is dazzeled."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 78,
+  "category": "traffic-laws",
+  "question": "How should one drive while inside a “play street”?",
+  "answers": [
+   "The driver should avoid entering a play street while children are playing",
+   "Always in low gear and never driving in reverse.",
+   "The driver should honk and alert pedestrians that a vehicle has entered the street",
+   "The driver should allow pedestrians and children to carry on with their activities without endangering them"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 79,
+  "category": "traffic-laws",
+  "question": "On which part of the street is a private passenger car allowed to drive?",
+  "answers": [
+   "During heavy traffic – on the road edge and the separation area",
+   "On the roadway and the separation area always.",
+   "On a roadway only - wherever a roadway exists",
+   "On any part of the road"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 80,
+  "category": "traffic-laws",
+  "question": "Is a cyclist allowed to use a public transportation lane?",
+  "answers": [
+   "A cyclist may use a public transportation lane when it is the left lane only",
+   "Yes, when the lane is on the roadway’s right side",
+   "No, only motorcycles are allowed to use the public transportation lane",
+   "No, only public vehicles are allowed to use this lane"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 81,
+  "category": "traffic-laws",
+  "question": "In which type of road is it obligatory to use the road’s farthest right side?",
+  "answers": [
+   "In a freeway",
+   "In a two-way road only",
+   "In any type of road",
+   "In a one-way road only"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 82,
+  "category": "traffic-laws",
+  "question": "In the following illustration you can see a wide road. Which of the numbers within the illustration marks a road way?",
+  "answers": [
+   "1",
+   "3",
+   "2",
+   "5"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 83,
+  "category": "traffic-laws",
+  "question": "A “central divider” is:",
+  "answers": [
+   "An area in which parking is prohibited, unless a traffic sign only directs otherwise",
+   "An area allowing escape at a time of danger, marked by a specific traffic sign",
+   "An area intended for two-wheeler parking on an urban way, without requiring any specific traffic sign",
+   "An area intended for parking on an urban way"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 84,
+  "category": "traffic-laws",
+  "question": "Where should vehicles drive in a road divided by a Central divider?",
+  "answers": [
+   "In case of a three-lane roadway – on the left lane",
+   "In case of a two-way roadway – on the roadway’s left side",
+   "On the right of the Central divider - unless otherwise marked",
+   "On the left of the Central Divider."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 85,
+  "category": "traffic-laws",
+  "question": "Where should vehicles drive in a road divided by a continuous white line?",
+  "answers": [
+   "On the right side of the line only",
+   "On the right side of the line, but it is permitted to drive on the left side of the line for overtaking.",
+   "On the left side of the separation line",
+   "The greater part of the vehicle should be on the right side of the line"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 86,
+  "category": "traffic-laws",
+  "question": "Who is allowed to drive against traffic in a one-way street?",
+  "answers": [
+   "It is prohibited, except for a security vehicle on duty, or in accordance with a policeman’s directions",
+   "It is allowed for cyclists only",
+   "It is unconditionally prohibited, even when a policeman directs otherwise",
+   "It is allowed on holidays, when traffic is light and no disturbance is caused"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 87,
+  "category": "traffic-laws",
+  "question": "When is it permitted to drive on a pavement?",
+  "answers": [
+   "It is permitted to drive on the sidewalk when one wants to cross it in order to enter/exit a yard or building.",
+   "It is absolutely prohibited to drive on the sidewalk.",
+   "It is permitted to drive on the sidewalk when it is free of pedestrians.",
+   "It is permitted to drive on the sidewalk when the road is blocked or obstructed"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 88,
+  "category": "traffic-laws",
+  "question": "What should a tractor driver do when he obstructs the traffic behind him on a road?",
+  "answers": [
+   "Drive on the right lane of the road,only",
+   "Drive on the right side of the road and even on the hard shoulder if it is required and safe",
+   "He is permitted to drive on the left lane or on the right hard shoulder only.",
+   "Always drive on the hard shoulder."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 89,
+  "category": "traffic-laws",
+  "question": "What should you do when facing a structure, post or closed area, while driving on a two-way road?",
+  "answers": [
+   "You should continue driving according to size of the structure, post or closed area.",
+   "You are permitted to pass the place from either its right or left side",
+   "You should pass the place from its left side",
+   "You should pass on the right side, unless otherwise marked"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 90,
+  "category": "traffic-laws",
+  "question": "What should you do when facing a structure, post or closed area, while driving on a one-way roadway?",
+  "answers": [
+   "On an urban road - from either its right or left side; on a highway – always from its right side.",
+   "You should pass the place from its left side",
+   "You should pass the place from its right side only",
+   "You are permitted to pass the place from either its right or left side, unless otherwise marked"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 91,
+  "category": "traffic-laws",
+  "question": "the holder 0f a \"B\" driving license  is entitled to drive",
+  "answers": [
+   "any licensed invalid carriage with an all up weight of 4000klg",
+   "a licensed invalid carriage with an all-up weight of 2500klg",
+   "any vehicle with an all-up weight of 5000klg",
+   "any invalid carriage with no weight restriction."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 92,
+  "category": "traffic-laws",
+  "question": "A driver’s license will not be renewed if it was expired for a period of more than:",
+  "answers": [
+   "Nine months, unless the license holder passes the required examinations and tests, as directed by the Licensing Authority",
+   "Four months, unless the license holder passes the required examinations and tests, as directed by the Licensing Authority",
+   "Six months, unless the license holder passes the required examinations and tests, as directed by the Licensing Authority",
+   "One year, unless the license holder passes the required examinations and tests, as directed by the Licensing Authority"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 93,
+  "category": "signs",
+  "question": "In a properly functioning traffic light – how many times does the green light blinks before it turns yellow?",
+  "answers": [
+   "Four times.",
+   "Three times.",
+   "One time.",
+   "It varies according to traffic loads."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 94,
+  "category": "traffic-laws",
+  "question": "Where is an ATV (All Terrain Vehicle) (Quad bike) allowed to drive?",
+  "answers": [
+   "On dirt roads and on roadways within the limits of a Moshav or Kibbutz",
+   "Only on a pavement within the limits of a Moshav or Kibbutz",
+   "On a freeway only",
+   "On on a roadway and only on an urban road."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 95,
+  "category": "traffic-laws",
+  "question": "What is a “vehicle non-use notice” (taking a vehicle off the road)?",
+  "answers": [
+   "A vehicle non-use notice given to the vehicle owner by a manager of an authorized garage, following the detection of a malfunction in the vehicle",
+   "A vehicle non-use notice given to the driver by a policeman, a car assessor or a driving examiner due to a malfunction of the vehicle or damage caused by an accident.",
+   "A vehicle non-use notice given to the vehicle owner by a driving examiner, following the detection of a malfunction in the vehicle",
+   "A vehicle non-use notice given to the driver by a policeman when the driver commits a traffic offence"
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 96,
+  "category": "traffic-laws",
+  "question": "Under which conditions is it permitted to carry a passenger, besides the driver, on an ATV  (quad bike)?",
+  "answers": [
+   "Unconditionally, unrestrictedly",
+   "On a quad only",
+   "When one has a permit to do so from the Licensing Authority, indicated on the vehicle’s registration documents",
+   "Provided that the driver’s minimum age is 21 years"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 97,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to wear a helmet while driving an ATV?",
+  "answers": [
+   "It is obligatory to wear a helmet when the ATV doesn’t have a safety frame",
+   "No, it is not obligatory to wear a helmet",
+   "Yes, the driver and all passengers must wear a helmet while driving",
+   "It is obligatory to wear a helmet on a roadway only"
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 98,
+  "category": "traffic-laws",
+  "question": "Under which conditions is the driver of a utility vehicle (mule) allowed to carry a passenger with him?",
+  "answers": [
+   "It is allowed, without any condition",
+   "It is allowed, provided that the driver’s minimum age is 21 years",
+   "It is allowed on a farm utility vehicle (mule) only",
+   "When he has a permit to do so from the Licensing Authority"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 99,
+  "category": "traffic-laws",
+  "question": "What is the maximum allowed speed for a utility vehicle?",
+  "answers": [
+   "40 Km/h",
+   "70 Km/h",
+   "50 Km/h on an urban road",
+   "60 Km/h on a freeway"
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 100,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to wear safety belts in a utility vehicle?",
+  "answers": [
+   "Yes, it is obligatory on freeways only, for both the driver and the passengers",
+   "Yes, it is obligatory on any type of road, for both the driver and all the passengers",
+   "Yes, but it is only obligatory on dirt roads, for both the driver and the passengers",
+   "No, it is not obligatory to wear safety belts"
+  ],
+  "correct": 1,
+  "hasImage": false
+ }
+]

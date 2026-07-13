@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 701,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 3 before an intersection without traffic signs. According to the rules of giving right-of-way, in what order should vehicles that arrived at the same time enter the intersection?",
+  "answers": [
+   "You enter first (3), the garbage truck comes second (1), and the private vehicle is last (2).",
+   "The garbage truck enters first (1), second is the private vehicle (2), and you go last (3).",
+   "You enter first (3), second is the private vehicle (2), and the garbage truck is last (1).",
+   "The private vehicle will go in first (2), you go second (3), and the garbage truck is last (1)."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 702,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 3 before an intersection without traffic signs. According to the rules of giving right of way, who should enter the intersection first?",
+  "answers": [
+   "The vehicle you are driving (3).",
+   "The motorcyclist (2).",
+   "The law offers no solution to the given situation.",
+   "The cyclist (1)."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 703,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 3. According to the rules of giving right-of-way, in what order should the vehicles enter the intersection?",
+  "answers": [
+   "The vehicle you are driving goes in first (3), and the red private vehicle will follow (1).",
+   "The cyclist will go in first (2), and the vehicle you are driving will follow (3).",
+   "The red private vehicle will go in first (1), and the cyclist will follow (2).",
+   "The cyclist enters first (2), and the red private vehicle will follow (1)."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 704,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 3. According to the rules of giving right-of-way, in what order should the vehicles enter the intersection?",
+  "answers": [
+   "The cyclist (2), the blue vehicle (1), the vehicle you are driving (3).",
+   "The vehicle you are driving (3), the motorcyclist (2), the blue vehicle (1).",
+   "The vehicle that continues driving straight will go first into the intersection.",
+   "The blue vehicle (1), the motorcyclist (2), the vehicle you are driving (3)."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 705,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 3. According to the rules of giving right of way, in what order should the vehicles enter the intersection which you approach (the red vehicle is not an emergency vehicle)?",
+  "answers": [
+   "The red vehicle (2) the vehicle I am driving (3), the cyclist (1).",
+   "The cyclist (1), the red vehicle (2), the vehicle I am driving (3).",
+   "The vehicle I am driving (3), the red vehicle (2), the cyclist (1).",
+   "The vehicle I am driving (3) the cyclist (1), the red vehicle (2)."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 706,
+  "category": "traffic-laws",
+  "question": "Do you (vehicle no. 3) have to give right-of-way to the cyclist (2) in the roundabout?",
+  "answers": [
+   "No, because the cyclist always yields to other vehicles.",
+   "No, it depends on my good will.",
+   "Yes, always",
+   "No, the rules of right-of-way in a roundabout do not apply to cyclists."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 707,
+  "category": "traffic-laws",
+  "question": "How would you (vehicle no. 3) conduct yourself in the following turn?",
+  "answers": [
+   "Give right of way to the green vehicle (1).",
+   "Drive, you have right of way in the intersection (3).",
+   "Give right of way to the red vehicle (2).",
+   "Give right of way to both vehicles (1, 2)."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 708,
+  "category": "traffic-laws",
+  "question": "What are you (vehicle no. 3) required to do when approaching the following intersection (the red vehicle is not an emergency vehicle)?",
+  "answers": [
+   "You have right of way because you are crossing in a straight line (3).",
+   "Enter the intersection before the garbage truck (2), as it must yield (you [3] are coming from its right).",
+   "Give right of way to the tractor coming from the right only (1).",
+   "Give right of way to the crossing tractor (1) and truck (2)."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 709,
+  "category": "traffic-laws",
+  "question": "How would you (vehicle no. 3) conduct yourself in the following intersection?",
+  "answers": [
+   "Give right of way to the motorcycle only (2).",
+   "Give right of way to the motorcyclist (2) and to the yellow bus (1).",
+   "Give right of way to the yellow bus only (1).",
+   "Drive forward carefully. The other drivers (of vehicles 1 and 2) must yield."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 710,
+  "category": "traffic-laws",
+  "question": "How would you (vehicle no. 3) conduct yourself in the following intersection?",
+  "answers": [
+   "You (3) have right of way over the other vehicles.",
+   "The first one to arrive at the intersection enters it.",
+   "Give right of way to the motorcyclist (1)",
+   "Give right of way to the red vehicle (2)."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 711,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no.3. to whom will you give the right of way?",
+  "answers": [
+   "To the bus (2) only.",
+   "To the Motor-cyclist (1) and the Bus (2).",
+   "To none. You (3) have right of way.",
+   "To the vehicle that is closest to the intersection."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 712,
+  "category": "traffic-laws",
+  "question": "Which of the following vehicles may enter the intersection first?",
+  "answers": [
+   "The cyclist (2).",
+   "The closest vehicle to the intersection.",
+   "The yellow bus (1)",
+   "The vehicle turning left (3)."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 713,
+  "category": "traffic-laws",
+  "question": "Who of the following is entitled to enter the intersection first?",
+  "answers": [
+   "The motor-cyclist (1). You (2) should give him right-of-way.",
+   "In this event there is no generalisation and there is no importance in the order of entry into the junction.",
+   "You (2). The motor-cyclist (1) will always go in last.",
+   "The vehicle continuing to drive straight (you)"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 714,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 2. What should you do in the following situation?",
+  "answers": [
+   "Enter the intersection together with the red vehicle.",
+   "Give right of way to the red vehicle (1).",
+   "Continue driving (2), since you are on the main road",
+   "Continue driving normally - The red vehicle (1) is turning left and therefore it has to yield."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 715,
+  "category": "traffic-laws",
+  "question": "How would you (vehicle no. 2) conduct yourself in the following intersection?",
+  "answers": [
+   "Continue driving carefully, while keeping eye contact with the yellow vehicle (1) which should yield.",
+   "Wait and allow the yellow vehicle (1) to cross before you.",
+   "Stop (2) before entering the intersection and observe the condition of the traffic and of the traffic signs.",
+   "Give right of way to the yellow vehicle (1), because it is coming from your right."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 716,
+  "category": "traffic-laws",
+  "question": "According to the law, in what order should vehicles enter the following intersection?",
+  "answers": [
+   "The tractor (2) always enters the intersection last.",
+   "The tractor (2), you, as the vehicle making a left turn (3), the blue vehicle (1).",
+   "The vehicle turning left (3), the blue vehicle (1), the tractor (2).",
+   "You, as the vehicle making a left turn (3), followed by the tractor (2), and then the blue vehicle (1)."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 717,
+  "category": "traffic-laws",
+  "question": "According to the law, in what order should vehicles enter the following intersection?",
+  "answers": [
+   "The motorcycle (2), the red vehicle (1), your vehicle (3).",
+   "The red vehicle (1), your vehicle (3), the motorcycle (2).",
+   "The motorcycle (2), your vehicle (3), the red vehicle (1).",
+   "The red vehicle (1), the motorcycle (2), your vehicle (3)."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 718,
+  "category": "traffic-laws",
+  "question": "How should you behave at the following intersection (the red vehicle is not an emergency vehicle)?",
+  "answers": [
+   "Enter the intersection. You have right of way in the intersection (3)",
+   "Give right of way to the private vehicle (1), and to the truck (2).",
+   "Give right of way to the private vehicle (1).",
+   "Allow the big vehicle to drive (2). Big vehicles always get right of way."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 719,
+  "category": "traffic-laws",
+  "question": "According to the law, how should you (vehicle no. 3) behave at the following intersection?",
+  "answers": [
+   "Give right of way to the blue vehicle (1).",
+   "Cross carefully. The two other drivers should yield (3).",
+   "Give right of way to both vehicles (1,2).",
+   "Give right of way to the yellow vehicle (2)."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 720,
+  "category": "traffic-laws",
+  "question": "How should you behave at the following intersection?",
+  "answers": [
+   "Honk to warn the motor-cyclist and continue driving.",
+   "Keep driving. The motor-cyclist should yield.",
+   "Give right of way to the motorcyclist",
+   "Keep driving straight and blink with the high beam headlights to warn the motorcyclist."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 721,
+  "category": "traffic-laws",
+  "question": "In the following picture:",
+  "answers": [
+   "You always have right of way (2).",
+   "You should give right of way to the red vehicle (1) in the roundabout.",
+   "The driver of the red vehicle should give you right-of-way.",
+   "You have right-of-way in any case, because you come from the right."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 722,
+  "category": "traffic-laws",
+  "question": "When a vehicle is forced to stop on an inter-urban road and the driver or one of the passengers is about to exit the vehicle:",
+  "answers": [
+   "The driver must wear a vest when exiting the vehicle, only if other vehicles are on the road.",
+   "The first person to get out of the vehicle must wear a standard fluorescent vest when exiting the vehicle or stepping out of it.",
+   "No obligation applies to this situation. Wearing a vest is obligatory on an urban road only.",
+   "Only the driver is obliged to wear a vest, and not any other person exiting the vehicle."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 723,
+  "category": "traffic-laws",
+  "question": "What is the obligation of a driver transporting children, whilst children are disembarking from the school bus?",
+  "answers": [
+   "Drive away as soon as the students get off, so that the children will cross the road safely.",
+   "Wait and make sure that all the students that have got off and have stepped away from the vehicle.",
+   "Ensure that everybody got off through the rear door.",
+   "Wait for a police officer to arrive and assist the children to cross the road."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 724,
+  "category": "traffic-laws",
+  "question": "You are driving vehicle no. 3. In what order will vehicles enter the following intersection?",
+  "answers": [
+   "The vehicle on the left will go first (2), the vehicle on the right will go next (1), and you will go last (3).",
+   "You go first (3), the vehicle on the left is next (2), and the vehicle on the right is last (1).",
+   "The vehicle on the right (1), you go next (3), and the vehicle on the left is last (2).",
+   "You go first (3), the vehicle on the right is next (1), and the vehicle on the left is last (2)."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 725,
+  "category": "traffic-laws",
+  "question": "How should you (vehicle no. 3) behave while you turn right in the following intersection?",
+  "answers": [
+   "Enter (3) the center of the intersection in order to prevent the blue vehicle from hitting the cyclist..",
+   "Allow the cyclist to continue riding and turn right behind him.",
+   "Overtake the cyclist, quickly and carefully, while he is waiting.",
+   "Honk loudly to the cyclist (1), so that he will allow you to complete the right turn."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 726,
+  "category": "traffic-laws",
+  "question": "How should you behave on the road ahead of you?",
+  "answers": [
+   "Drive on the right lane only.",
+   "After the signposts, you may use all the lanes.",
+   "Use one of the two right hand lanes.",
+   "Stop under the green arrow."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 727,
+  "category": "traffic-laws",
+  "question": "Which is the correct lane for turning left?",
+  "answers": [
+   "It doesn’t matter which lane.",
+   "Always the right lane.",
+   "The left hand lane.",
+   "The lane that is more open."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 728,
+  "category": "traffic-laws",
+  "question": "Which of the following three vehicles is not in the correct lane, according to the traffic sign?",
+  "answers": [
+   "All three are driving according to the law.",
+   "The light (private) vehicle (1).",
+   "The fire-engine (2).",
+   "The purple pickup truck (3)."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 729,
+  "category": "traffic-laws",
+  "question": "How should you conduct yourself on the road ahead?",
+  "answers": [
+   "Continue driving in your lane.",
+   "Use the fastest lane.",
+   "Stop until the arrow changes to green.",
+   "Pass to the adjacent right lane."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 730,
+  "category": "safety",
+  "question": "What are the advantages in looking far ahead?",
+  "answers": [
+   "It allows the driver to engage in other activities while driving straight.",
+   "It allows you to plan your drive according to the road’s condition and to avoid being surprised by other road users.",
+   "There are no advantages in looking far ahead. The important thing is what’s happening close to the vehicle.",
+   "It has no advantages. Only looking to the sides assists the driver."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 731,
+  "category": "safety",
+  "question": "How can we avoid danger when we start driving and when we merge with traffic?",
+  "answers": [
+   "Danger can be prevented by turning on all the distress signals and warn other drivers while merging with traffic.",
+   "Danger can be prevented by driving diagonally and at a higher speed while merging with traffic.",
+   "By quickly entering the lane in which traffic is flowing.",
+   "By giving an appropriate signal with the winker, looking in all directions and waiting until no one is obstructed.before driving."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 732,
+  "category": "safety",
+  "question": "What is the first thing you need to do after entering the vehicle and before starting to drive?",
+  "answers": [
+   "Make sure the hand-brake is applied and adjust the driver’s seat.",
+   "Start the engine and adjust the seat for safe driving.",
+   "Adjust the seat besides the driver to allow the passenger coming-in from the right an easy entrance.",
+   "Make sure you have an extra set of keys (reserve set) for the vehicle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 733,
+  "category": "safety",
+  "question": "What is the order of actions the driver needs to take before slowing down?",
+  "answers": [
+   "Step firmly on the brake pedal, to inform the driver behind you began to slow down.",
+   "Give a hand signal to the driver behind, glance at the mirror to see his response and slow down.",
+   "Turn your head backwards, step on the brake pedal to slow down and finally take a quick look at the mirrors.",
+   "Glance at the mirrors, ease off the accelerator pedal and use the brakes or gears."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 734,
+  "category": "traffic-laws",
+  "question": "Where in the vehicle should the fluorescent vest be kept (except for motor-cycles)?",
+  "answers": [
+   "In the driver compartment.",
+   "Next to the spare (reserve) wheel.",
+   "In the vehicle’s trunk.",
+   "In the vehicle’s engine."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 735,
+  "category": "safety",
+  "question": "Which factors affect the driver’s decision to shift to higher or lower gear?",
+  "answers": [
+   "The speed limit in that road section.",
+   "The vehicle’s speed, considering traffic condition, road condition and visibility.",
+   "When driving uphill, there is no consideration whether to shift to higher or lower gear.",
+   "The only affecting factor is the cumulative driving distance."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 736,
+  "category": "traffic-laws",
+  "question": "What is the first thing a driver should verify before driving an unfamiliar vehicle?",
+  "answers": [
+   "The identity of the vehicle’s owner and that the vehicle is not stolen.",
+   "That he is proficient in operating and using the controls of the vehicle.",
+   "That there are work tools, proper spare (reserve) tire, warning triangle and air compressor.",
+   "That the vehicle had gone through proper servicing on time."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 737,
+  "category": "safety",
+  "question": "How do you secure a parked automatic-transmission vehicle (except for a vehicle with a robotic gearbox)?",
+  "answers": [
+   "Shift into reverse gear (R) and secure the parking brake.",
+   "Shift into parking gear (P) and secure the parking brake.",
+   "Shift into neutral gear (N) and secure the parking brake.",
+   "Shift into first gear (1) and secure the parking brake."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 738,
+  "category": "safety",
+  "question": "Before starting to drive, what action needs to be taken by the driver before moving the automatic transmission selector?",
+  "answers": [
+   "Release the clutch pedal, to connect between the engine and the gear box.",
+   "Step on the accelerator, to start driving immediately.",
+   "Release the parking brake, to release the gearbox lock.",
+   "Apply the foot-brake, to prevent the vehicle from moving."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 739,
+  "category": "safety",
+  "question": "In order to start driving, what is the action the driver has to take before releasing the hand-brake in a vehicle with automatic transmission?",
+  "answers": [
+   "Apply the foot brake pedal, to prevent the vehicle from moving.",
+   "Shifting the gear handle from parking (P) to neutral (N).",
+   "Pushing the gearbox’s lock button while in parking (P).",
+   "Shifting the gear handle to neutral (N)."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 740,
+  "category": "safety",
+  "question": "How would you conduct yourself in a vehicle with automatic transmission, when driving down a continuous steep road?",
+  "answers": [
+   "Apply the brake pedal intermittently to slow the vehicle down and shift into a lower gear, depending on the slope.",
+   "Shift into high gear according to the slope and step continuously on the brake pedal to slow down.",
+   "On a steep and continuous downhill road, use the brake system only, without shifting into an adjusted gear.",
+   "On a steep and continuous downhill road, shift into an appropriate gear and continue driving."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 741,
+  "category": "safety",
+  "question": "How would you start the engine of an automatic transmission vehicle?",
+  "answers": [
+   "Make sure the gear handle is in (D) and the hand brake is released.",
+   "Make sure the hand brake is applied, and the gear selector is in (P) or (N).",
+   "The selected gear is of no significance. Just make sure that the hand brake is not released.",
+   "Make sure the gear selector is in (R) and the hand brake is released."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 742,
+  "category": "vehicle",
+  "question": "How would you shift to a lower gear while driving uphill in an automatic transmission vehicle, without moving the gear handle?",
+  "answers": [
+   "By taking the foot off the brake pedal without giving gas, in order to get the right speed.",
+   "By a sharp and quick pressure (“kick down”) on the accelerator, or by applying a designated electric switch.",
+   "By stepping firmly on the brake pedal.",
+   "By gradually stepping on the accelerator, until getting the desired result."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 743,
+  "category": "vehicle",
+  "question": "In order to shift gears from parking (P) to Drive (R or D) in an automatic transmission vehicle, you should:",
+  "answers": [
+   "Step on the brake pedal, press on the selector lock button, and apply the gear selector to Drive.",
+   "Step on the brake pedal and the gear will be shifted automatically.",
+   "Press on the immobilizer (operating button) and the gear will be shifted automatically.",
+   "Step on the clutch and shift the gear handle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 744,
+  "category": "traffic-laws",
+  "question": "When driving on a narrow downhill road, you should give right of way to vehicles driving uphill in the following instances:",
+  "answers": [
+   "Only on an urban road.",
+   "Only if a dangerous descent sign is placed.",
+   "When the road section is too narrow to allow both vehicles to pass each other at the same time.",
+   "Only if the weight of the vehicle driving uphill is more than four tons."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 745,
+  "category": "safety",
+  "question": "Why is it important to drive on the right side of the road?",
+  "answers": [
+   "It allows you to be assisted by the yellow line for driving in a straight line.",
+   "It qllows vehicle passengers to easily exit the vehicle.",
+   "Driving on the right side of the road is of no significance, except for one-way roadways.",
+   "In order to keep a distance from incoming traffic from the opposite direction, and reducing the risk of “head on” collision."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 746,
+  "category": "safety",
+  "question": "What is the advantage of driving on the right side of the road?",
+  "answers": [
+   "It helps to escape quickly to the “hard shoulders” in case of danger.",
+   "It allows you to stay within the permitted distance of 40cm from the road’s edge.",
+   "There is no advantage in driving on the right side of the road, except for one-way roadways.",
+   "It reduces the response distance in case of immediate danger."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 747,
+  "category": "traffic-laws",
+  "question": "When you are standing with your vehicle before an intersection while the red light is on, and you notice a security vehicle behind you, with its siren on and its lights flashing:",
+  "answers": [
+   "You should get on the sidewalk (pavement) in order to clear the way for the security vehicle.",
+   "You are permitted to enter the intersection while the red light is on as well.",
+   "You are not allowed to enter the intersection while the red light is on.",
+   "You should enter the intersection while the red light is on."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 748,
+  "category": "safety",
+  "question": "What is the advantage of driving on the right side of the road?",
+  "answers": [
+   "You are not preventing other vehicles from overtaking",
+   "There is no advantage in keeping to the right side while driving.",
+   "It is easier to see the incoming traffic from your opposite direction.",
+   "It allows an increased response time while overtaking."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 749,
+  "category": "safety",
+  "question": "How does driving on the right side of the road affect drivers' field of vision?",
+  "answers": [
+   "Keeping to the right improves the field of vision of the drivers in the vehicles behind you.",
+   "Driving on the right reduces the view angle of those driving behind you.",
+   "There is no connection between driving on the right and the field of view.",
+   "The field of vision is not affected: A comfortable field of view can only be created by doubling the required distance between vehicles."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 750,
+  "category": "safety",
+  "question": "What is the advantage of driving on the right side of the road?",
+  "answers": [
+   "It prevents the vehicle behind you from overtaking you.",
+   "You create a safety distance between yourself and oncoming vehicle traffic.",
+   "There is no advantage in driving on the right side of the road, except for one-way roads only.",
+   "You Stay within the permitted distance of no more than 40cm from the road’s edge."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 751,
+  "category": "traffic-laws",
+  "question": "You are approaching a tunnel  with a road sign displayed in front of you and want to overtake a slow vehicle driving ahead of you:",
+  "answers": [
+   "It is forbidden to overtake, or to try overtaking, within a distance of 100 meters before the tunnel.",
+   "If the tunnel is sufficiently lit, it is also permitted to overtake inside the tunnel.",
+   "It is forbidden to overtake,inside the tunnel or to try overtaking, within a distance of 50 meters before or after the tunnell",
+   "It is forbidden to overtake, and to try overtaking, within a distance of 250 meters before the tunnel."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 752,
+  "category": "traffic-laws",
+  "question": "When are we not obligated to drive on the right hand side of the road?",
+  "answers": [
+   "When overtaking.",
+   "When turning right.",
+   "Before a roundabout.",
+   "When approaching an intersection."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 753,
+  "category": "traffic-laws",
+  "question": "When are we not obligated to drive on the far right side of the right lane?",
+  "answers": [
+   "When turning right.",
+   "When approaching an intersection.",
+   "When turning left from a single-lane, two-way road.",
+   "Before a roundabout."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 754,
+  "category": "traffic-laws",
+  "question": "When are we not obligated to drive in the right lane?",
+  "answers": [
+   "Whilst overtaking another vehicle.",
+   "When another vehicle overtakes us from the left on a two-lane roadway.",
+   "When we pass another vehicle from its right side.",
+   "When another vehicle in front of us signals about its intention to start driving on the roadway’s left side."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 755,
+  "category": "traffic-laws",
+  "question": "When are we not obligated to drive a private passenger car in the right lane?",
+  "answers": [
+   "When another vehicle overtakes us from the left.",
+   "When you pass another vehicle from its right side.",
+   "When the right lane is designated for another type of road users (e.g. public transportation lane).",
+   "When another vehicle that is driving on the left side of the road signals about its intention to start drive."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 756,
+  "category": "traffic-laws",
+  "question": "While driving on a road with two lanes in your direction of driving:",
+  "answers": [
+   "You are always permitted to drive on the left lane only.",
+   "You are obliged to drive in the right lane, unless you are overtaking or turning left.",
+   "You are permitted to drive on the right or left lane, according to the type of the vehicle.",
+   "You may drive on either lane, as long as you don’t cause any risk to traffic."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 757,
+  "category": "traffic-laws",
+  "question": "Is it permitted to park, in an urban area, vehicles transporting hazardous materials with an all up weight of more than 3,500 kg?",
+  "answers": [
+   "Yes, only when the tanks are empty.",
+   "Yes, provided that nobody smokes next to it.",
+   "Yes, but only at a distance of more than 400 meters from public or residential buildings.",
+   "It is absolutely forbidden to park this type of vehicle on an urban road."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 758,
+  "category": "traffic-laws",
+  "question": "What is a lane?",
+  "answers": [
+   "A roadway designated for motor-vehicle traffic only.",
+   "Part of a road’s width, designed to accommodate one line of vehicles, not including two-wheelers.",
+   "Any marking of two parallel lines on the roadway.",
+   "A passage in a private road in which vehicle traffic is prohibited."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 759,
+  "category": "signs",
+  "question": "What is the meaning of this sign?",
+  "answers": [
+   "End of a mountainous road.",
+   "Refreshment area for drivers. It is obligatory to turn on a blinking light, either yellow or red",
+   "Traffic cone, giving directions or marking an obstruction at a road works site.",
+   "Narrowing road."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 760,
+  "category": "safety",
+  "question": "What risks are caused when you  deviate abruptly between lanes?",
+  "answers": [
+   "The deviation might delay other drivers.",
+   "You might end up in a lane that you are not allowed to be in.",
+   "Risk of hitting a vehicle that you didn’t see before deviating.",
+   "It is risky when the deviation takes too long."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 761,
+  "category": "safety",
+  "question": "What is required in order to change lanes without causing any disturbance or risk?",
+  "answers": [
+   "The driver should only verify that he gives a signal with the winker while changing lanes.",
+   "The driver should give a timely signal from a sufficient distance, perform a peripheral check in all directions, and glance at the mirrors, before starting to change lanes.",
+   "The driver should communicate with other drivers and give a signal 3km before changing lanes.",
+   "The driver should give a signal with the winker and with the headlights while changing lanes."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 762,
+  "category": "safety",
+  "question": "What is the correct way for changing lanes?",
+  "answers": [
+   "Lane change should be done in two stages: First deviating and then signaling with the hand.",
+   "Lane change should be done in two stages: First deviating and then communicating with the other drivers.",
+   "You should pass to the other lane through the shortest diagonal distance and as quickly as possible.",
+   "First perform a check and glance at the mirrors, then check the lane you want to pass to, verify that you can pass to it and then deviate moderately (diagonally) to the other lane."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 763,
+  "category": "safety",
+  "question": "How should one change lanes?",
+  "answers": [
+   "Signal with the winker and make a short diagonal deviation to the intended lane.",
+   "After checking and taking account of the position and speed of other vehicles in the intended lane.",
+   "Drive as close as possible to the desired lane, and when no vehicle drives behind you – signal with the winker and make a short diagonal deviation to the intended lane.",
+   "Deviate quickly and fearlessly in a short diagonal, and verify that you are signaling with the winker."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 764,
+  "category": "traffic-laws",
+  "question": "When is it permitted to park on the left side of the road?",
+  "answers": [
+   "In any urban road.",
+   "In any one-way road.",
+   "In any road, provided that the deviation to the left is performed carefully.",
+   "Only in a one-way roadway which is not part of a road that has a separation area."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 765,
+  "category": "vehicle",
+  "question": "“Keeping a safe distance from the vehicle in front affects fuel consumption and vehicle wear and tear”. Correct or incorrect?",
+  "answers": [
+   "Incorrect: The distance has no influence on vehicle wear or fuel consumption.",
+   "Correct: Keeping distance prevents brake wear and excessive fuel consumption due to frequent acceleration and braking.",
+   "Incorrect: Using the breaks and the accelerator in order to regulate wind flow is important for increasing the driver’s alertness.",
+   "Incorrect: Keeping proper distance from the vehicle in front of you causes brake wear."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 766,
+  "category": "safety",
+  "question": "What is the order of actions to be taken in order to stop or park?",
+  "answers": [
+   "Check if it is permitted; make a peripheral check and slow down carefully.",
+   "The order of actions before parking is of no significance.",
+   "Slow down, deviate, stop and signal.",
+   "The order of actions doesn’t matter. The important thing is to do it carefully."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 767,
+  "category": "traffic-laws",
+  "question": "What is a driver obliged to do when an emergency vehicle on duty appears behind him?",
+  "answers": [
+   "Slow down and deviate to the right if the road has only one lane.",
+   "Stop on the right side of the road, away from the intersection, and allow the emergency vehicle to pass.",
+   "Slow down and allow the emergency vehicle to pass.",
+   "No action is required when an emergency vehicle approaches from behind."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 768,
+  "category": "traffic-laws",
+  "question": "When are you obliged to signal before moving out of your lane for the purpose of overtaking?",
+  "answers": [
+   "You are not obliged to signal before deviating, if there are no other vehicles near you.",
+   "You should signal at a reasonable distance before you begin to move out.",
+   "You should signal at least five meters before deviating from your lane.",
+   "You should first change lanes and then signal."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 769,
+  "category": "safety",
+  "question": "What is the main problem a driver faces when he approaches an intersection?",
+  "answers": [
+   "Many tasks he needs to perform simultaneously, in a short period of time.",
+   "The speed limit changes in an intersection.",
+   "Part of the intersection is always designated for public transportation.",
+   "The driver’s main problem is how to cross the intersection quickly."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 770,
+  "category": "safety",
+  "question": "How can a driver handle the many tasks he needs to perform when approaching an intersection?",
+  "answers": [
+   "Warn other road users that he is approaching the intersection (by honking and signaling).",
+   "Ignore other road users; especially those smaller than him.",
+   "Drive faster in order to cross the intersection more quickly.",
+   "Slow down before the intersection, look around, and avoid engaging in any activity other than driving."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 771,
+  "category": "safety",
+  "question": "How does a multitude of traffic signs before an intersection affect the driver’s response?",
+  "answers": [
+   "The driver is forced to slow down in order to identify the signs and obey their demands.",
+   "A multitude of traffic signs always confuses the driver.",
+   "A multitude of traffic signs will cause the driver to think faster in the intersection.",
+   "A multitude of traffic signs should not affect the driver’s conduct when approaching an intersection."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 772,
+  "category": "safety",
+  "question": "In order to overtake safely, the overtaking driver should:",
+  "answers": [
+   "Start overtaking only when the road is clear in a sufficient distance, and verify while overtaking that the road is still clear.",
+   "Overtake only when a sign permitting overtaking is placed.",
+   "Overtake in a speed that exceeds speed limit, in order to clear the road way.",
+   "Always overtake at a slow speed and with patience."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 773,
+  "category": "traffic-laws",
+  "question": "Four parking spaces for handicapped drivers are marked, one next to the other, in Herzel Street. All four spaces are currently free:",
+  "answers": [
+   "Drivers that do not display the handicap card showing the same sign as The road sign, even if they are free at the moment cannot use the parking spaces",
+   "Non-handicapped drivers are permitted to use the handicapped parking spaces for a short while, as long as they leave a phone number in which they can be reached at any moment.",
+   "Non-handicapped drivers are permitted to use the handicapped parking spaces for a short while, as long as at least half of these spaces are free.",
+   "Non-handicapped drivers are permitted to use the handicapped parking spaces for a moment, as long as they stay in the vehicle while it is parked."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 774,
+  "category": "safety",
+  "question": "What is the main risk of approaching an intersection on a wet road?",
+  "answers": [
+   "When it rains, there are more pedestrians.",
+   "On a wet road, the road markings are concealed.",
+   "The vehicle might skid into the area of the intersection due to the wet road.",
+   "Vehicles face no risk on a wet road."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 775,
+  "category": "safety",
+  "question": "How does pedestrian behavior in the area of the intersection affect drivers?",
+  "answers": [
+   "Pedestrians have no significant effect on drivers.",
+   "The main complication in an intersection is created when pedestrians are crowded on the sidewalk.",
+   "Driver should anticipate in advance possible dangerous behavior from pedestrians in the area of the intersection.",
+   "Pedestrians occupy pedestrian crossings for significant time periods, thus causing traffic delays."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 776,
+  "category": "safety",
+  "question": "What are the specific risks and problems in crossing intersections?",
+  "answers": [
+   "Many and various contact points between the different types of vehicle through the intersection.",
+   "Crossing the intersections takes a long time; an upsetting fact for drivers.",
+   "The fact that vehicles approach the intersection from different directions causes no problem. The problem is only with pedestrians.",
+   "Specific risks and problems are present only in intersections with traffic lights."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 777,
+  "category": "traffic-laws",
+  "question": "Which of the following vehicles are permitted to drive on the road’s “hard shoulders”?",
+  "answers": [
+   "Only taxis, in order to bypass vehicles that stand in an intersection.",
+   "No one is allowed, in to use the “hard shoulders”.",
+   "Non-motor vehicles, tractors and speed-restricted vehicles.",
+   "Only private vehicles and motorcycles are permitted to drive on the “hard shoulder”, and only in order to give right-of-way to buses."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 778,
+  "category": "safety",
+  "question": "Which of the following sentences is correct, as regards to the behavior of pedestrian near an intersection:",
+  "answers": [
+   "When pedestrians are using a pedestrian crossing, they are not obliged to take account of drivers approaching the intersection.",
+   "Pedestrians are at no risk near an intersection.",
+   "An intersection is the most dangerous place on the roadway, as drivers take no sufficient note of pedestrians but only of traffic lights.",
+   "The safest place for pedestrians to cross is the pedestrian crossing next to the intersection, because drivers are obliged to slow down in the area of the intersection."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 779,
+  "category": "safety",
+  "question": "What is the first action taken by drivers before crossing an intersection?",
+  "answers": [
+   "Checking and identifying the lanes after crossing the intersection, mainly in our direction of driving.",
+   "Looking beyond the intersection to identify the entry lanes to the opposite directions and the traffic in them",
+   "Making sure that the intersection is clear and that it can be crossed safely.",
+   "Entering the intersection."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 780,
+  "category": "traffic-laws",
+  "question": "A paraplegic is driving it the city and is in a hurry to a scheduled medical examination :",
+  "answers": [
+   "He is prohibited to use the bus lane as well as to exceed the speed limit.",
+   "He is permitted to exceed the speed limit.",
+   "He is permitted to exceed the speed limit while driving in a bus lane only.",
+   "He is permitted to use the bus lane, but is prohibited from exceeing the speed limit."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 781,
+  "category": "safety",
+  "question": "What is the most important principle when turning right in an intersection?",
+  "answers": [
+   "To start and to complete the turn close to the right edge of the road.",
+   "To stay away from the road’s right edge.",
+   "To turn as far as possible from the right sidewalk.",
+   "To enter and exit the intersection in a wide arc to the center of the roadway."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 782,
+  "category": "safety",
+  "question": "What risk is a driver facing while making a right turn?",
+  "answers": [
+   "There is no risk because all road users are aware of the law and know that it is prohibited to be on the right side of a vehicle that makes a right turn.",
+   "There is no problem because pedestrians and two-wheeler drivers should not enter into a gap created on the right of a vehicle that makes a right turn.",
+   "There is no risk during the turn, because the law permits two-wheelers and other vehicles to turn at the same time.",
+   "Two-wheelers might enter the gap to his right during the turn."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 783,
+  "category": "traffic-laws",
+  "question": "When are private passenger cars permitted to turn right from a lane other than the right lane?",
+  "answers": [
+   "Turning is permitted for vehicles driving at a higher speed than that of the vehicles on the right lane.",
+   "It is permitted when road traffic is sparse.",
+   "Never. The law permits only heavy and long vehicles to turn right from a lane other than the right one.",
+   "In a road where more than one lane is marked for turning right."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 784,
+  "category": "traffic-laws",
+  "question": "How should a driver turn left from a two-way road (A) to a one-way road (B)?",
+  "answers": [
+   "From lanes 1 or 2 to lanes 5, 6 or 7..",
+   "From lane 2 to lanes 5, 6 or 7..",
+   "From lane 1 to lane 5.",
+   "From lane 2 to lane 5."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 785,
+  "category": "signs",
+  "question": "What is the meaning of the sign?",
+  "answers": [
+   "Move to the next lane on the right when traffic conditions allow.",
+   "Pass the obstacle on the right side.",
+   "Go to the right only.",
+   "Special lane for public transport."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 786,
+  "category": "signs",
+  "question": "What do the following traffic signs have in common?",
+  "answers": [
+   "They are posted in freeways only.",
+   "They are posted in work sites only.",
+   "They are posted in inter-urban roads only.",
+   "They are posted in urban roads only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 787,
+  "category": "traffic-laws",
+  "question": "According to the law what is the maximum permitted length of the bus?",
+  "answers": [
+   "18.75 met.",
+   "15.50 met.",
+   "13.75 met.",
+   "14.10 met"
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 788,
+  "category": "signs",
+  "question": "You are approaching a road section with traffic sign 308 posted before it. A vehicle approaching from the opposite direction already entered the road section . What should you do?",
+  "answers": [
+   "Turn on the lights and enter into the section. You have right of way.",
+   "Honk continuously and enter the section.",
+   "Wait for it to exit the section and only then drive through.",
+   "Enter the section normally and try to pass the opposite vehicle."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 789,
+  "category": "safety",
+  "question": "You arrived to an intersection that is not clear:(free)",
+  "answers": [
+   "Stop before the intersection and wait for traffic to clear.",
+   "You are permitted to turn left, even if the intersection is not clear.",
+   "If the traffic light is green you may enter the intersection, even when it is not clear.",
+   "Enter the intersection carefully and wait there for it to clear."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 790,
+  "category": "traffic-laws",
+  "question": "A policeman wrote you a traffic report due to “deviation from your lane”, and there are no lanes marked on the roadway. Is it justified?",
+  "answers": [
+   "No, if lanes are not marked you may drive in any part of the road.",
+   "No, you cannot “deviate” from an unmarked lane.",
+   "No, you are permitted by law to deviate from your lane without any restriction.",
+   "Yes, a lane can be either marked or unmarked."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 791,
+  "category": "traffic-laws",
+  "question": "When is it permitted to turn left, from a lane other than the left lane?",
+  "answers": [
+   "It is permitted when two or more left turn lanes are marked on the roadway.",
+   "It is only permitted from a one-way road to another one-way road.",
+   "It is permitted in an intersection with traffic lights only.",
+   "It is prohibited to turn."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 792,
+  "category": "traffic-laws",
+  "question": "Is a driver permitted to cross an unbroken separation line in order to make a U-turn?",
+  "answers": [
+   "Yes, when the roadway has at least two lanes in each driving direction.",
+   "Yes, provided that the traffic is not disturbed.",
+   "Yes, when the intersection ahead is blocked.",
+   "No."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 793,
+  "category": "traffic-laws",
+  "question": "What is a “U-turn”?",
+  "answers": [
+   "Any turn not in a right angle is called a U-turn.",
+   "A turn in which the driver turns back to the direction he came from (turns and drives to the opposite direction)",
+   "Only a turn in which the driver drives in a roundabout and returns to the direction he came from.",
+   "A turn in which the driver makes a 360 degrees round."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 794,
+  "category": "safety",
+  "question": "What are the risks in making a U-turn?",
+  "answers": [
+   "Delaying vehicles that are coming from the opposite direction or from behind",
+   "Colliding with vehicles coming from the opposite direction or from behind.",
+   "All the answers are correct.",
+   "Causing an approaching vehicle to make a sudden brake."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 795,
+  "category": "traffic-laws",
+  "question": "Which of the following sentences is correct: The law prohibit drivers from making a left U-turn:",
+  "answers": [
+   "When a U-turn prohibiting sign is placed.",
+   "Where the vehicle cannot be observed by other drivers approaching from any direction.",
+   "All the answers are correct.",
+   "When he approaches a steep peak or a curve in the road."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 796,
+  "category": "traffic-laws",
+  "question": "According to the following picture, is it permitted to make a U-turn?",
+  "answers": [
+   "Yes, when the turn can be completed in one continuous movement.",
+   "Yes, from the left side of the road.",
+   "No.",
+   "Yes, provided that the turn is made carefully and without causing any traffic disturbance."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 797,
+  "category": "safety",
+  "question": "What should a driver always do before making left a U-turn?",
+  "answers": [
+   "Make sure that the proper gear is shifted and that the headlights are turned on.",
+   "Make sure that the turn is permitted and that it doesn’t cause any traffic disturbance.",
+   "Alert about his intention by turning on the four direction indicators.",
+   "Position the vehicle on the right of the road from which he intends to turn."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 798,
+  "category": "traffic-laws",
+  "question": "Who is held responsible for safety in a vehicle that drives in reverse?",
+  "answers": [
+   "The owner of the vehicle even if he is not the current driver.",
+   "The driver.",
+   "The person guiding the driver while he drives backwards.",
+   "Everybody near a vehicle that drives backwards."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 799,
+  "category": "safety",
+  "question": "What is the main risk of driving in reverse?",
+  "answers": [
+   "Causing damage to the vehicle’s tires, when approaching the sidewalk or sharp objects.",
+   "The presence of road users in the driver’s “blind spots” and the chance of hitting them.",
+   "Lack of control over a slow and steady driving speed due to gear restrictions.",
+   "Causing damage to the steering system, because the wheel is used oppositely to its normal use while driving forward."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 800,
+  "category": "safety",
+  "question": "What is a “blind spot”?",
+  "answers": [
+   "The distance a driver should keep from other vehicles while driving in reverse.",
+   "Part of the vehicle's circumference in which the driver cannot see or detect road users.",
+   "The non-paved area around the vehicle.",
+   "Part of the vehicle's circumference which the driver can only see through the mirrors."
+  ],
+  "correct": 1,
+  "hasImage": false
+ }
+]

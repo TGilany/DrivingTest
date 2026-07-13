@@ -1,0 +1,402 @@
+[
+ {
+  "id": 501,
+  "explanation": "This is the standard no-entry-for-motor-vehicles sign, which under Israeli traffic sign law carries a built-in exception allowing motorcycles that are not fitted with a side-car to still pass, since a side-car changes the vehicle's width and stability profile that the restriction is meant to exclude."
+ },
+ {
+  "id": 502,
+  "explanation": "This no-entry-for-motor-vehicles sign explicitly exempts two-wheeled motorcycles without a side-car, so while cars and other motor vehicles must not enter, a plain motorcycle may still use the road."
+ },
+ {
+  "id": 503,
+  "explanation": "This restriction sign specifically bars motorcycles (two-wheeled motor vehicles) from entering, while leaving other traffic such as cars, trucks, and non-motorized bicycles unaffected."
+ },
+ {
+  "id": 504,
+  "explanation": "Unlike road-narrowing warning signs, which only flag a physical reduction in the roadway's width, this sign belongs to the guidance/information series used specifically to tell drivers in advance that the number of driving lanes on the road ahead is about to change."
+ },
+ {
+  "id": 505,
+  "explanation": "This is the general no-entry-for-any-motor-vehicle sign with no motorcycle exemption, so a motorcyclist approaching it is barred from entering just like any other motor vehicle."
+ },
+ {
+  "id": 506,
+  "explanation": "Because the restriction only applies to motor vehicles, and a bicycle is a non-motorized vehicle, cyclists are not covered by the prohibition and may still enter the road."
+ },
+ {
+  "id": 507,
+  "explanation": "This sign restricts entry specifically for commercial motor vehicles whose overall weight (vehicle plus load) exceeds the figure shown, leaving lighter commercial vehicles and non-commercial traffic unaffected."
+ },
+ {
+  "id": 508,
+  "explanation": "Unlike a commercial-only weight restriction, this sign bars every vehicle type, regardless of use, once its overall permitted weight exceeds the figure posted on the sign."
+ },
+ {
+  "id": 509,
+  "explanation": "The restriction is measured by the combined width of the vehicle and its load, so any freight-carrying vehicle whose total width exceeds the figure on the sign is barred from entering, regardless of the empty vehicle's own width."
+ },
+ {
+  "id": 510,
+  "explanation": "The restriction applies to the combined height of the vehicle and whatever it is carrying, so any vehicle-plus-load combination taller than the figure shown on the sign may not pass or enter that route."
+ },
+ {
+  "id": 511,
+  "explanation": "This sign marks a border/customs checkpoint where drivers are legally required to come to a complete stop for inspection, regardless of whether they believe they have anything to declare."
+ },
+ {
+  "id": 512,
+  "explanation": "The round sign with a number sets a special, location-specific speed limit for that stretch of road, and driving faster than the posted figure (in km/h) is prohibited even if it exceeds the general limit that would otherwise apply."
+ },
+ {
+  "id": 513,
+  "explanation": "A yellow directional arrow marks a lane or path reserved for a specific vehicle category, and here it designates that only public-transportation vehicles are allowed to pass the signpost on its left side, while all other traffic must keep to the general side."
+ },
+ {
+  "id": 514,
+  "explanation": "A special speed-limit sign stays in force only until the next junction, or until it is superseded by another speed-limit or end-of-speed-limit sign, so drivers must keep observing it along the whole stretch in between."
+ },
+ {
+  "id": 515,
+  "explanation": "This sign cancels a previously posted special speed restriction, meaning that from this point onward the earlier lower limit no longer applies, though any generally applicable speed limit for the road type still does."
+ },
+ {
+  "id": 516,
+  "explanation": "Traffic regulations prohibit overtaking on or near a marked pedestrian crossing, because passing another vehicle there blocks sightlines to pedestrians who may already be stepping onto the crossing and have priority to cross safely."
+ },
+ {
+  "id": 517,
+  "explanation": "Israeli traffic regulations set the maximum permitted length for this type of (non-articulated) bus at 13.5 meters, a limit chosen to keep the vehicle maneuverable and safe on ordinary roads and at junctions."
+ },
+ {
+  "id": 518,
+  "explanation": "Under traffic-light rules a green signal flickers for a few seconds as a warning phase before switching to yellow, so a flashing green tells the driver to prepare to stop rather than to speed up or assume the green has just begun."
+ },
+ {
+  "id": 519,
+  "explanation": "This rectangular place-name sign marks the point where a built-up/urban area begins, which brings the default urban speed limit and other urban traffic rules into effect from that point on."
+ },
+ {
+  "id": 520,
+  "explanation": "Because this sign marks the start of an urban area, the roads beyond it pass through built-up, residential surroundings where pedestrians, driveways, and cross-traffic are common, requiring extra caution."
+ },
+ {
+  "id": 521,
+  "explanation": "Where no other sign overrides it, entering a built-up/urban area automatically brings the default urban speed limit of 50 km/h into force, per the maximum-speed table in the traffic regulations."
+ },
+ {
+  "id": 522,
+  "explanation": "Sign 424 and sign 425 form a matched restriction/cancellation pair in the sign catalog, so the restriction imposed by 424 remains in effect only until sign 425, its designated cancellation sign, is posted."
+ },
+ {
+  "id": 523,
+  "explanation": "Among the mandatory blue instruction signs, only this one's pictogram shows a looping U-turn arrow as the sole permitted maneuver, whereas the other options depict a different mandated turn direction or an unrelated roundabout warning."
+ },
+ {
+  "id": 524,
+  "explanation": "Restriction and parking-related signs of this kind remain valid until the nearest intersection, until a sign that specifically cancels them is posted, or until a vehicle-parking-area sign appears, whichever comes first."
+ },
+ {
+  "id": 525,
+  "explanation": "This sign marks a no-stopping-and-no-parking zone that applies specifically to the side of the road on which it is posted, leaving the opposite side of the road unaffected."
+ },
+ {
+  "id": 526,
+  "explanation": "Like other parking-restriction signs, this one stays in force until the next intersection, until a cancelling sign is posted, or until a vehicle-parking-area sign is reached."
+ },
+ {
+  "id": 527,
+  "explanation": "This sign cancels an earlier stopping/parking restriction, so from this point onward drivers are once again permitted to stop and park along that side of the road."
+ },
+ {
+  "id": 528,
+  "explanation": "This sign is posted to keep driving-instruction vehicles engaged in an actual lesson off certain roads, such as fast or complex routes, so it means such vehicles may not enter while a lesson is in progress."
+ },
+ {
+  "id": 529,
+  "explanation": "Unlike an ordinary parking sign, this restriction remains valid only until a sign specifically cancelling it is posted, not merely at the next intersection."
+ },
+ {
+  "id": 530,
+  "explanation": "This sign is the designated cancellation marker for the driving-instruction-vehicle restriction, indicating that learner vehicles conducting a lesson may enter again from this point."
+ },
+ {
+  "id": 531,
+  "explanation": "This sign designates the marked lane for high-occupancy and public-transport use only, such as trams, buses, taxis, and any vehicle carrying at least the minimum number of passengers shown, barring ordinary lower-occupancy traffic from using it."
+ },
+ {
+  "id": 532,
+  "explanation": "Because this lane restriction is tied to a physical tram or rail track, it remains valid until the nearest intersection or until the tracks themselves come to an end, whichever occurs first."
+ },
+ {
+  "id": 533,
+  "explanation": "This inverted-triangle sign is a give-way (yield) sign, requiring the driver to give right-of-way to traffic on the road that crosses ahead before proceeding, distinct from a full stop obligation."
+ },
+ {
+  "id": 534,
+  "explanation": "This is a give-way sign at a junction with several approaches, obliging the driver to yield right-of-way to any vehicles arriving from the crossing directions rather than assuming priority."
+ },
+ {
+  "id": 535,
+  "explanation": "Under the stop-sign rule, a driver must stop immediately before a marked stop line if one exists, or at the line of the junction itself if no stop line is painted, since stopping at the correct point preserves the intended sightlines and safety margin."
+ },
+ {
+  "id": 536,
+  "explanation": "Posting a stop sign only on the left side of the roadway limits its obligation to drivers making that specific maneuver, turning left or executing a U-turn to the left, while traffic continuing straight or turning right is not required to stop under that sign."
+ },
+ {
+  "id": 537,
+  "explanation": "A hand-held stop sign is a temporary manual signal, typically used by a flagger at road works or an incident scene, and its instruction to stop remains in force only for as long as the sign is actually being held up."
+ },
+ {
+  "id": 538,
+  "explanation": "This hand-held sign instructs drivers to proceed, but carefully, reflecting that the flagger controlling traffic is actively managing a temporary hazard and expects caution rather than normal-speed driving."
+ },
+ {
+  "id": 539,
+  "explanation": "The sign's arrow indicates that the mandated direction change, bearing to the right, must be executed before reaching the sign itself, based on where the road actually bends relative to the signpost's position."
+ },
+ {
+  "id": 540,
+  "explanation": "The arrow on this sign shows that drivers must bear left, with the turn to be completed after passing the sign, since that is where the road itself changes direction."
+ },
+ {
+  "id": 541,
+  "explanation": "A left U-turn is permitted at this location because the sign itself does not prohibit U-turns; without a separate no-U-turn sign posted, the maneuver remains lawful."
+ },
+ {
+  "id": 542,
+  "explanation": "The sign's arrow instructs drivers to bear left, with the turn made before reaching the sign, matching where the roadway itself curves relative to the marker's placement."
+ },
+ {
+  "id": 543,
+  "explanation": "A right U-turn is allowed here for the same reason a left one is elsewhere: the posted sign does not itself forbid U-turns, so the maneuver is legal unless another sign specifically prohibits it."
+ },
+ {
+  "id": 544,
+  "explanation": "The arrow indicates the mandated turn is to the right, to be completed only after the vehicle passes the sign, since that marks where the roadway itself changes direction."
+ },
+ {
+  "id": 545,
+  "explanation": "This mandatory-direction sign permits only continuing straight ahead, prohibiting any turn at that point regardless of what a driver might otherwise want to do."
+ },
+ {
+  "id": 546,
+  "explanation": "Because this is the only sign posted at the junction and its pictogram does not include a left-turn option, drivers are limited to the directions it does show, so turning left here is not permitted."
+ },
+ {
+  "id": 547,
+  "explanation": "This sign, showing only a straight-ahead arrow, restricts drivers at the junction to continuing forward and does not permit turning in either direction."
+ },
+ {
+  "id": 548,
+  "explanation": "The pictogram represents a park-and-ride facility, where drivers leave their own vehicle in the lot and continue their journey by another means such as public transport."
+ },
+ {
+  "id": 549,
+  "explanation": "The sign's two arrows indicate that drivers may choose to turn either right or left at this point, rather than being restricted to a single direction."
+ },
+ {
+  "id": 550,
+  "explanation": "At a roundabout, entering traffic must give right-of-way to vehicles already circulating within it, and the accompanying directional arrow shows that the roundabout is to be passed by keeping to its right side, consistent with Israeli roundabout traffic flow."
+ },
+ {
+  "id": 551,
+  "explanation": "The core rule illustrated by this sign is that a driver approaching or within the roundabout must yield right-of-way to the traffic that is crossing their intended path there, rather than assuming priority over it."
+ },
+ {
+  "id": 552,
+  "explanation": "This marker permits a driver to pass the obstacle or median it identifies on either side, left or right, leaving the choice to the driver rather than mandating one specific side."
+ },
+ {
+  "id": 553,
+  "explanation": "This triangular warning sign alerts drivers in advance that a roundabout junction is coming up, so they should be ready to slow down and yield to traffic already circulating in it."
+ },
+ {
+  "id": 554,
+  "explanation": "Regular and commercial vehicles must keep to the right of the marked obstacle, while the sign grants public-transportation vehicles, such as buses, the additional option of passing it on the left as well."
+ },
+ {
+  "id": 555,
+  "explanation": "This marker allows any driver to pass the place it identifies on either its right or its left side, without restricting the choice to one direction."
+ },
+ {
+  "id": 556,
+  "explanation": "This sign warns that the side road or turn to the right leads only to a dead end (cul-de-sac), so it does not offer a genuine through-route for drivers considering that turn."
+ },
+ {
+  "id": 557,
+  "explanation": "A broken (dashed) center line permits crossing into the opposing lane, so overtaking is allowed there as long as the road ahead is clear and it can be completed safely, unlike a solid line which the law bars crossing."
+ },
+ {
+  "id": 558,
+  "explanation": "This warning sign tells drivers that the road ahead switches to two-way traffic, so they should expect and watch for oncoming vehicles where previously there may have been none."
+ },
+ {
+  "id": 559,
+  "explanation": "Traffic law permits a left U-turn from a dedicated left-turn lane, or from any other lane, provided no sign specifically prohibits the maneuver from that lane; it is not restricted solely to a marked turn lane."
+ },
+ {
+  "id": 560,
+  "explanation": "A yellow arrow on a sign marks a lane or roadway reserved for a restricted category of traffic, so the vehicles expected to approach from the opposite direction there are public-transportation vehicles or any other vehicle class the sign specifically permits."
+ },
+ {
+  "id": 561,
+  "explanation": "This sign marks a one-way street that has been opened, in the opposite direction, only to public-transportation vehicles or other vehicle categories the sign permits, so oncoming traffic there should be limited to that specific class rather than general traffic."
+ },
+ {
+  "id": 562,
+  "explanation": "This sign designates a road for motor vehicles only, meaning non-motorized road users such as cyclists and pedestrians are excluded from using it."
+ },
+ {
+  "id": 563,
+  "explanation": "Since this sign restricts the road to motor vehicles only, bicycles, which are non-motorized, are not permitted to enter it."
+ },
+ {
+  "id": 564,
+  "explanation": "This sign sets a minimum permitted driving speed, meaning the road is reserved for motor vehicles that are both allowed and mechanically capable of maintaining at least the speed shown."
+ },
+ {
+  "id": 565,
+  "explanation": "A vehicle classified as a slow-moving restricted vehicle is barred from a road governed by a minimum-speed sign, since by definition it cannot reliably sustain the minimum speed the sign requires."
+ },
+ {
+  "id": 566,
+  "explanation": "This sign marks the point of entry onto a freeway (motorway), where controlled-access, high-speed rules and restrictions begin to apply."
+ },
+ {
+  "id": 567,
+  "explanation": "Freeways are controlled-access, high-speed roads on which Israeli traffic law prohibits non-motorized traffic, so cyclists and pedestrians are not permitted to enter regardless of caution."
+ },
+ {
+  "id": 568,
+  "explanation": "This sign marks the point where the freeway (motorway) ends, after which ordinary road rules, and the possibility of pedestrians, cyclists, and at-grade junctions, resume."
+ },
+ {
+  "id": 569,
+  "explanation": "This sign reserves the marked spot as a taxi rank, where other vehicles may not stop or park except briefly to let passengers out."
+ },
+ {
+  "id": 570,
+  "explanation": "Within the zone marked by this sign, any vehicle is permitted to make a brief stop specifically to drop off passengers, though not to park or wait."
+ },
+ {
+  "id": 571,
+  "explanation": "This sign marks the end of the taxi-rank zone, after which the reserved stopping privilege for taxis no longer applies and normal stopping/parking rules resume."
+ },
+ {
+  "id": 572,
+  "explanation": "This sign designates a spot reserved for taxis strictly to load or unload passengers; taxis may not wait there for a fare."
+ },
+ {
+  "id": 573,
+  "explanation": "This sign reserves the marked stopping place exclusively for taxis, so other vehicles, including buses, may not stop there."
+ },
+ {
+  "id": 574,
+  "explanation": "This sign specifically bars tractors and other work vehicles from entering, due to their slow speed and potential to obstruct or endanger normal traffic on that road."
+ },
+ {
+  "id": 575,
+  "explanation": "This sign prohibits horse-drawn vehicles and unharnessed animals from entering the road, a category of traffic considered incompatible with normal vehicular traffic flow there."
+ },
+ {
+  "id": 576,
+  "explanation": "This sign specifically bars bicycles from entering the road or path it marks."
+ },
+ {
+  "id": 577,
+  "explanation": "This sign designates a path reserved exclusively for bicycles, excluding pedestrians and motor vehicles alike."
+ },
+ {
+  "id": 578,
+  "explanation": "This sign bars pedestrians from entering, and that prohibition extends to the road's hard shoulder as well, since the shoulder remains part of the carriageway rather than a safe pedestrian route."
+ },
+ {
+  "id": 579,
+  "explanation": "This sign establishes that, on this narrow stretch, the driver traveling in this direction holds right-of-way over vehicles approaching from the opposite direction, who must yield instead."
+ },
+ {
+  "id": 580,
+  "explanation": "This sign marks a path reserved jointly for cyclists and pedestrians, permitting both categories to use it while excluding motor vehicles."
+ },
+ {
+  "id": 581,
+  "explanation": "Unlike a combined path, this sign indicates that cyclists and pedestrians each have their own separate, clearly divided lane within the same right-of-way, rather than sharing a single space."
+ },
+ {
+  "id": 582,
+  "explanation": "This sign bars entry to vehicles transporting dangerous/hazardous materials, a restriction meant to keep such cargo away from routes unsuited to the added risk."
+ },
+ {
+  "id": 583,
+  "explanation": "This sign identifies a designated vehicle parking area, distinct from signs governing stopping restrictions or passenger loading zones."
+ },
+ {
+  "id": 584,
+  "explanation": "A parking-area sign of this kind remains valid until the nearest intersection or until a no-parking zone begins, whichever comes first."
+ },
+ {
+  "id": 585,
+  "explanation": "This sign reserves the spot strictly for briefly picking up or dropping off soldiers; vehicles may not wait there once the passenger movement is complete."
+ },
+ {
+  "id": 586,
+  "explanation": "This warning sign alerts drivers that the road itself is about to end without an outlet, meaning a cul-de-sac lies ahead."
+ },
+ {
+  "id": 587,
+  "explanation": "This sign warns that a side road or turn to the right leads only to a dead end, offering no genuine through-route in that direction."
+ },
+ {
+  "id": 588,
+  "explanation": "This sign indicates that, on this narrow stretch, the driver traveling in this direction has right-of-way over oncoming traffic, which must yield instead."
+ },
+ {
+  "id": 589,
+  "explanation": "Even where a driver technically holds right-of-way on a narrow section, the general duty of care means they must still slow down and confirm the oncoming vehicle is actually yielding before proceeding, since right-of-way is never automatically guaranteed in practice."
+ },
+ {
+  "id": 590,
+  "explanation": "This directional sign marks the entrance to a one-way street, showing the single direction in which traffic may travel from that point."
+ },
+ {
+  "id": 591,
+  "explanation": "Absent any additional markings restricting it, a left turn should be made from the left-hand side of the road or lane, which is the default lane-positioning rule for that maneuver."
+ },
+ {
+  "id": 592,
+  "explanation": "A yellow arrow again marks a direction of travel reserved for public-transportation vehicles only, so ordinary traffic may not use that marked direction."
+ },
+ {
+  "id": 593,
+  "explanation": "This sign obliges drivers to give right-of-way to pedestrians who are on, or entering, the marked crossing area ahead."
+ },
+ {
+  "id": 594,
+  "explanation": "Because pedestrians have priority at a marked crossing, the driver must slow down while approaching it and be ready to stop completely if needed to let pedestrians cross safely, rather than merely warning them out of the way."
+ },
+ {
+  "id": 595,
+  "explanation": "This yellow-diamond sign marks a priority road, meaning traffic on it has right-of-way over vehicles joining from side roads."
+ },
+ {
+  "id": 596,
+  "explanation": "Seeing this priority-road sign confirms that the driver's own road retains right-of-way over crossing traffic, so they may continue driving normally through the junction."
+ },
+ {
+  "id": 597,
+  "explanation": "This sign marks the end of a priority-road designation, after which the road no longer automatically holds right-of-way over crossing traffic."
+ },
+ {
+  "id": 598,
+  "explanation": "This symbol identifies a first-aid station, distinct from signs for hospitals or other medical facilities."
+ },
+ {
+  "id": 599,
+  "explanation": "This symbol specifically identifies a hospital, distinguished from the simpler first-aid-station icon."
+ },
+ {
+  "id": 600,
+  "explanation": "This symbol marks a fuel/filling station, a basic services sign for refueling rather than vehicle repair or other facilities."
+ }
+]

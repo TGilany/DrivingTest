@@ -1,0 +1,40 @@
+- generic [ref=f37e7]:
+  - banner [ref=f37e8]:
+    - generic [ref=f37e9]: ⏱ 29:59
+    - generic [ref=f37e10]: 0/20 answered
+    - button "New exam" [ref=f37e11] [cursor=pointer]
+  - generic [ref=f37e12]:
+    - button "Question 1" [ref=f37e13] [cursor=pointer]: "1"
+    - button "Question 2" [ref=f37e14] [cursor=pointer]: "2"
+    - button "Question 3" [ref=f37e15] [cursor=pointer]: "3"
+    - button "Question 4" [ref=f37e16] [cursor=pointer]: "4"
+    - button "Question 5" [ref=f37e17] [cursor=pointer]: "5"
+    - button "Question 6" [ref=f37e18] [cursor=pointer]: "6"
+    - button "Question 7" [ref=f37e19] [cursor=pointer]: "7"
+    - button "Question 8" [ref=f37e20] [cursor=pointer]: "8"
+    - button "Question 9" [ref=f37e21] [cursor=pointer]: "9"
+    - button "Question 10" [ref=f37e22] [cursor=pointer]: "10"
+    - button "Question 11" [ref=f37e23] [cursor=pointer]: "11"
+    - button "Question 12" [ref=f37e24] [cursor=pointer]: "12"
+    - button "Question 13" [ref=f37e25] [cursor=pointer]: "13"
+    - button "Question 14" [ref=f37e26] [cursor=pointer]: "14"
+    - button "Question 15" [ref=f37e27] [cursor=pointer]: "15"
+    - button "Question 16" [ref=f37e28] [cursor=pointer]: "16"
+    - button "Question 17" [ref=f37e29] [cursor=pointer]: "17"
+    - button "Question 18" [ref=f37e30] [cursor=pointer]: "18"
+    - button "Question 19" [ref=f37e31] [cursor=pointer]: "19"
+    - button "Question 20" [ref=f37e32] [cursor=pointer]: "20"
+  - generic [ref=f37e33]:
+    - heading "1. Is it permitted to transport cargo in a private vehicle?" [level=2] [ref=f37e34]:
+      - generic [ref=f37e35]: "1."
+      - text: Is it permitted to transport cargo in a private vehicle?
+    - generic [ref=f37e36]:
+      - button "Yes, provided that the weight of the cargo is no more than 1,000 kg." [ref=f37e37] [cursor=pointer]
+      - button "Yes, only on the rooftop cargo carrier." [ref=f37e38] [cursor=pointer]
+      - button "Yes, inside the vehicle, in the trunk(boot) or on the roof-rack.." [ref=f37e39] [cursor=pointer]
+      - button "It is absolutely forbidden." [ref=f37e40] [cursor=pointer]
+    - button "Check answer" [disabled] [ref=f37e41]
+  - contentinfo [ref=f37e42]:
+    - button "← Previous" [disabled] [ref=f37e43] [cursor=pointer]
+    - button "Finish exam" [ref=f37e44] [cursor=pointer]
+    - button "Next →" [ref=f37e45] [cursor=pointer]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": 401,
+  "explanation": "Information (guidance) signs are a separate category from warning, prohibition, and mandatory signs; their only job is to help drivers navigate by showing place names and directions, not to command or warn."
+ },
+ {
+  "id": 402,
+  "explanation": "Sign 819 marks a designated diagonal parking bay painted on the road, allowing parking at an angle to the curb rather than only in the standard parallel position other pavement markings require."
+ },
+ {
+  "id": 403,
+  "explanation": "Sign 301 is the inverted-triangle give-way sign, posted before a junction specifically to tell approaching drivers they must yield the right of way to traffic on the crossing road."
+ },
+ {
+  "id": 404,
+  "explanation": "Sign 302, the octagonal Stop sign, is the only right-of-way sign that legally requires a full stop at the stop line before yielding to all crossing traffic, whichever direction it comes from."
+ },
+ {
+  "id": 405,
+  "explanation": "In the Israeli signal sequence, a steady yellow light (705) is the transition into stop, so it is always followed by the red light (701) that requires drivers to come to a complete stop."
+ },
+ {
+  "id": 406,
+  "explanation": "The Israeli traffic-light cycle moves from red (701) into a combined red-and-yellow phase (702), which warns drivers the light is about to change to green before it actually does."
+ },
+ {
+  "id": 407,
+  "explanation": "The bumpy-road icon on this warning sign specifically flags an uneven or damaged road surface, which is a different hazard from speed bumps or an active work site."
+ },
+ {
+  "id": 408,
+  "explanation": "Traffic Regulation 51 requires driving at a speed suited to road conditions, so on an uneven-surface warning a driver must slow down and adapt rather than speed up or assume it only applies to mountain roads."
+ },
+ {
+  "id": 409,
+  "explanation": "A single sharply angled arrow icon warns of one sharp bend in the direction shown, which is a distinct warning from a winding-road sign that shows several successive curves."
+ },
+ {
+  "id": 410,
+  "explanation": "Because cornering forces and skid risk increase with speed, safe practice on a curve is to slow before entering it and only build speed back up once the vehicle is exiting the bend."
+ },
+ {
+  "id": 411,
+  "explanation": "The icon here shows two opposite curves in sequence, first right then left, which is the specific sign for an S-shaped double bend rather than a continuous winding road or a hairpin turn."
+ },
+ {
+  "id": 412,
+  "explanation": "Regulation 51 calls for a speed suited to the road, so on a curve warning the driver should slow down and stay toward the right of the lane, since drifting toward center risks meeting oncoming traffic head-on."
+ },
+ {
+  "id": 413,
+  "explanation": "A sign showing three or more alternating bends marks a winding-road section, distinguishing it from signs that show only one or two curves."
+ },
+ {
+  "id": 414,
+  "explanation": "The icon's lines converging from the right side only mark a road that narrows on the right, which is different from a symmetrical narrowing on both sides or a narrow-bridge sign."
+ },
+ {
+  "id": 415,
+  "explanation": "This is a warning sign, not a right-of-way sign, so it grants no priority; the safe response is to slow down, keep to the right, and watch for vehicles coming from the opposite direction in the narrowed section."
+ },
+ {
+  "id": 416,
+  "explanation": "The icon of a person digging with a shovel is the standard symbol for an active road-work site ahead, as opposed to signs for falling rocks or archaeological excavation."
+ },
+ {
+  "id": 417,
+  "explanation": "The general duty of care in Regulation 21(c) means a driver must adapt to road conditions, so near a work site the correct response is to slow down and follow both the workers' instructions and any temporary signs posted there."
+ },
+ {
+  "id": 418,
+  "explanation": "A circular prohibition sign showing a number under an overhead bar sets a maximum vehicle height including any load; any vehicle taller than that figure may not pass under the structure ahead."
+ },
+ {
+  "id": 419,
+  "explanation": "This triangular warning sign alerts drivers that cyclists may be crossing or joining the road ahead, which differs from the blue circular sign used to mark a dedicated bicycle path."
+ },
+ {
+  "id": 420,
+  "explanation": "The icon shows a symmetrical four-way crossing, marking an ordinary crossroads ahead, which uses a different icon from a T-junction where only one side road joins."
+ },
+ {
+  "id": 421,
+  "explanation": "A crossroad warning sign only flags the junction's shape and assigns no right of way, so the driver must slow down and apply the standard priority rules or obey whatever right-of-way signs are actually posted at that junction."
+ },
+ {
+  "id": 422,
+  "explanation": "As the general principle of traffic law states, a warning sign never itself decides who yields; right of way is always fixed by the traffic-priority rules or by the specific right-of-way signs actually placed at that intersection."
+ },
+ {
+  "id": 423,
+  "explanation": "The icon shows one side road branching off to the right forming a T shape, marking a T-junction to the right rather than two separate junctions or a mandatory turn instruction."
+ },
+ {
+  "id": 424,
+  "explanation": "Since this sign is only an advance warning of the junction's layout, drivers must still yield according to the general right-of-way rules or to whichever right-of-way sign is actually posted at that junction."
+ },
+ {
+  "id": 425,
+  "explanation": "A sign describing a junction's shape only warns of what's ahead; the actual right of way is set separately, either by default traffic-priority rules or by a dedicated right-of-way sign at that junction."
+ },
+ {
+  "id": 426,
+  "explanation": "The icon shows the road ending into a perpendicular road, forming a T, which marks an upcoming T-junction rather than a dead end or a mandatory-direction instruction."
+ },
+ {
+  "id": 427,
+  "explanation": "Unlike right-of-way or mandatory signs, which are posted right at the junction, warning signs are placed a reasonable distance beforehand to give drivers enough time to notice the hazard and adjust speed."
+ },
+ {
+  "id": 428,
+  "explanation": "The icon shows two side-road junctions in sequence, first branching right and then left, marking consecutive T-junctions in that order rather than one junction or a double curve."
+ },
+ {
+  "id": 429,
+  "explanation": "Being on what looks like the main road doesn't itself grant priority; the driver must still rely on the general right-of-way rules or on whatever specific priority sign is posted at that particular junction."
+ },
+ {
+  "id": 430,
+  "explanation": "The triangular icon with circulating arrows warns of an approaching roundabout, alerting the driver to the type of junction ahead rather than assigning right of way within it."
+ },
+ {
+  "id": 431,
+  "explanation": "Since this is a warning sign rather than a right-of-way instruction, Regulation 51 simply calls for reducing speed in preparation for entering the roundabout safely."
+ },
+ {
+  "id": 432,
+  "explanation": "This warning sign alerts drivers to an upcoming signal-controlled junction so they can be ready to slow or stop for the light, rather than telling them to hold speed or expect a portable sign."
+ },
+ {
+  "id": 433,
+  "explanation": "The sign only warns that a signal is ahead; the driver must keep driving attentively and obey whatever phase the actual traffic light shows on arrival, not stop early or ignore the signal."
+ },
+ {
+  "id": 434,
+  "explanation": "This priority-road merge sign shows a side road joining without right of way, so vehicles from that side road must yield to you, while an accompanying restriction also blocks turning right into it."
+ },
+ {
+  "id": 435,
+  "explanation": "Since this sign shows you're on the priority road with traffic merging in from the left without right of way, you may keep driving but should stay alert for that merging traffic rather than slow down or yield to it."
+ },
+ {
+  "id": 436,
+  "explanation": "This sign marks a point where your road merges into a priority road from the left, so you must give way to traffic already on that road and are barred from turning left into it."
+ },
+ {
+  "id": 437,
+  "explanation": "The sign shows your road merging into a priority road, so you must yield to traffic already using that road and merge in carefully once it's clear, rather than assuming you have priority."
+ },
+ {
+  "id": 438,
+  "explanation": "Even though it looks like a plain description of the road layout, this sign functions as a right-of-way sign, requiring the driver to yield to vehicle traffic on the crossing road ahead."
+ },
+ {
+  "id": 439,
+  "explanation": "This is an illuminated electronic display used to warn drivers in real time about traffic congestion ahead, unlike static signs that warn of slippery roads or road work."
+ },
+ {
+  "id": 440,
+  "explanation": "Regulation 51 requires matching speed to actual traffic and road conditions, so on seeing a congestion warning the driver should be ready to slow down and adjust rather than keep a steady or increasing speed."
+ },
+ {
+  "id": 441,
+  "explanation": "This triangular sign with a train icon is the general advance warning for an upcoming railway level crossing, as opposed to signs that specify the number of tracks or an exact distance."
+ },
+ {
+  "id": 442,
+  "explanation": "At any railway-crossing warning, the safe practice is to reduce speed and be ready to stop before the tracks if a train may be present, rather than crossing quickly or relying on the horn."
+ },
+ {
+  "id": 443,
+  "explanation": "This is the standard give-way right-of-way sign, which legally obligates the driver to yield to vehicles on the intersecting road ahead rather than expecting oncoming traffic to yield first."
+ },
+ {
+  "id": 444,
+  "explanation": "Traffic Regulation 51 defines a lawful driving speed as one that is reasonable for actual traffic and road conditions and that never exceeds the road's posted legal maximum, regardless of what feels comfortable."
+ },
+ {
+  "id": 445,
+  "explanation": "This warning sign's icon depicts a light-rail vehicle crossing the roadway, alerting drivers that a tram may cross the road from either direction at this point."
+ },
+ {
+  "id": 446,
+  "explanation": "A tram-crossing sign is a warning, not an automatic grant of priority, so the driver must slow down and apply whatever right-of-way rule actually governs that specific crossing."
+ },
+ {
+  "id": 447,
+  "explanation": "In Israel's road-marking system, whichever line lies closer to your own lane governs your side; since the near line here is solid, crossing is forbidden even though the line further away is dashed for the opposite lane."
+ },
+ {
+  "id": 448,
+  "explanation": "A falling-rocks warning means debris could unexpectedly land on the roadway, so the driver must stay alert and ready to brake, swerve around it, or stop, rather than shifting gear or accelerating through."
+ },
+ {
+  "id": 449,
+  "explanation": "This is the first of a sequence of advance-warning markers for a level crossing; the marker with the greatest count of bars signals the furthest distance, roughly 300 meters before the tracks."
+ },
+ {
+  "id": 450,
+  "explanation": "Approaching any marked level crossing, the driver must begin slowing and stay ready to make a complete stop before the tracks if a train is present, rather than assuming it's clear to cross."
+ },
+ {
+  "id": 451,
+  "explanation": "This is the middle marker in the sequential set of level-crossing advance-warning signs, indicating that roughly 200 meters remain before the tracks."
+ },
+ {
+  "id": 452,
+  "explanation": "As with any level-crossing approach marker, the driver's duty is to reduce speed and be ready to stop before the tracks if a train is approaching, not assume the crossing is clear."
+ },
+ {
+  "id": 453,
+  "explanation": "This is the final marker in the countdown sequence of level-crossing advance-warning signs, showing that only about 100 meters remain before reaching the tracks."
+ },
+ {
+  "id": 454,
+  "explanation": "Regardless of which countdown marker is displayed, the standing rule at a level crossing is to slow down and be prepared to stop before the tracks if a train might be crossing."
+ },
+ {
+  "id": 455,
+  "explanation": "Because visibility and stopping room are limited near railway tracks, overtaking is banned for the entire stretch starting at this sign and continuing until the vehicle has fully cleared the level crossing."
+ },
+ {
+  "id": 456,
+  "explanation": "The icon here shows a single track symbol, marking a level crossing with only one railway line, unlike the version of this sign that shows two or more tracks."
+ },
+ {
+  "id": 457,
+  "explanation": "On reaching this railway-crossing sign, the driver must slow down and, if necessary, come to a complete stop before the tracks, rather than assuming priority or speeding through when barrier lights flicker."
+ },
+ {
+  "id": 458,
+  "explanation": "Once it's confirmed safe to proceed, the correct technique at a level crossing is to cross at a steady, unbroken speed and never come to a stop while the vehicle is on the rails, since that is extremely hazardous."
+ },
+ {
+  "id": 459,
+  "explanation": "The icon's double-track symbol identifies a level crossing where more than one railway line must be crossed, unlike the single-track version of this sign."
+ },
+ {
+  "id": 460,
+  "explanation": "Before committing to cross, the driver must slow down and confirm there is enough clearance to cross the tracks in one continuous movement, since stopping partway across a level crossing is extremely dangerous."
+ },
+ {
+  "id": 461,
+  "explanation": "This is the advance-warning triangle for an upcoming Stop sign, letting drivers know ahead of time that they will need to make a complete stop once they reach the actual octagonal Stop sign."
+ },
+ {
+  "id": 462,
+  "explanation": "Since sign 139 only gives advance warning that a Stop sign is coming, the junction itself must display the actual right-of-way sign 302, the octagonal Stop sign that requires a full stop."
+ },
+ {
+  "id": 463,
+  "explanation": "This advance sign tells the driver the upcoming junction has a mandatory Stop sign, so the driver must be ready to bring the vehicle to a complete stop there, not merely slow down or assume right of way."
+ },
+ {
+  "id": 464,
+  "explanation": "The icon showing an incline sloping down and away is the standard symbol for a steep downhill grade, as distinct from an ascent warning or a dead-end sign."
+ },
+ {
+  "id": 465,
+  "explanation": "On a steep descent, shifting into low gear for engine braking while avoiding continuous brake use prevents the brakes from overheating and losing effectiveness, which is safer than relying on the brakes alone."
+ },
+ {
+  "id": 466,
+  "explanation": "The icon showing a vehicle's rear sliding sideways is the specific warning symbol for a slippery surface where the tires are likely to lose traction and skid."
+ },
+ {
+  "id": 467,
+  "explanation": "On a slippery surface, gradual deceleration and smooth steering reduce the chance the tires lose grip, whereas sudden braking or sharp turns can easily trigger a skid."
+ },
+ {
+  "id": 468,
+  "explanation": "This is the warning-triangle version showing a pedestrian on a crosswalk, alerting drivers to an upcoming marked pedestrian crossing rather than a general path reserved for pedestrians."
+ },
+ {
+  "id": 469,
+  "explanation": "Because a marked crossing gives pedestrians priority to cross, drivers approaching this warning sign must reduce speed and watch for anyone already on or approaching the crossing, including children."
+ },
+ {
+  "id": 470,
+  "explanation": "Sign 135 only gives advance warning of the crossing ahead; the crosswalk itself is marked by right-of-way sign 306, which obligates drivers to give way to pedestrians actually using it."
+ },
+ {
+  "id": 471,
+  "explanation": "This sign's pedestrian icon without a crosswalk marking warns that people may be walking along or near the roadway in this area, rather than pointing to one specific marked crossing."
+ },
+ {
+  "id": 472,
+  "explanation": "Because pedestrians could appear unexpectedly along this stretch, the driver must slow down and stay ready to brake or steer away to avoid striking anyone nearby."
+ },
+ {
+  "id": 473,
+  "explanation": "This warning sign, with arrows pointing in opposite directions, indicates that the road ahead now carries traffic in both directions, alerting drivers to watch for oncoming vehicles they may not expect."
+ },
+ {
+  "id": 474,
+  "explanation": "Entering a two-way section after a one-way or divided stretch, the driver must keep to the right and watch for vehicles now legally approaching from the opposite direction."
+ },
+ {
+  "id": 475,
+  "explanation": "This is the general 'other danger' warning sign, used to flag a hazard on the road that has no dedicated warning symbol of its own."
+ },
+ {
+  "id": 476,
+  "explanation": "Since this sign covers an unspecified hazard, the only safe response is to slow down, raise alertness, and be ready for sudden braking, because the exact nature of the danger isn't known in advance."
+ },
+ {
+  "id": 477,
+  "explanation": "Israel's sign system uses triangles for warnings and rectangles for information or direction signs, while round signs are reserved for instruction (mandatory) and prohibition signs, making a plain round sign an instruction sign."
+ },
+ {
+  "id": 478,
+  "explanation": "Israeli traffic law places the duty to keep a vehicle in safe, roadworthy condition on both its registered owner and whoever is driving it at the time, not on the manufacturer, insurer, or licensing authority."
+ },
+ {
+  "id": 479,
+  "explanation": "The safest response when a vehicle suddenly appears while you're being overtaken is to move as far right as safely possible and hold your speed steady, since braking hard or speeding up risks a collision with the overtaking vehicle."
+ },
+ {
+  "id": 480,
+  "explanation": "Children are unpredictable road users, so the general duty of care in Regulation 21(c) requires slowing down near a group of them and being ready to stop completely if any child moves toward the road."
+ },
+ {
+  "id": 481,
+  "explanation": "The duty to act carefully in traffic law is not limited to licensed drivers; pedestrians, cyclists, and passengers alike must all exercise reasonable caution to help prevent accidents."
+ },
+ {
+  "id": 482,
+  "explanation": "A supplementary plate mounted above or below a directional sign narrows that sign's instruction to only the vehicles actually turning the way the arrow points, leaving other traffic unaffected."
+ },
+ {
+  "id": 483,
+  "explanation": "The combined descent-and-curve icon paired with the distance plate means the hazard, a steep winding downhill grade, continues for the entire 2,500 meters shown, not merely starting at that point."
+ },
+ {
+  "id": 484,
+  "explanation": "This warning sign's icon of raised humps across the lane specifically marks engineered speed bumps ahead, rather than general rough pavement or loose obstacles."
+ },
+ {
+  "id": 485,
+  "explanation": "Because speed bumps are built to force lower speeds, the safe approach is to slow down before reaching them and cross carefully, unlike ordinary rough-road or road-work warnings."
+ },
+ {
+  "id": 486,
+  "explanation": "This warning sign's tractor icon indicates that slow-moving agricultural or work vehicles may cross the road at this point, not that entry is banned or that tractors always have priority."
+ },
+ {
+  "id": 487,
+  "explanation": "Since tractors and work vehicles move far slower than ordinary traffic, drivers should reduce speed in this zone to leave enough time to react safely if one is encountered on or crossing the road."
+ },
+ {
+  "id": 488,
+  "explanation": "This triangular warning sign alerts drivers that cyclists may be crossing the roadway ahead, which differs from the blue circular sign that marks a dedicated bicycle path."
+ },
+ {
+  "id": 489,
+  "explanation": "Because cyclists are vulnerable road users who may cross unexpectedly here, the safe response is to slow down and watch for them rather than assume priority or drift further left."
+ },
+ {
+  "id": 490,
+  "explanation": "This is the general 'road closed' sign, blocking passage to every type of vehicle in both directions, unlike a one-way restriction that only prevents entry from a single end."
+ },
+ {
+  "id": 491,
+  "explanation": "This is the 'no entry' sign posted at the exit end of a one-way street, banning vehicles from entering against the flow of oncoming traffic, while vehicles may still travel the street from the correct direction."
+ },
+ {
+  "id": 492,
+  "explanation": "This prohibition sign, showing both a left and a right arrow crossed out, bars turning at the very next opportunity in either direction, so the driver must continue straight past both the next left and next right."
+ },
+ {
+  "id": 493,
+  "explanation": "The no-overtaking symbol shown crossed out with diagonal strike lines marks the exact point where a previously posted overtaking ban ends and ordinary overtaking rules apply again."
+ },
+ {
+  "id": 494,
+  "explanation": "This prohibition sign specifically targets making a U-turn at the next left-hand turn, while still allowing an ordinary left turn there, unlike a sign that bans left turns altogether."
+ },
+ {
+  "id": 495,
+  "explanation": "This right-of-way sign is posted where the road narrows to a single lane, telling the driver in this direction to yield to any oncoming vehicle already using or approaching the narrow section."
+ },
+ {
+  "id": 496,
+  "explanation": "Facing this narrow-road priority sign, the driver does not have the right of way and must yield to any oncoming traffic before proceeding through the constricted section."
+ },
+ {
+  "id": 497,
+  "explanation": "This prohibition sign bans overtaking any vehicle that has more than two wheels, such as a car or truck, based on the wheel count of the vehicle being passed rather than the vehicle doing the overtaking."
+ },
+ {
+  "id": 498,
+  "explanation": "Because the restriction is defined by the wheel count of the vehicle being overtaken, a car counts as having more than two wheels, so a motorcycle is barred from overtaking it under this sign just like any other vehicle."
+ },
+ {
+  "id": 499,
+  "explanation": "This sign's supplementary weight plate limits the no-overtaking restriction to commercial vehicles above 4,000 kg gross weight, so such trucks may still legally overtake a motorcycle since the ban only covers passing other heavy motor vehicles."
+ },
+ {
+  "id": 500,
+  "explanation": "The diagonal strike through the no-overtaking symbol marks the exact point where a previously posted overtaking ban ends and normal overtaking rules resume."
+ }
+]

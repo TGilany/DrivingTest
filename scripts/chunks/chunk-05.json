@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 501,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for private vehicles.",
+   "No entry for all motor vehicles, except for motorcycles without a side-car.",
+   "No parking for all vehicles.",
+   "No entry for all vehicles, except for private passenger vehicles."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 502,
+  "category": "signs",
+  "question": "Are motorcycles permitted to enter a road-section in which the following traffic sign is placed?",
+  "answers": [
+   "Entry is permitted on a two-way road only.",
+   "Yes, provided that they have no side-car.",
+   "Entry is prohibited on freeways only.",
+   "Entry is absolutely prohibited."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 503,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for all motor vehicles.",
+   "Entry of motorcycles is permitted. .",
+   "No entry for bicycles.",
+   "No entry for motorcycles."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 504,
+  "category": "signs",
+  "question": "Which road sign informs about a change in the number of road lanes?",
+  "answers": [
+   "145",
+   "111",
+   "109",
+   "622"
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 505,
+  "category": "signs",
+  "question": "Are motorcycles permitted to enter a road before which the following traffic sign is placed?",
+  "answers": [
+   "Yes.",
+   "Yes, entry is permitted for all motor vehicles.",
+   "No.",
+   "Yes, except for tri-motorcycles."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 506,
+  "category": "signs",
+  "question": "Are Bicycles permitted to enter a road  when the following traffic sign is placed?",
+  "answers": [
+   "Yes.",
+   "Yes, entry is prohibited for public vehicles only.",
+   "No.",
+   "Yes, entry is prohibited for commercial vehicles only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 507,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entry is permitted for commercial motor vehicles with an overall weight which exceeds the weight indicated in the sign.",
+   "No entry for commercial motor vehicles with an overall weight which exceeds the weight indicated in the sign.",
+   "No entry for any type of vehicle that has a higher all up weight than what is indicated in the sign.",
+   "Entry is permitted for all motor vehicles."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 508,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entry is permitted for all commercial motor vehicles that have an all up weight which exceeds the weight indicated in the sign.",
+   "No entry for any vehicle that has an all up weight which exceeds the weight indicated in the sign.",
+   "No entry only for commercial motor vehicles that have an all up weight which exceeds the weight indicated in the sign.",
+   "No entry only for public vehicles that have a lesser all up weight than what is indicated in the sign."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 509,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for vehicles the width of which is less than the width indicated in the sign.",
+   "No entry for freight-carrying vehicles the width of which (vehicle and freight) exceeds the width indicated in the sign.",
+   "No entry only for commercial vehicles the width of which exceeds the width indicated in the sign.",
+   "No entry for non-motor vehicles only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 510,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for freight-carrying vehicles, the height of which (vehicle and freight), exceeds the height that is indicated in the sign.",
+   "No entry for vehicles with a freight width exceeding the width that is indicated in the sign.",
+   "No entry for vehicles the height of which is less than the height that is indicated in the sign.",
+   "Entry is only permitted for non-motor vehicles with a minimum height of three meters."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 511,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "It is obligatory to stop for customs inspection",
+   "Slow down for passport control.",
+   "It is obligatory to stop if you have somrthing to declare only.",
+   "No need to stop for custom controls (This is a duty-free facility)."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 512,
+  "category": "signs",
+  "question": "What is instructed by the following traffic signs?",
+  "answers": [
+   "Weight restriction – 60 tons.",
+   "Special speed limit: It is prohibited to drive faster that the speed limit that is indicated on the sign (in k.p.h).",
+   "Special speed: It is prohibited to drive faster than the speed that is indicated in the sign under foggy or hazy conditions.",
+   "It is prohibited to drive faster than 60 k.p.h during the night. During the day, however, it is permitted."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 513,
+  "category": "signs",
+  "question": "What is the meaning of the following road sign (the yellow colored left arrow)?",
+  "answers": [
+   "It is permitted to drive to the right of the yellow line on the road.",
+   "Follow the direction of the yellow arrow only.",
+   "Public transportation vehicles are prohibited to pass the signpost on its left.",
+   "Only public transportation vehicles are permitted to pass the signpost on its left."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 514,
+  "category": "signs",
+  "question": "Until where do the following road signs remain valid?",
+  "answers": [
+   "Until the nearest traffic light, provided that the light is green.",
+   "Until the nearest bus station.",
+   "The validity of the sign expires when approaching a densely populated area.",
+   "Until the nearest junction or until another “speed limit” or “end of speed limit” sign is placed."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 515,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "The sign indicates the speed limit ahead, and it applies to all vehicles.",
+   "End of special speed limit.",
+   "Special speed limit for restricted vehicles only.",
+   "It is prohibited to drive slower (in k.p.h) than indicated in the sign."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 516,
+  "category": "traffic-laws",
+  "question": "When you approach a pedestrian crossing that is marked on the road:",
+  "answers": [
+   "Overtaking is prohibited.",
+   "Careful overtaking is permitted in one-way road ways.",
+   "Overtaking is prohibited in urban roads. In inter-urban roads it is permitted.",
+   "Overtaking is permitted."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 517,
+  "category": "traffic-laws",
+  "question": "According to the law, what is the maximum allowed length of the bus in the following picture?",
+  "answers": [
+   "13.5 meters.",
+   "18.5 meters.",
+   "11 meters.",
+   "12 meters."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 518,
+  "category": "signs",
+  "question": "When you approach an intersection and the a traffic light starts  flashing green.",
+  "answers": [
+   "It is a sign that the traffic light is out of order and you should follow the instructions of the road signs that are placed there.",
+   "There is no difference between flickering-green and green light; hence, there is no need to pay special attention to it.",
+   "It is a sign that the green light is about to change in three seconds.",
+   "It is a sign that the light turned green a short time ago and you can continue driving."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 519,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Internal road in a Kibbutz or Moshav only.",
+   "End of urban area.",
+   "Entrance to an urban area.",
+   "Careful! public institutions."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 520,
+  "category": "signs",
+  "question": "What characterizes the roads that follow this road sign?",
+  "answers": [
+   "They pass through an urban area, including residential neighborhoods with pedestrian activity.",
+   "They pass through a Kibbutz or Moshav only.",
+   "They connect between main cities.",
+   "You are entering an area with road works."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 521,
+  "category": "signs",
+  "question": "What is the speed limit in an area where the following road sign is placed (and no other road sign indicates otherwise)?",
+  "answers": [
+   "60 k.p.h.",
+   "50 k.p.h",
+   "30 k.p.h.",
+   "There is no speed limit."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 522,
+  "category": "signs",
+  "question": "Traffic sign 424 remains valid until the following sign is posted:",
+  "answers": [
+   "301",
+   "220",
+   "432",
+   "425"
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 523,
+  "category": "signs",
+  "question": "Which of the following road signs permits U-turns only?",
+  "answers": [
+   "210",
+   "212",
+   "303",
+   "209"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 524,
+  "category": "signs",
+  "question": "The following road sign remains valid until:",
+  "answers": [
+   "A sign that indicates a non-urban road. .",
+   "Only until the nearest intersection with traffic lights.",
+   "A sign that permits driving at a restricted speed.",
+   "The nearest intersection or until a road sign that cancels it or until a “vehicle parking area” sign."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 525,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No stopping or parking on the road-side where the sign is placed.",
+   "No stopping for vehicles on both sides of the road.",
+   "Stopping is permitted but parking is prohibited.",
+   "It is allowed to stop and park, except on Saturdays and holidays."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 526,
+  "category": "signs",
+  "question": "The following road sign remains valid:",
+  "answers": [
+   "Until the nearest intersection or until a road sign that cancels it or until a “vehicle parking” sign.",
+   "Until a speed limit sign.",
+   "Until the nearest intersection with traffic lights.",
+   "Until a bus station sign."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 527,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "End of overtaking restriction.",
+   "From here on parking is prohibited.",
+   "End of urban area.",
+   "Stopping and parking is permitted."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 528,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entry is permitted for driving-instruction vehicles during the course of a driving lesson..",
+   "No entry for driving-instruction vehicles during the course of a driving lesson.",
+   "No entry for new drivers.",
+   "Entry is only permitted for two-wheelers used for driving-instruction purposes."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 529,
+  "category": "signs",
+  "question": "The following road sign remains valid until:",
+  "answers": [
+   "Until the nearest intersection or until an urban area entry sign.",
+   "An “end of urban road” sign.",
+   "A road sign that cancels it.",
+   "Until the nearest intersection with traffic lights."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 530,
+  "category": "signs",
+  "question": "What is indicated by the following traffic sign?",
+  "answers": [
+   "End of urban area.",
+   "End of vehicle parking and stopping zone.",
+   "End of “restriction for driving-instruction\".",
+   "End of freeway zone."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 531,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "4-wheeled vehicles only are permitted to use the roadway or the lane.",
+   "Designated lane for trams, buses, taxis and vehicles that transport at least the number of passengers that is indicated in the sign.",
+   "All vehicles are permitted to use the roadway or the lane, except for trams and electric buses.",
+   "A lane prohibited for public transportation."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 532,
+  "category": "signs",
+  "question": "The following road sign remains valid until:",
+  "answers": [
+   "The nearest intersection or the end of the tracks.",
+   "The nearest bus station.",
+   "The nearest intersection with traffic lights or the end of the tracks.",
+   "The beginning of the freeway that is indicated in the sign."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 533,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Give right-of-way to the traffic that crosses ahead.",
+   "Non-specific danger.",
+   "Give right-of-way to any vehicles that approaches the intersection.",
+   "Stop and give right-of-way to approaching vehicles from your opposite direction."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 534,
+  "category": "signs",
+  "question": "What are you required to do when the following road sign is placed?",
+  "answers": [
+   "Drive! You have right-of-way in the intersection ahead.",
+   "Give right of way to vehicles crossing from all directions.",
+   "Make a complete stop, look to the right and to the left and evaluate the incoming traffic.",
+   "You should stop and then continue driving: You have right-of-way in the intersection."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 535,
+  "category": "signs",
+  "question": "Where are you required to stop when the following traffic sign is placed?",
+  "answers": [
+   "At the center of the intersection, where the best field of view is located.",
+   "If a stop line is marked – stop immediately after the line.",
+   "Stop wherever you want before the intersection.",
+   "If a stop line is marked – stop before and close to the line. If a stop line is not marked – stop at the line of the junction."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 536,
+  "category": "signs",
+  "question": "What does it mean when a “stop” sign is placed on the left side of the roadway only?",
+  "answers": [
+   "That it only applies to those turning left or making a u-turn. To the left",
+   "Stop and give right-of-way to incoming traffic from your opposite direction only.",
+   "Stop and give right of way to traffic coming from your left only.",
+   "Stop and give right of way to traffic coming from your right only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 537,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Stop and give right-of-way to traffic on the road that crosses ahead.",
+   "Stop for a moment and then continue driving.",
+   "Give right-of-way to traffic on the road that crosses ahead while road-works take place.",
+   "Stop! (Hand held road sign).Stop as long as the sign is held up."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 538,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Proceed carefully (hand held sign).",
+   "Drive fast.",
+   "Drive without stopping. Stopping is prohibited.",
+   "Stop and wait for the instructions of the traffic flagger."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 539,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Drive lright Turn after the sign.",
+   "Winding road.",
+   "Left turn followed by a right turn.",
+   "Drive to the right Turn before the sign."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 540,
+  "category": "signs",
+  "question": "What are you required to do according to the following traffic signs?",
+  "answers": [
+   "Turn leftt. Turn after the sign.",
+   "Drive left. Turn after the sign. A yellow arrow shows the direction of driving for restricted vehicles only.",
+   "Drive left. Turn after the sign.. A yellow arrow shows the direction of driving for private passenger cars only.",
+   "Drive right. Turn before the sign."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 541,
+  "category": "signs",
+  "question": "Is it permitted to make a U-turn to the left where the following road sign is placed?",
+  "answers": [
+   "It is permitted in an intersection with traffic lights, and prohibited in an intersection without traffic lights.",
+   "Yes, unless another sign is placed to restrict this.",
+   "It is always permitted, even when a “no U-turn” sign is placed.",
+   "It is always forbidden."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 542,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Turn leftt- turn before the sign.",
+   "Entry to a one-way road.",
+   "Drive left only. U-turn is prohibited.",
+   "Turn left behind the sign."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 543,
+  "category": "signs",
+  "question": "Is it permitted to make a right U-turn where the following road sign is placed?",
+  "answers": [
+   "No.",
+   "Yes, when no other sign is placed to prohibit it.",
+   "It is permitted, even when a “no U-turn” sign is placed.",
+   "Yes, in daylight only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 544,
+  "category": "signs",
+  "question": "What are you required to do according to the following traffic sign?",
+  "answers": [
+   "Drive left and then right.",
+   "Turn right after the sign.",
+   "Drive right and turn before the sign.",
+   "Make a U-turn to the right in the next intersection."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 545,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Two-way traffic ahead.",
+   "Entrance to a one-way street.",
+   "Pass the place that is marked with a signpost from its right.",
+   "Drive straight ahead only."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 546,
+  "category": "signs",
+  "question": "The following traffic sign is the only sign posted at an intersection. Is it permitted to turn left?",
+  "answers": [
+   "Yes, only during the day.",
+   "No.",
+   "Yes, only in the intersection.",
+   "Yes, in an intersection with traffic lights."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 547,
+  "category": "signs",
+  "question": "When the following traffic sign is placed at the intersection:",
+  "answers": [
+   "You are only permitted to drive straight ahead from the left lane only.",
+   "The road after the intersection is a one-way road.",
+   "You are only permitted to drive straight ahead.",
+   "Steep ascent ahead."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 548,
+  "category": "signs",
+  "question": "What is the meaning of the following symbol?",
+  "answers": [
+   "Paid parking lot for buses only.",
+   "Bus-repair parking lot.",
+   "Night parking lot for buses only.",
+   "\"Park and go\"."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 549,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Winding road in both directions at the next intersection.",
+   "Turn right or left.",
+   "No U-turn to the left.",
+   "Pass the place that is marked with a signpost from its right only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 550,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "In the intersection ahead only left U-turn is permitted.",
+   "Give right-of-way to traffic crossing your path within the roundabout and pass the roundabout from its right side.",
+   "You have right-of-way in the roundabout, and pass the roundabout from its right.",
+   "Pass the place that is marked in the signpost from its left only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 551,
+  "category": "signs",
+  "question": "What are you required to do according to the following traffic sign?",
+  "answers": [
+   "Give right-of-way to traffic crossing your path on the roundabout,",
+   "Drive right or left. A yellow arrow shows the direction of driving for public transportation only.",
+   "When you are driving in the roundabout, give right-of way to vehicles that approach the roundabout from its different ‘arms’.",
+   "Pass the place that is marked with a signpost from its left only."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 552,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "You may pass the marked place from either its right or left.",
+   "Pass the place that is marked with a signpost from its right.",
+   "No right or left turn.",
+   "It is prohibited to drive forward."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 553,
+  "category": "signs",
+  "question": "What is indicated by the following traffic sign?",
+  "answers": [
+   "Roundabout ahead.",
+   "Active fountain.",
+   "It is also permitted to drive against the direction of traffic.",
+   "The driver must make a U-turn."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 554,
+  "category": "signs",
+  "question": "You are driving a commercial vehicle and come across this traffic sign:",
+  "answers": [
+   "Pass only from the right. Only public transportation is allowed to pass from the left as well.",
+   "Pass only from the left. Public transportation is allowed to pass from the left as well.",
+   "Drive only straight (forward).",
+   "Pass from the right or from the left; whatever is comfortable for you."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 555,
+  "category": "signs",
+  "question": "What are you required to do when you come across this traffic sign?",
+  "answers": [
+   "Pass the signpost on the left only.",
+   "You are permitted to pass the place marked by the signpost on the right or left.",
+   "Pass the signpost from the right. Only public transportation drivers are permitted to pass the signpost on the left.",
+   "Give right-of-way to crossing traffic in the roundabout."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 556,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Road for motor vehicles only.",
+   "You have right of way in the road that crosses.",
+   "No through road (cul-de-sac) to your right.",
+   "Special entrance to schools or kindergartens."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 557,
+  "category": "signs",
+  "question": "When the roadway is divided by a broken line?",
+  "answers": [
+   "You are permitted to overtake restricted vehicles only.",
+   "You are permitted to overtake when the road is clear.",
+   "No overtaking until where the dotted line turns to an unbroken line.",
+   "No overtaking until where an “end of overtaking restriction” sign is placed."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 558,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Two-way traffic ahead.",
+   "You have right-of-way over vehicles approaching from the opposite direction.",
+   "The number of lanes is increasing.",
+   "You are permitted to use all lanes."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 559,
+  "category": "traffic-laws",
+  "question": "It is permitted to make a left U-turn:",
+  "answers": [
+   "Only from the farthest left lane in which you are permitted to drive.",
+   "From a left-turn lane or from any other lane which doesn’t have a prohibiting sign.",
+   "From every lane that is marked with left or right-turn arrows.",
+   "From a left-turn lane only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 560,
+  "category": "signs",
+  "question": "Who is expected to approach from your opposite direction when the color of the arrow in the sign is yellow?",
+  "answers": [
+   "Only tour buses.",
+   "Vehicles transporting more than 2 passengers.",
+   "Only trains.",
+   "Public transportation vehicle or any other vehicle that is permitted according to the sign."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 561,
+  "category": "signs",
+  "question": "When you see the following traffic sign before you:",
+  "answers": [
+   "Trucks are permitted to drive from your opposite direction.",
+   "You are entering a road with two lanes to each direction.",
+   "You are on a one-way road, which serves as a two-way road for vehicles with an overall weight of up to 3,500 kg.",
+   "You are entering a road section in which the traffic from the opposite direction is public transport only or any other vehicle permitted according to the sign."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 562,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Road for non-motor vehicles only.",
+   "Road for motor vehicles only.",
+   "Road for commercial vehicles only.",
+   "Road for public vehicles only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 563,
+  "category": "signs",
+  "question": "Are cyclists permitted to enter a road, when the following traffic sign is placed at the entrance to the road?",
+  "answers": [
+   "No.",
+   "Yes, in inter-urban roads.",
+   "Yes, in an urban road only.",
+   "Yes, always."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 564,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "It is forbidden to exceed the speed indicated in the sign (in k.p.h).",
+   "Road for motor vehicles that are permitted and capable of driving at least the speed indicated in the sign (in k.p.h).",
+   "Speed limit of 55 k.p.h.",
+   "It is forbidden to drive slower than the speed indicated in the sign (in k.p.h)."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 565,
+  "category": "signs",
+  "question": "Is a “restricted vehicle” permitted to use a road in which the following traffic sign is placed?",
+  "answers": [
+   "Yes, driving at a minimum speed of 55 k.p.h.",
+   "Yes, driving at a maximum speed of 55 k.p.h.",
+   "Yes, on a freeway only.",
+   "No."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 566,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entrance to a freeway. (Motorway)",
+   "Suspension bridge over a freeway.",
+   "Freeway interchange ahead.",
+   "Exit from a freeway."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 567,
+  "category": "signs",
+  "question": "Are cyclists and pedestrians permitted to enter according to the following traffic signs?",
+  "answers": [
+   "Yes, provided that they act very carefully.",
+   "No.",
+   "Yes.",
+   "Yes, on the “hard shoulders” only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 568,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Freeway without interchanges.",
+   "Entrance to a freeway.",
+   "Diagonal merging with a freeway.",
+   "End of freeway (Motorway)"
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 569,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Cab rank; no stopping and parking of other vehicles, except for unloading passengers.",
+   "Pick-up stop; no stopping and parking of other vehicles.",
+   "No stopping and parking for any vehicle within a distance of 20 meters.",
+   "Route service station for special cabs and busses."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 570,
+  "category": "signs",
+  "question": "Where the following traffic sign is placed:",
+  "answers": [
+   "All vehicles are permitted to park and wait for passengers.",
+   "It is permitted to load a maximum of six passengers in each cab.",
+   "It is forbidden to unload passengers within the boundaries of this sign.",
+   "All vehicles are permitted to stop for the purpose of passenger unloading."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 571,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No parking of vehicles, except for the purpose of passenger unloading.",
+   "End of cab rank.",
+   "No stopping and parking for any other vehicle.",
+   "Cabs are prohibited to stop and unload passengers beyond this point."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 572,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Taxi stand in airports.",
+   "Designated waiting place for a taxi service route.",
+   "Designated waiting place for taxis.",
+   "Place for loading and unloading of taxi passengers only. Waiting for passengers is prohibited."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 573,
+  "category": "signs",
+  "question": "When the following road sign is placed:",
+  "answers": [
+   "Only buses are permitted to stop.",
+   "Passenger loading is permitted on holidays only.",
+   "Only taxis are permitted to stop.",
+   "Only unloading of workers is permitted."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 574,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for non-motor vehicles only.",
+   "Entry is permitted for tractors and work vehicles.",
+   "Careful! road-works.",
+   "No entry for tractors and work vehicles."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 575,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for vehicle carriers.",
+   "No entry for vehicles, including trolleys.",
+   "No entry for horse drawn vehicles and non-harnessed animals.",
+   "Entry is permitted for horsemen only."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 576,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entry for bicycles only.",
+   "No entry for bicycles.",
+   "No entry for bicycles and motorcycles.",
+   "No entry for four-wheeled motor vehicles."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 577,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Path for bicycles only.",
+   "Bicycle crossing.",
+   "Separate bicycle paths on a freeway.",
+   "Joint path for cyclists and pedestrians."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 578,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entry is permitted for pedestrians only.",
+   "Children are not allowed to play here.",
+   "No entry for pedestrians, including the “hard shoulders”.",
+   "Careful! Pedestrians nearby."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 579,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Follow the direction of the white arrow. Traffic in the opposite direction is prohibited.",
+   "You have right of way over on-coming traffic",
+   "Driving backwards is prohibited.",
+   "Give right-of-way in a narrow road to incoming traffic from the opposite direction."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 580,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Promenade ahead.",
+   "Path for cyclists only.",
+   "Path for cyclists and pedestrians only.",
+   "Crossing for cyclists and pedestrians."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 581,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "The road is open for cyclists and pedestrians.",
+   "Crossing for cyclists and pedestrians.",
+   "Separate paths for cyclists and pedestrians only.",
+   "Path for cyclists only. No entry for pedestrians."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 582,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No entry for vehicles transporting drink bottles.",
+   "No entry for vehicles transporting dangerous materials,..",
+   "Vehicles transporting hazardous materials are permitted to enter.",
+   "No entry for vehicles transporting marine containers."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 583,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Parking for non-motor vehicles only.",
+   "Soldier pick-up station, for passenger loading and unloading only.",
+   "No stopping of vehicles, except for the purpose of passenger loading and unloading.",
+   "Vehicle parking area."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 584,
+  "category": "signs",
+  "question": "The following road sign remains valid:",
+  "answers": [
+   "Until the nearest intersection or until a “no parking” zone.",
+   "Until a “no entry” sign.",
+   "Until an “end of urban road” sign.",
+   "Until the nearest interchange."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 585,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Pick-up station. No stopping of commercial vehicles.",
+   "Parking for soldier transportation vehicles.",
+   "Soldier pick-up station. Only military vehicles are permitted to stop.",
+   "Pick-up station for soldiers. Picking up or letting down only (waiting at the station is prohibited)."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 586,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "You have right-of-way in the narrow road.",
+   "Give right-of-way on the narrow road to vehicles coming from the opposite side.",
+   "No turning at the end of the road section.",
+   "No through road (cul-de-sac) ahead."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 587,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "No through road (cul-de sac) to your right.",
+   "Vehicle exit from a parking lot on the right.",
+   "Give right-of-way to incoming vehicles and to vehicles turning left.",
+   "Give right-of-way while making a right turn."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 588,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Narrow bridge. Give right-of-way to vehicles coming from the opposite direction.",
+   "You have right-of-way on the narrow road.over oncoming traffic",
+   "One-way traffic ahead.",
+   "Driving backwards is prohibited."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 589,
+  "category": "signs",
+  "question": "What are you required to do according to the following traffic sign?",
+  "answers": [
+   "Honk and signal drivers coming from the opposite direction that you intend to yield.",
+   "Stop and allow vehicles coming from the opposite direction to continue driving.",
+   "Reduce speed and check if the vehicle coming from the opposite direction yields as required.",
+   "Continue driving, take right of way, and you are not obliged to slow down."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 590,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Entrance to a one-way street.",
+   "Freeway ahead.",
+   "Follow the direction of the arrow. No entry for bicycles.",
+   "One-lane roadway ahead."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 591,
+  "category": "signs",
+  "question": "How should you turn left from a road on which the following sign is placed?",
+  "answers": [
+   "You should start turning from the central lane.",
+   "From the left side, unless otherwise signposted.",
+   "You should turn from the far right lane.",
+   "It is forbidden to turn left. You are only allowed to drive forward."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 592,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Driving in the direction marked with a yellow arrow is permitted for public transportation only.",
+   "You have right of way on the narrow road.",
+   "Give right-of-way to opposite motor traffic on a narrow and steep road.",
+   "Drive only forward. Turning is prohibited."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 593,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Pedestrian crossing about 150 meters ahead.",
+   "Suspended pedestrian bridge.",
+   "Path for pedestrians only.",
+   "give right of way to pedestrians crossing on the marked area."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 594,
+  "category": "signs",
+  "question": "What are you required to do according to the following traffic sign?",
+  "answers": [
+   "Warn pedestrians by honking loudly and turning on the headlights.",
+   "Continue driving and make sure that the pedestrians clear away from the roadway.",
+   "When you're driving and approaching this traffic sign, always slow down and even stop if necessary to allow pedestrians to safely cross the road.",
+   "Honk and warn the crossing pedestrians."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 595,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "You are on a road that has right-of-way.",
+   "Police “speed trap” ahead.",
+   "You are on a roadway that has no right-of-way.",
+   "Public transportation roadway."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 596,
+  "category": "signs",
+  "question": "What are you required to do after passing the following traffic sign, which is placed to your left?",
+  "answers": [
+   "Stop before level crossing.",
+   "Give right of way to traffic on the crossing road.",
+   "Drive normally. You are on a roadway that has right-of-way.",
+   "It is the end of the road section that has right of way."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 597,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "You are on a roadway that has right-of-way.",
+   "No vehicle parking.",
+   "Slow down and prepare for stopping.",
+   "End of road that has right-of-way."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 598,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Refreshment station.",
+   "First aid station.",
+   "Private ambulance station.",
+   "Ambulance parking only."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 599,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "First aid station.",
+   "Old age home.",
+   "Five star hotel",
+   "Hospital."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 600,
+  "category": "signs",
+  "question": "What is the meaning of the following traffic sign?",
+  "answers": [
+   "Filling station.",
+   "Entrance to a military gas station with a refreshment spot.",
+   "Entrance to a gas station and a place for vehicle repair.",
+   "Trucks-only filling station."
+  ],
+  "correct": 0,
+  "hasImage": true
+ }
+]

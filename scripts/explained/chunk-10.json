@@ -1,0 +1,402 @@
+[
+ {
+  "id": 1001,
+  "explanation": "ABS prevents the wheels from locking during hard braking, which lets the driver keep steering control to avoid an obstacle instead of skidding straight ahead."
+ },
+ {
+  "id": 1002,
+  "explanation": "The Electronic Stability Program compares the driver's intended path with the vehicle's actual path and applies corrections, reducing the risk of skidding and loss of control."
+ },
+ {
+  "id": 1003,
+  "explanation": "ESP works by braking individual wheels separately and adjusting engine power to keep the vehicle following the driver's intended path during dangerous conditions."
+ },
+ {
+  "id": 1004,
+  "explanation": "The Electronic Stability Program uses sensors to detect skidding or rollover risk and automatically applies corrective braking and engine control to keep the vehicle stable."
+ },
+ {
+  "id": 1005,
+  "explanation": "Bumpers are designed to absorb the force of low-speed impacts, reducing the damage the vehicle suffers in minor accidents."
+ },
+ {
+  "id": 1006,
+  "explanation": "Driving slowly in a low gear on a flooded road keeps the engine revving steadily and reduces the risk of water entering the exhaust or engine and of losing control."
+ },
+ {
+  "id": 1007,
+  "explanation": "Overhead lane-direction signs mounted above the carriageway before an interchange guide drivers into the correct lane in advance on interurban roads and motorways."
+ },
+ {
+  "id": 1008,
+  "explanation": "Rigid or protruding items inside the cabin can injure occupants on impact during a collision, which is why the traffic regulations prohibit installing them."
+ },
+ {
+  "id": 1009,
+  "explanation": "Airbags are designed to work together with a properly fastened seat belt; without the belt holding the occupant in position, the rapidly inflating airbag can strike them with dangerous force."
+ },
+ {
+  "id": 1010,
+  "explanation": "Airbags are a supplemental system, not a replacement for seat belts, so Traffic Regulation 83B requires belts to be fastened at all times the vehicle is in motion."
+ },
+ {
+  "id": 1011,
+  "explanation": "The Supplemental Restraint System inflates airbags on collision to cushion the driver and passengers, reducing the force of impact against the vehicle's interior."
+ },
+ {
+  "id": 1012,
+  "explanation": "Reclining the seat too far back changes the belt's angle across the body, letting the occupant slide underneath it during a crash and reducing the belt's protective effect."
+ },
+ {
+  "id": 1013,
+  "explanation": "In a rear-end collision the head jolts backward relative to the torso; a properly positioned head rest supports the head and limits this whiplash motion."
+ },
+ {
+  "id": 1014,
+  "explanation": "The head rest supports the head during a rear-end impact, preventing it from snapping backward and reducing whiplash-type neck injuries."
+ },
+ {
+  "id": 1015,
+  "explanation": "Worn or malfunctioning wipers cannot clear the windshield properly, reducing the driver's visibility in rain and potentially scratching the glass."
+ },
+ {
+  "id": 1016,
+  "explanation": "A responsive, well-maintained engine allows a driver to accelerate quickly to escape a hazardous situation, so engine condition is directly tied to safe driving."
+ },
+ {
+  "id": 1017,
+  "explanation": "Moderate driving habits combined with correct tire pressure reduce abnormal tread wear, which extends the tires' usable life span."
+ },
+ {
+  "id": 1018,
+  "explanation": "Tire pressure should be measured before the vehicle has been driven, while the tires are still cold, since driving heats the air inside and raises the reading."
+ },
+ {
+  "id": 1019,
+  "explanation": "When a light fails, the first things to check are the bulb itself and the fuse protecting that circuit, since either one failing cuts power to the lamp."
+ },
+ {
+  "id": 1020,
+  "explanation": "The turn-signal relay speeds up its flash rate when it senses reduced electrical load, which happens when one of the indicator bulbs has burned out."
+ },
+ {
+  "id": 1021,
+  "explanation": "Replacement bulbs must match the type and specification set out in the vehicle manufacturer's manual to ensure correct fit and electrical compatibility."
+ },
+ {
+  "id": 1022,
+  "explanation": "This sign type communicates a warning, instruction, or prohibition that isn't already represented by one of the standard signs listed in the official road sign table."
+ },
+ {
+  "id": 1023,
+  "explanation": "A cracked or broken headlamp lens scatters the light beam instead of focusing it properly, which can dazzle oncoming and other drivers."
+ },
+ {
+  "id": 1024,
+  "explanation": "The spare tire must be inflated to the pressure specified by the vehicle manufacturer, the same source used for the regular tires."
+ },
+ {
+  "id": 1025,
+  "explanation": "Correct tire pressure is the value set out in the manufacturer's manual, since it is calculated for the vehicle's weight, handling, and safety characteristics."
+ },
+ {
+  "id": 1026,
+  "explanation": "Under-inflated tires flex excessively as they roll, generating extra heat and wear while reducing the vehicle's grip and stability."
+ },
+ {
+  "id": 1027,
+  "explanation": "Over-inflated tires bulge in the center of the tread, so the middle wears faster than the edges, shortening the tire's overall life."
+ },
+ {
+  "id": 1028,
+  "explanation": "The manufacturer's manual specifies the correct tire pressure for the vehicle, tailored to its weight distribution and design."
+ },
+ {
+  "id": 1029,
+  "explanation": "Low air pressure lets a tire flex excessively as it rolls, generating internal friction and heat that can lead to overheating and tire failure."
+ },
+ {
+  "id": 1030,
+  "explanation": "Under-inflated tires create more rolling resistance, forcing the engine to work harder and burn more fuel, which also increases exhaust emissions."
+ },
+ {
+  "id": 1031,
+  "explanation": "The proper tire size for a vehicle is the one specified by the vehicle's manufacturer, since it matches the car's design, load capacity, and handling."
+ },
+ {
+  "id": 1032,
+  "explanation": "The tire size approved for a vehicle is set by the manufacturer and recorded in the vehicle's registration document, which drivers should check against the tires fitted."
+ },
+ {
+  "id": 1033,
+  "explanation": "Wheel nuts should be fully tightened once the vehicle is back on the ground, and rechecked after a short distance of driving because they can settle and loosen slightly."
+ },
+ {
+  "id": 1034,
+  "explanation": "Engine oil level should be checked using the dipstick while the engine is cold and switched off, since a hot, running engine gives an inaccurate reading."
+ },
+ {
+  "id": 1035,
+  "explanation": "Changing a vehicle's tire size away from what's specified in its registration requires prior approval from the Licensing Authority, since it can affect handling and safety."
+ },
+ {
+  "id": 1036,
+  "explanation": "This sign marks the point where a built-up (urban) area ends, after which urban speed limits and related restrictions no longer apply."
+ },
+ {
+  "id": 1037,
+  "explanation": "A vehicle's fire extinguisher must be replaced or refilled whenever it has been discharged, fully or partially, or when its pressure gauge shows lost internal pressure."
+ },
+ {
+  "id": 1038,
+  "explanation": "Tire pressure readings are only accurate when the tires are cold, before the vehicle has been driven and the air inside has warmed and expanded."
+ },
+ {
+  "id": 1039,
+  "explanation": "A leaking exhaust system can let toxic burnt gases seep into the passenger compartment, which can cause drowsiness or loss of consciousness in occupants."
+ },
+ {
+  "id": 1040,
+  "explanation": "A closed parking garage is poorly ventilated, so leaving the engine running lets toxic exhaust fumes build up to dangerous levels."
+ },
+ {
+  "id": 1041,
+  "explanation": "Shifting gears to match the correct speed and road conditions, while avoiding unnecessarily high engine revolutions, reduces how much fuel the engine burns."
+ },
+ {
+  "id": 1042,
+  "explanation": "Keeping the engine and its related systems properly serviced through regular maintenance ensures efficient combustion, which reduces the harmful gases emitted in the exhaust."
+ },
+ {
+  "id": 1043,
+  "explanation": "A running engine can produce sparks or heat that ignite the flammable fuel vapors released during refueling, risking a fire."
+ },
+ {
+  "id": 1044,
+  "explanation": "Before starting the engine, the driver must confirm the parking brake is engaged so the vehicle cannot move unexpectedly once it starts."
+ },
+ {
+  "id": 1045,
+  "explanation": "The parking (hand) brake's main purpose is to hold the vehicle stationary and prevent it from rolling when parked, including on a slope."
+ },
+ {
+  "id": 1046,
+  "explanation": "A vehicle's exhaust emissions are officially checked as part of its mandatory annual test at a licensed testing facility."
+ },
+ {
+  "id": 1047,
+  "explanation": "Unequal tire pressure between the front wheels creates uneven rolling resistance, pulling the steering toward the side with the lower-pressure tire."
+ },
+ {
+  "id": 1048,
+  "explanation": "A misalignment or fault in the steering system changes how the front tires contact the road, leading to uneven tread wear."
+ },
+ {
+  "id": 1049,
+  "explanation": "When one front tire has lower air pressure than the other, it creates more rolling resistance on that side, pulling the steering wheel involuntarily in that direction."
+ },
+ {
+  "id": 1050,
+  "explanation": "Nuts should be loosened slightly while the wheel is still on the ground for resistance, then the vehicle raised with the jack, after which the nuts can be fully released safely."
+ },
+ {
+  "id": 1051,
+  "explanation": "Vehicle manufacturers typically post the correct tire pressure on a sticker located inside the car, such as the door jamb, for quick reference."
+ },
+ {
+  "id": 1052,
+  "explanation": "The dashboard displays information from the vehicle's various systems, such as fuel and temperature, and houses the controls the driver uses to operate them."
+ },
+ {
+  "id": 1053,
+  "explanation": "Sign 405 prohibits entry to all motor vehicles on that road, so both the car and the motorcycle overtaking it are on the road in violation of the same restriction."
+ },
+ {
+  "id": 1054,
+  "explanation": "Before setting off, the driver should confirm that none of the dashboard warning lights remain illuminated, since a lit warning indicates a system fault needing attention."
+ },
+ {
+  "id": 1055,
+  "explanation": "A detected fault in the steering or braking system can cause a sudden loss of vehicle control, so the driver must stop immediately rather than risk continuing."
+ },
+ {
+  "id": 1056,
+  "explanation": "Repairs to vehicle safety-critical parts must be performed by a qualified mechanic at a licensed garage to ensure the repair meets required safety standards."
+ },
+ {
+  "id": 1057,
+  "explanation": "Preventive maintenance means servicing the vehicle on a regular, planned schedule to catch and prevent problems before they cause a breakdown or safety failure."
+ },
+ {
+  "id": 1058,
+  "explanation": "The correct maintenance schedule for a vehicle is the one set out by its manufacturer, since it reflects how the vehicle's components are designed to be serviced."
+ },
+ {
+  "id": 1059,
+  "explanation": "Avoiding hard, frequent accelerations keeps the engine running efficiently, which reduces how much fuel it consumes."
+ },
+ {
+  "id": 1060,
+  "explanation": "Water on the brake pads and discs reduces their friction and stopping power, so the driver should continue slowly, lightly applying the brakes, until they dry and regain full effectiveness."
+ },
+ {
+  "id": 1061,
+  "explanation": "An idling engine emits exhaust gases containing carbon monoxide, which is toxic and can accumulate to dangerous levels in an enclosed, poorly ventilated space."
+ },
+ {
+  "id": 1062,
+  "explanation": "The clutch is the component that connects and disconnects the engine's rotational power from the gearbox, allowing gear changes and smooth starts."
+ },
+ {
+  "id": 1063,
+  "explanation": "The parking brake should be applied every time the vehicle is parked, regardless of whether the road is level or sloped, to ensure it cannot roll."
+ },
+ {
+  "id": 1064,
+  "explanation": "Interacting with or looking at a GPS navigation device while driving takes attention away from the road, which is a recognized driving distraction."
+ },
+ {
+  "id": 1065,
+  "explanation": "A GPS navigation system tracks the vehicle's location and provides directions to help the driver reach a destination."
+ },
+ {
+  "id": 1066,
+  "explanation": "The jack must be positioned at the reinforced lifting point marked by the manufacturer, or another strong, stable point near the wheel being changed, to safely support the vehicle's weight."
+ },
+ {
+  "id": 1067,
+  "explanation": "Besides holding a parked vehicle in place, the hand brake can also serve as an emergency brake if the main foot-braking system fails."
+ },
+ {
+  "id": 1068,
+  "explanation": "Correct tire pressure can only be reliably confirmed by measuring it with a tire pressure gauge, since a visual check cannot detect small pressure differences."
+ },
+ {
+  "id": 1069,
+  "explanation": "A low fuel warning only means the driver should refuel soon; unlike engine temperature, oil pressure, or brake failure warnings, it does not signal an immediate mechanical danger."
+ },
+ {
+  "id": 1070,
+  "explanation": "A bus route permit governs the operation of the passenger service on that specific route, including matters like schedule and stops, not just the vehicle itself."
+ },
+ {
+  "id": 1071,
+  "explanation": "Correct seating position gives the driver proper reach to the pedals and steering wheel and the best possible view of the road and mirrors, all essential for vehicle control."
+ },
+ {
+  "id": 1072,
+  "explanation": "Setting the seat's position, the backrest angle, and the steering wheel correctly together ensures the driver can reach the controls comfortably while maintaining full command of the vehicle."
+ },
+ {
+  "id": 1073,
+  "explanation": "This sign displays the route number of a main road, helping drivers confirm which numbered road they are currently on."
+ },
+ {
+  "id": 1074,
+  "explanation": "In fog, visibility is severely reduced, so the driver should slow down to match how far ahead they can actually see, allowing enough distance to stop safely."
+ },
+ {
+  "id": 1075,
+  "explanation": "Dirt or grime on the mirrors blocks or distorts the reflected image, reducing the driver's ability to see traffic and hazards behind and to the sides."
+ },
+ {
+  "id": 1076,
+  "explanation": "A panoramic (wide-angle) mirror widens the field of view but distorts the image, making objects appear farther away than they actually are."
+ },
+ {
+  "id": 1077,
+  "explanation": "Before jacking up the vehicle, the driver must secure it against rolling by applying the parking brake and placing blocks under the wheels, then loosen the wheel nuts while the tire still has ground resistance."
+ },
+ {
+  "id": 1078,
+  "explanation": "This sign gives drivers advance notice of the destinations reached at an upcoming junction on an inter-urban road, allowing time to move into the correct lane."
+ },
+ {
+  "id": 1079,
+  "explanation": "When the temperature warning lights up, the driver should stop and let the engine idle at medium RPM to cool gradually; if it doesn't cool down, the engine should be shut off to prevent damage."
+ },
+ {
+  "id": 1080,
+  "explanation": "Routine driver checks include fluid and oil levels, tire air pressure, and confirming that lights and wipers are working properly, since these directly affect safe operation."
+ },
+ {
+  "id": 1081,
+  "explanation": "Drivers should regularly check engine oil, coolant, brake fluid, and windshield washer fluid levels, since low levels in any of these can affect safe operation."
+ },
+ {
+  "id": 1082,
+  "explanation": "Seat belts, airbags, and head rests work together as passive safety features that reduce the force of impact on occupants during a collision."
+ },
+ {
+  "id": 1083,
+  "explanation": "A standard tractor's service (foot) brakes act on the rear axle, which is why the two rear wheels can be braked separately from one another."
+ },
+ {
+  "id": 1084,
+  "explanation": "Tractors are equipped with a hydraulic lift system to raise, lower, and operate attached implements, a feature not found in ordinary road vehicles."
+ },
+ {
+  "id": 1085,
+  "explanation": "Allowing the front axle to pivot lets both front wheels stay in contact with uneven ground, improving the tractor's stability on a surface that is not level."
+ },
+ {
+  "id": 1086,
+  "explanation": "When parking a tractor fitted with a front loader, the bucket should be lowered fully to the ground to prevent it from falling or unbalancing the tractor."
+ },
+ {
+  "id": 1087,
+  "explanation": "The maximum safe load on the tractor's rear hydraulic lift arms depends on the manufacturer's rating, which varies with how far the load's center of gravity sits from the tractor."
+ },
+ {
+  "id": 1088,
+  "explanation": "A heavy or far-reaching load on the rear lift arms shifts weight backward off the front axle, which can lift the front wheels off the ground and risk a rearward rollover."
+ },
+ {
+  "id": 1089,
+  "explanation": "A tractor's rollover protective safety frame is designed to protect the operator from being crushed if the tractor tips over."
+ },
+ {
+  "id": 1090,
+  "explanation": "During a rollover, the driver should stay in the seat and hold firmly onto the steering wheel, remaining within the protection of the safety frame rather than jumping clear."
+ },
+ {
+  "id": 1091,
+  "explanation": "Adding water ballast inside tractor tires increases the vehicle's weight, which improves the wheels' grip and traction on the ground during heavy work."
+ },
+ {
+  "id": 1092,
+  "explanation": "Front-mounted weights add downward force on the front axle, improving the front wheels' grip on the surface for better traction and control."
+ },
+ {
+  "id": 1093,
+  "explanation": "Lifting a heavy load at the rear shifts weight off the front axle, so front-mounted weights counterbalance this to keep the front wheels grounded and steerable."
+ },
+ {
+  "id": 1094,
+  "explanation": "The differential lock forces both wheels on an axle to turn at the same speed, which helps when one wheel loses traction by sinking into soft ground or slipping."
+ },
+ {
+  "id": 1095,
+  "explanation": "Tractors are designed so the two rear wheels can be braked independently of each other, which is not possible on the front axle."
+ },
+ {
+  "id": 1096,
+  "explanation": "Braking only one rear wheel is used to tighten the turning radius when making a sharp turn at very low, near-stationary speed, such as maneuvering in tight spaces."
+ },
+ {
+  "id": 1097,
+  "explanation": "Driving with the rear brakes permanently separated means one side brakes harder than the other at any speed, which can suddenly pull the tractor sideways and cause it to roll over."
+ },
+ {
+  "id": 1098,
+  "explanation": "The Power Take-Off transfers rotational power from the tractor's engine to drive attached implements and equipment."
+ },
+ {
+  "id": 1099,
+  "explanation": "The PTO should generally be run at its standard rated RPM, unless the specific attached equipment's instructions call for a different speed."
+ },
+ {
+  "id": 1100,
+  "explanation": "Because the PTO shaft and connected equipment rotate at high speed and can catch loose clothing, the most important safety rule is to keep clear of all moving parts while it operates."
+ }
+]

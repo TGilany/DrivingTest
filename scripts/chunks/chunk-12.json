@@ -1,0 +1,1302 @@
+[
+ {
+  "id": 1201,
+  "category": "traffic-laws",
+  "question": "Is it permitted to load suitcases onto the passenger deck of a bus?",
+  "answers": [
+   "Yes, but only when there is no more space in the luggage compartment of the bus.",
+   "Yes, at the driver’s discretion, and only in a place that will not cause disturbance and allow clear passage for passengers.",
+   "No.",
+   "Yes, it is obligatory to load suitcases onto the passenger deck."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1202,
+  "category": "traffic-laws",
+  "question": "Is a bus driver permitted to refuse entry of children trolleys into the bus?",
+  "answers": [
+   "Yes, in the event that the bus is crowded and there is not enough space.",
+   "Yes, when there is no more space in the luggage compartment of the bus.",
+   "The driver is always obliged to let children trolleys on the bus.",
+   "Yes, but only when the trolley is designed to carry one baby (not when it is a trolley for twins)."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1203,
+  "category": "traffic-laws",
+  "question": "Is it obligatory to install a reverse buzzer on a bus?",
+  "answers": [
+   "No.",
+   "Yes, it is obligatory to install a buzzer, which will function automatically when shifting to reverse gear.",
+   "It is only obligatory for taxis.",
+   "It is only obligatory for public minibuses."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1204,
+  "category": "signs",
+  "question": "What sign denotes the number of kilometers of the road?",
+  "answers": [
+   "629p.",
+   "611",
+   "612",
+   "630"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1205,
+  "category": "traffic-laws",
+  "question": "One of the equipment requirements for a School bus   is:",
+  "answers": [
+   "The installation of flickering lights that must flicker during the entire course of a school-children transportation ride.",
+   "The installation of flickering lights, operated whenever the emergency lights are on.",
+   "The installation of special flashing lights in the front and back, operated when the doors open.",
+   "The installation of flickering lights, operated only when the bus stops."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1206,
+  "category": "traffic-laws",
+  "question": "How would you mark a bus that needs to be left standing at night on an Inter-urban road?",
+  "answers": [
+   "Same as any other vehicle.",
+   "Marking is not obligatory, but it must be immediately towed away from the place.",
+   "By placing a warning triangle seen by approaching vehicles from a distance of at least 100 meters, as well as by operating the distress flashers (double indicators).",
+   "By placing a warning triangle seen by approaching vehicles from a distance of at least 50 meters, accompanied by a flickering yellow light seen from a distance of 100 meters."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1207,
+  "category": "traffic-laws",
+  "question": "When is it obligatory to light the inside of the bus?",
+  "answers": [
+   "In any hour of the day.",
+   "During “light time” – but it is only permitted to turn on the lights next to the rear door.",
+   "During “lighting up time”.",
+   "It is up to the driver’s discretion whether or not to turn the passageway lights on during “light time”."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1208,
+  "category": "traffic-laws",
+  "question": "Who is responsible for cleaning the interior of the bus?",
+  "answers": [
+   "The bus driver.",
+   "The owner of the vehicle.",
+   "The bus company’s dispatcher.",
+   "The holder of the vehicle."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1209,
+  "category": "traffic-laws",
+  "question": "Is it permitted to smoke in a bus?",
+  "answers": [
+   "Yes – within the limits of urban roads only.",
+   "Yes – but only in the back of the bus.",
+   "No – and it is even obligatory to place a “no smoking” sign inside the bus.",
+   "Yes – but only when the air-conditioning system doesn’t work."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1210,
+  "category": "traffic-laws",
+  "question": "A bus lane may also be used by vehicles of:",
+  "answers": [
+   "Holders of a handicap tag issued by the vehicle’s manufacturer.",
+   "Handicapped people, even when they are not inside the vehicle.",
+   "Paraplegic (wheel chair) tag holders.",
+   "Any handicapped person having a regular handicap tag."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1211,
+  "category": "traffic-laws",
+  "question": "Vehicles of handicapped people (paraplegic handicap tag holders) are permitted to use a bus lane:",
+  "answers": [
+   "Only in order to get to the garage.",
+   "Even when the handicapped person is not in the vehicle.",
+   "Also when an escort is driving the vehicle for the handicapped person.",
+   "Only when the handicapped person is the driver."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1212,
+  "category": "traffic-laws",
+  "question": "When riding a bus, is it obligatory to obey the instructions of the bus service employees?",
+  "answers": [
+   "Yes, you must obey the orders of the service employees.",
+   "No, you don’t have to obey the instructions of the service employees.",
+   "No, you should only obey the instructions of policemen in uniform.",
+   "No, you must only obey the instructions of policemen and municipal inspectors."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1213,
+  "category": "traffic-laws",
+  "question": "What is a bus driver obliged to do once he reaches his final destination?",
+  "answers": [
+   "Once the destination stop is announced he is permitted to leave the bus immediately, .without waiting.",
+   "He should stay on the bus until the last passenger comes off.",
+   "He may leave the bus, provided that he leaves the air-conditioning on.",
+   "He should leave the bus straight after shutting off the engine."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1214,
+  "category": "traffic-laws",
+  "question": "Where should a panoramic mirror  be installed in a bus?",
+  "answers": [
+   "In the back of the bus, so that the driver can see all the passengers.",
+   "In the front of the bus, so that the driver can see all the passengers.",
+   "In the center of the bus, so that the driver can see all the passengers.",
+   "There is no need for a panoramic mirror, as the bus already has enough mirrors."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1215,
+  "category": "traffic-laws",
+  "question": "Are explosives or any other inflammables allowed to be transported in a bus?",
+  "answers": [
+   "These elements can be consciously entered into the bus, provided that they comply with a safety standard.",
+   "Only gasoline containers that comply with a safety standard are permitted inside the bus.",
+   "Yes, but only at the expense of the people sitting in the back seats of the bus.",
+   "No."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1216,
+  "category": "traffic-laws",
+  "question": "A “school-children transport vehicle” is:",
+  "answers": [
+   "Any public bus or public vehicle on a route service.",
+   "Any bus listed in a transportation company.",
+   "A private bus or a public vehicle used for transporting school children.",
+   "Any vehicle transporting school children."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1217,
+  "category": "traffic-laws",
+  "question": "To whom should you hand lost-and-found objects found in public vehicles?",
+  "answers": [
+   "Nobody. You should locate the owner and return the lost object to him.",
+   "To the dispatcher at the taxi station of the same route service.",
+   "To the police, or according to any pre-determined arrangements with the owner of the route service.",
+   "To the dispatcher at the bus station of the same route service."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1218,
+  "category": "traffic-laws",
+  "question": "Is it permitted to let off passengers on a freeway?",
+  "answers": [
+   "Yes.",
+   "Yes, but only during lighting up time.",
+   "Yes, but only on the \"hard shoulders\" and during day time.",
+   "No."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1219,
+  "category": "signs",
+  "question": "What is the meaning of this traffic sign?",
+  "answers": [
+   "Temporary narrow passage ahead.",
+   "Tunnel ahead.",
+   "You may drive faster, because you reached the end of the tunnel.",
+   "Beware, big tunnel ahead."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1220,
+  "category": "traffic-laws",
+  "question": "“Student transport” in a bus is:",
+  "answers": [
+   "Any transportation of children on a bus, including on a route service.",
+   "Student transport to school or to a school's organized activity, other than on a route service.",
+   "Any transportation of children or the transportation of students.",
+   "The transportation of children under 16 yrs."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1221,
+  "category": "traffic-laws",
+  "question": "Where are wastebaskets required to be installed in a taxi?",
+  "answers": [
+   "On both sides of the back seats.",
+   "Besides the driver’s seat and besides the back seat.",
+   "Besides all taxi windows.",
+   "Besides the left doors."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1222,
+  "category": "traffic-laws",
+  "question": "When should the taxi roof-sign give an “Available” signal?",
+  "answers": [
+   "Only during the winter and when there are passengers in the taxi.",
+   "Only during the day and when there are passengers in the taxi.",
+   "Only on holidays",
+   "Whenever there are no passengers in the taxi."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1223,
+  "category": "traffic-laws",
+  "question": "Who is responsible for displaying information and fare lists in a taxi?",
+  "answers": [
+   "The dispatcher and the driver.",
+   "The owner should display the route map, briefing and fare, as instructed by the Licensing Authority.",
+   "The driver should display the route map, briefing and fare, as instructed by the Licensing Authority.",
+   "The owner and the driver are responsible to display the route map, and fare, as instructed by the Controller of Road Transport."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1224,
+  "category": "traffic-laws",
+  "question": "Where is a route service bus driver supposed to stop?",
+  "answers": [
+   "In any place requested by one of the passengers.",
+   "In any place which is close to the passenger's requested destination, but only on the \"hard shoulder\".",
+   "In the stations that were approved by the Controller of Road Transport within the route service license.",
+   "In every station along the road, provided that it is a station of the route service provider."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1225,
+  "category": "traffic-laws",
+  "question": "The license of a private minibus states that the minibus may carry 16passengers apart from the driver. What is the maximum amount of passengers a \"B\" license may  carry?",
+  "answers": [
+   "12 passengers, excluding the driver.",
+   "14 passengers, excluding the driver.",
+   "16 passengers, including the driver.",
+   "Eight passengers, excluding the driver."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1226,
+  "category": "traffic-laws",
+  "question": "Who is authorized to repair or set a taxi meter?",
+  "answers": [
+   "A person authorized by the Authority as a certified service provider.",
+   "Only the manufacturer of the meter is authorized to repair it.",
+   "A certified electrician.",
+   "Only the vehicle’s manufacturer."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1227,
+  "category": "traffic-laws",
+  "question": "On an urban road, where is a taxi driver permitted to stop in order to board and drop passengers?",
+  "answers": [
+   "In any place where parking is permitted, and at the side of red-white curbstones, provided that the taxi is not disturbing traffic.",
+   "Only in places designated and marked for that purpose.",
+   "Anywhere, including bus stops.",
+   "At every taxi station only, along an urban road."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1228,
+  "category": "traffic-laws",
+  "question": "Is any taxi driver permitted to make sightseeing / touring rides?",
+  "answers": [
+   "Yes, provided that he is listed in a travel agency.",
+   "Yes, any driver that is listed in a recognized taxi station may do so.",
+   "Yes, provided that he has a permit from the Ministry of Tourism.",
+   "Yes, every taxi driver is permitted to do so."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1229,
+  "category": "traffic-laws",
+  "question": "Which seats are reserved for security personnel on a route service bus?",
+  "answers": [
+   "When driving on a non urban road - the two front seats on either side of the passageway.",
+   "The double seat behind the driver partition.",
+   "The seat after the front door and the seat after the rear door.",
+   "In a city bus, across from the rear door."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1230,
+  "category": "traffic-laws",
+  "question": "What is the maximum permitted length of a dual axle bus?",
+  "answers": [
+   "There is no length restriction, but the length of its rear extension should not exceed 3.5 meters.",
+   "13 meters; and for an articulated bus – 18 meters.",
+   "15.5 meters; and for an articulated bus – 18.75 meters.",
+   "13.5 meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1231,
+  "category": "traffic-laws",
+  "question": "What rule applies to the transportation of packages on a bus?",
+  "answers": [
+   "It is permitted to transport freight which is relevant to the passenger’s livelihood.",
+   "It is permitted to transport packages when they are not disturbing or harmful to the passengers.",
+   "It is permitted to transport packages when it is determined by the license holder to use half the space of the bus for freight transportation.",
+   "It is permitted to transport packages with hazardous materials, provided that they are well packed and placed in the luggage compartment of the bus."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1232,
+  "category": "traffic-laws",
+  "question": "As far as the law prohibiting smoking in public places is concerned, is a bus considered to be a public place?",
+  "answers": [
+   "No.",
+   "Yes, but only when carrying more than 10 passengers.",
+   "Yes.",
+   "Only when carrying more than 15 passengers."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1233,
+  "category": "traffic-laws",
+  "question": "In what types of buses is it obligatory to have a speed retarder?",
+  "answers": [
+   "Every bus in which a techograph was installed.",
+   "Buses with a minimum all up weight of 10,000 kg.",
+   "Every bus in which a retarder was installed during its manufacturing process.",
+   "Every bus that is permitted to carry more than 20 passengers."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1234,
+  "category": "traffic-laws",
+  "question": "What is a taxi cab roof-sign?",
+  "answers": [
+   "A box in which the taxi meter is placed, and which must be lighted while the taxi is driving.",
+   "A device that registers the details of the bus ride on a disc.",
+   "A box used for storing a first aid bag.",
+   "A device installed on the roof of a taxi cab, which can be lighted, and is used for identification purposes."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1235,
+  "category": "traffic-laws",
+  "question": "Is a bus driver permitted to drive with one of its doors open?",
+  "answers": [
+   "It is only permitted when the air-conditioning system malfunctions.",
+   "It is only permitted when there are no passengers on the bus.",
+   "It is only permitted when approaching a level crossing.",
+   "Driving with an open door is forbidden."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1236,
+  "category": "traffic-laws",
+  "question": "Are you obliged to vacate your bus seat for a handicapped person, when bus seats have been marked and reserved in advance?",
+  "answers": [
+   "Yes, a handicapped person’s spot on a bus is always assured.",
+   "Yes.",
+   "No.",
+   "Yes - on special rides only."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1237,
+  "category": "signs",
+  "question": "What is the meaning of this sign?",
+  "answers": [
+   "Steep downhill slope about 2,500 meters ahead.",
+   "In 2,500 meters a steep uphill climb begins.",
+   "Steep downhill slope for 2,500 meters begins here.",
+   "The end of a 2,500-meters downhill slope section."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1238,
+  "category": "traffic-laws",
+  "question": "Define “bus”:",
+  "answers": [
+   "A motor vehicle designed to transport passengers on hire on route service lines that are indicated within its registration document only.",
+   "A motor vehicle designed to transport eight passengers besides the driver, and has valid registration documents.",
+   "A motor vehicle designed to transport at least eight passengers apart from the driver, and is indicated as a bus within its registration document.",
+   "Any vehicle permitted to transport more than ten school children."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1239,
+  "category": "traffic-laws",
+  "question": "Is a taxi driver permitted to smoke while driving?",
+  "answers": [
+   "No.",
+   "Yes, provided that the air-conditioner is turned off and the windows are open.",
+   "Yes, but only if all passengers consent.",
+   "Yes - on special rides only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1240,
+  "category": "traffic-laws",
+  "question": "How will a bus driver conduct himself when passengers start fighting?",
+  "answers": [
+   "Drive the bus to the nearest police station or turn to a policeman along the way.",
+   "Stop the bus and clear away from it.",
+   "Ignore it and continue driving.",
+   "Drive back to the station of origin."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1241,
+  "category": "traffic-laws",
+  "question": "Which of the following vehicles must carry a rescue kit?",
+  "answers": [
+   "Busses on touring rides only.",
+   "Touring vehicles and busses on inter-urban route service lines only",
+   "Taxis and desert vehicles only.",
+   "Every touring vehicle and every bus must carry a rescue kit."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1242,
+  "category": "traffic-laws",
+  "question": "How long after a change is made in the size of certain parts in the drive system, should the taxi meter be calibrated?",
+  "answers": [
+   "Within forty eight hours.",
+   "Twenty four hours only.",
+   "Not more than half a year before the date of the periodic adjustment of the meter.",
+   "One week from the date in which the repair was finished."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1243,
+  "category": "traffic-laws",
+  "question": "What type of vehicle is obliged to have its inside lights turned-on during “light time”?",
+  "answers": [
+   "Taxis.",
+   "None: Inside lights in vehicles should not be turned-on. The light reflects in the front windshield and disturbs the driver.",
+   "Any commercial vehicle transporting passengers for hire.",
+   "Buses."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1244,
+  "category": "traffic-laws",
+  "question": "Is a bus driver permitted to smoke while driving?",
+  "answers": [
+   "No, except on touring rides only.",
+   "No, except on a touring ride, when the passengers are foreign citizens and with their consent.",
+   "No.",
+   "Yes. The driver is separated from the rest of the passengers and therefore is permitted to smoke any time."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1245,
+  "category": "traffic-laws",
+  "question": "What is the penalty of a passenger who was requested by the conductor to show his bus tickets but failed to do so?",
+  "answers": [
+   "The conductor may order him to leave the bus.",
+   "He should pay the bus fare and a fine, according to the type of bus ride.",
+   "The passenger did not commit any offense. The driver is the one that violated the law, because he didn’t charge the bus fare from the passenger.",
+   "He should pay double fare."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1246,
+  "category": "traffic-laws",
+  "question": "When are the driver and conductor allowed to refuse a passenger from getting onto the bus?",
+  "answers": [
+   "When the passenger wears a skiing or skating boots on his feet.",
+   "When he wants to ride the bus for only one stop.",
+   "When the passenger has a 100 Nis note and the bus fare is only 12 Nis.",
+   "When he wants to carry a dog or another animal on the bus."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1247,
+  "category": "traffic-laws",
+  "question": "Are special taxis permitted to perform share-taxi rides?",
+  "answers": [
+   "Absolutely not.",
+   "Yes, through a corporation that has a license for that service route and under written approval from that corporation.",
+   "Yes, if the taxi ride’s destination is far from its station, in order to prevent an idle ride.",
+   "All taxis are permitted to perform share-taxi rides."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1248,
+  "category": "traffic-laws",
+  "question": "What does the law state about carrying wheelchairs on taxis?",
+  "answers": [
+   "It is permitted, but the price for carrying a wheelchair is half the fare of a regular ride.",
+   "No fee is to be charged for carrying the wheelchair. However, a taxi driver is permitted to refuse carrying more than one wheelchair.",
+   "The Controller of Road Transport determines the price and terms for carrying wheelchairs.",
+   "The service station determines the terms and price for carrying wheelchairs."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1249,
+  "category": "traffic-laws",
+  "question": "What are the terms for operating a taxi at the “Ben-Gurion” airport?",
+  "answers": [
+   "The taxi will only operate in coordination with the passenger in need of a ride, including relevant arrival and departure times.",
+   "Every taxi driver is permitted to transport passengers from the Ben-Gurion airport.",
+   "No permit is required for transporting passengers from the Ben-Gurion airport. Picking up time should be accurately coordinated in advance with passengers.",
+   "Only a taxi having a permit from the Licensing Authority can operate in the Ben-Gurion Airport, and only in accordance with the permit’s terms, including taxi stopping and parking."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1250,
+  "category": "traffic-laws",
+  "question": "Is the Authority permitted to suspend a taxi license?",
+  "answers": [
+   "No. The Authority is not permitted to suspend any license.",
+   "Yes, if the license holder does not attend after being summoned by the Authority.",
+   "No, only a court of law is permitted to suspend a taxi license.",
+   "Yes. The Authority is permitted to do so, but only by force of a court order."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1251,
+  "category": "traffic-laws",
+  "question": "Under what condition would a bus driver permit a passenger to carry luggage on the bus?",
+  "answers": [
+   "That it is one unit, not longer than 3 meters.",
+   "That the freight is packed in a safety wrapping.",
+   "That the freight is related to the passenger’s livelihood.",
+   "That it doesn’t disturb or harm the passengers."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1252,
+  "category": "traffic-laws",
+  "question": "Do the regulation  applying to bus passengers apply also to taxi passengers?",
+  "answers": [
+   "Yes, but only during share-taxi rides.",
+   "Yes.",
+   "No.",
+   "Yes, but only during non-urban rides."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1253,
+  "category": "traffic-laws",
+  "question": "Who determines the taxi fare?",
+  "answers": [
+   "The Controller of road transport – in a special order.",
+   "The Director of the Licensing Authority.",
+   "The National Taxi Association.",
+   "The Minister of Transport – within the Control of Prices of Commodities and Services ."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1254,
+  "category": "traffic-laws",
+  "question": "Who determines the fare of a special taxi ride?",
+  "answers": [
+   "The Minister of Transport.",
+   "The Minister of Finance – in a special order.",
+   "The Minister of Industry, Trade and Labor.",
+   "The National Taxi Association."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1255,
+  "category": "traffic-laws",
+  "question": "What is the additional charge applied on share taxi rides from 23:31 until 04:59?",
+  "answers": [
+   "50 percent.",
+   "25 percent.",
+   "18 percent.",
+   "12.5 percent."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1256,
+  "category": "traffic-laws",
+  "question": "Which body authorizes and performs taxi license change of ownership?",
+  "answers": [
+   "The Licensing Authority.",
+   "The Controller of Road Transport.",
+   "The Public Transportation and Railway Authority.",
+   "There is no need for a license-conveyance permit, as it contradicts the freedom of occupation choice."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1257,
+  "category": "signs",
+  "question": "Is a taxi permitted to stop and load or unload passengers within the limits of the following traffic sign?",
+  "answers": [
+   "Yes, but on an urban road only, and provided that no traffic disturbance is caused.",
+   "No.",
+   "No, except during the night.",
+   "Yes, when a “bus station” sign is placed."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1258,
+  "category": "signs",
+  "question": "Is a bus used for driving instruction purposes permitted to enter where the following road sign is placed?",
+  "answers": [
+   "No, except if it belongs to a bus company that won permission.",
+   "Yes.",
+   "No.",
+   "Yes, except for vehicles with an all up weight that exceeds 10,000 kg."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1259,
+  "category": "signs",
+  "question": "Is a bus without passengers permitted to enter a road on which the following road sign is placed?",
+  "answers": [
+   "Yes, because all vehicles are permitted to drive on that road.",
+   "Yes, according to the provisions of the sign.",
+   "No, because it doesn’t carry the number of passengers required by the sign.",
+   "No, because a bus without passengers does not serve as a bus."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1260,
+  "category": "signs",
+  "question": "Is a taxi without passengers permitted to enter a road on which the following road sign is placed?",
+  "answers": [
+   "No, because it doesn’t carry the number of passengers required by the sign.",
+   "Yes, on an urban road providing no obstruction iis caused.",
+   "No, because a taxi without passengers does not serve as a taxi.",
+   "Yes, because all vehicles are permitted to drive on that road."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1261,
+  "category": "signs",
+  "question": "Is a minibus permitted to enter a road on which the following road sign is placed?",
+  "answers": [
+   "Yes, under its definition as a bus and according to the provisions of the sign.",
+   "Yes, because all vehicles are permitted to drive on that road.",
+   "No, because it doesn’t carry the number of passengers required by the sign.",
+   "No, because a minibus without passengers does not serve as a bus."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1262,
+  "category": "signs",
+  "question": "What does the following road sign signify?",
+  "answers": [
+   "A place in which taxi-passenger loading and unloading is prohibited.",
+   "A place in which taxi-passenger loading and unloading is permitted, without waiting.",
+   "A place in which the loading and unloading of public vehicle passengers is permitted, without waiting.",
+   "A place for loading and unloading, as well as for waiting, for taxi passengers."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1263,
+  "category": "signs",
+  "question": "Is it permitted for a vehicle other than a taxi to load passengers within the limits of the following road sign?",
+  "answers": [
+   "No. The sign marks a place in which only taxi-passenger loading and unloading is permitted.",
+   "Yes. The sign marks a place in which passenger loading and unloading is permitted for taxis and rouse service buses.",
+   "Yes. The sign marks a place in which only taxis are permitted to unload passengers.",
+   "No. The sign marks a place in which all other vehicles are permitted to load and unload passengers."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1264,
+  "category": "signs",
+  "question": "Is a taxi permitted to park within the limits of the following road sign?",
+  "answers": [
+   "Yes.",
+   "Yes, but only on weekdays from 21:00 until 05:30.",
+   "No.",
+   "Yes, but only on weekends."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1265,
+  "category": "signs",
+  "question": "Is a minibus permitted to park within the limits of the following road sign?",
+  "answers": [
+   "No.",
+   "Yes.",
+   "Yes, but only on weekdays from 21:00 until 05:30.",
+   "Yes, but only on weekends."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1266,
+  "category": "signs",
+  "question": "Is a public minibus weighing 3300kilos all up weight permitted to park within the limits of the following road sign?",
+  "answers": [
+   "Yes, but only on weekdays from 21:00 until 05:30.",
+   "No.",
+   "Only on weekends.",
+   "Yes."
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1267,
+  "category": "signs",
+  "question": "Is a private minibus weighing 2700kiols  permitted to park within the limits of the following road sign?",
+  "answers": [
+   "Only on weekends.",
+   "Yes, but only on weekdays from 21:00 until 05:30.",
+   "No.",
+   "Yes."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1268,
+  "category": "signs",
+  "question": "Is a bus weighing 4500kilos permitted to park within the limits of the following road sign?",
+  "answers": [
+   "Yes.",
+   "Yes, but only on weekdays from 21:00 until 05:30.",
+   "No.",
+   "Yes, but only on weekends."
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1269,
+  "category": "signs",
+  "question": "Is a taxi without passengers permitted to use a designated bus lane?",
+  "answers": [
+   "No.",
+   "Yes, but only on Saturdays and holidays.",
+   "Yes, on an urban road, provided that no traffic disturbance is caused.",
+   "Yes."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 1270,
+  "category": "signs",
+  "question": "Is a public minibus without passengers permitted to use a designated bus lane?",
+  "answers": [
+   "Yes.",
+   "Yes, but only on Saturdays and holidays.",
+   "No.",
+   "Dotted lines mark the approach of a separation line. The driver should move to the left lane before the beginning of the separation line."
+  ],
+  "correct": 0,
+  "hasImage": true
+ },
+ {
+  "id": 1271,
+  "category": "signs",
+  "question": "Is a taxi with passengers permitted to use a designated bus lane?",
+  "answers": [
+   "Dotted lines mark the approach of a separation line. The driver should move to the right lane before the beginning of the separation line.",
+   "Yes, but only during traffic rush hour, from 06:00 until 09:00.",
+   "No.",
+   "Yes."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 1272,
+  "category": "signs",
+  "question": "Is a private minibus without passengers permitted to use a designated bus lane?",
+  "answers": [
+   "Dotted lines mark the approach of a separation line. The driver should move to the right lane before the beginning of the separation line.",
+   "Yes, but only on Saturdays and holidays.",
+   "No.",
+   "Yes."
+  ],
+  "correct": 3,
+  "hasImage": true
+ },
+ {
+  "id": 1273,
+  "category": "traffic-laws",
+  "question": "According to the law, what measures should a bus driver lawfully take before entering the bus?",
+  "answers": [
+   "Cleaning the mirrors and the rear windshield.",
+   "Cleaning the mirrors and the front and back windshields.",
+   "Checking if there are road users nearby only.",
+   "Performing a security check and a safety check."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1274,
+  "category": "safety",
+  "question": "What is a bus driver required to check before moving the bus?",
+  "answers": [
+   "Whether there are road users in his blind spots.",
+   "The steering system’s oil level.",
+   "The passenger belongings with a metal detector.",
+   "Whether he has adequate bus tickets."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1275,
+  "category": "traffic-laws",
+  "question": "What should a bus driver check after the passengers boarded the bus and before starting to drive?",
+  "answers": [
+   "That all the passengers paid the fare in full.",
+   "That all the passengers are seated.",
+   "That the fare is paid in full during the ride.",
+   "That the bus doors are closed."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1276,
+  "category": "signs",
+  "question": "What sign does not forbid parking a vehicle that weighs over 10,000kg at night?",
+  "answers": [
+   "433",
+   "436",
+   "432",
+   "435"
+  ],
+  "correct": 1,
+  "hasImage": true
+ },
+ {
+  "id": 1277,
+  "category": "safety",
+  "question": "What risks are expected when the bus driver makes a sudden brake?",
+  "answers": [
+   "Being hit by a parked vehicle.",
+   "Injuring the bus passengers.",
+   "Over heating of the brakes.",
+   "Skidding and rolling over while driving uphill."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1278,
+  "category": "signs",
+  "question": "What sign warns drivers about an approaching tunnel?",
+  "answers": [
+   "633",
+   "127p.",
+   "138",
+   "634"
+  ],
+  "correct": 2,
+  "hasImage": true
+ },
+ {
+  "id": 1279,
+  "category": "traffic-laws",
+  "question": "According to the law, the semi trailer (which is part of a \"articulated vehicle\"):",
+  "answers": [
+   "Must have two strips on its rear side.",
+   "Must have stickers and strips on its rear side.",
+   "Must have two reflecting strips on which \"Keep Distance\" is written,",
+   "Must have warning stickers on its rear side,"
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1280,
+  "category": "traffic-laws",
+  "question": "Picking up or dropping off pupils on student transport is permitted:.",
+  "answers": [
+   "From the rear door only.",
+   "From the front right door only.",
+   "From the front door and from the rear door.",
+   "Picking up - from the front door. Dropping off – from the rear door."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1281,
+  "category": "traffic-laws",
+  "question": "In a student transport minibus, student boarding and dropping is performed:",
+  "answers": [
+   "From the front right door or from another door at the vehicle’s front.",
+   "From the rear door only.",
+   "From any door.",
+   "When there are 2 doors at the vehicle’s front – from the front right door only."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1282,
+  "category": "traffic-laws",
+  "question": "In a student transport vehicle, it is prohibited to drive students:",
+  "answers": [
+   "While they are standing.",
+   "While sitting.",
+   "Without an accompanying guide.",
+   "Unless they are all sitting and facing the driver."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1283,
+  "category": "traffic-laws",
+  "question": "A warning triangle must be carried by:",
+  "answers": [
+   "Commercial vehicles only.",
+   "All motor vehicles, including trailers and semi-trailers, but excluding motorcycles.",
+   "Buses only.",
+   "Two-wheelers only."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1284,
+  "category": "traffic-laws",
+  "question": "When driving near a group of children, the driver is required to:",
+  "answers": [
+   "Slow down and, if needed, stop the vehicle.",
+   "Make a complete stop for as long as the children are close to the roadway.",
+   "Continue driving in normal speed, provided that he uses the horn to warn them.",
+   "Continue driving in normal speed, if the group of children is accompanied by a teacher or a guide."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1285,
+  "category": "traffic-laws",
+  "question": "Which type of \"city policing\" vehicle is permitted to emit a blue light with a flashing yellow light?",
+  "answers": [
+   "Rescue vehicles.",
+   "Ambulances.",
+   "Integrated policing vehicles.",
+   "Fire fighting vehicles."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1286,
+  "category": "traffic-laws",
+  "question": "Where in a vehicle should a fire extinguisher be placed?",
+  "answers": [
+   "Next to the battery, in a closed and locked place.",
+   "On the vehicle’s roof, having easy access, to enable quick operation",
+   "In a visible place with easy access to enable quick operation.",
+   "Next to the fuel tank, in a closed and locked place."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1287,
+  "category": "vehicle",
+  "question": "How would you ensure economic fuel consumption?",
+  "answers": [
+   "By shifting to the appropriate gear and maintaining a moderate driving speed of up to 90 k.p.h.",
+   "By driving in low gear and maintaining a driving speed of more than 120 k.p.h, without any aggressive accelerations or decelerations.",
+   "By shifting as much as possible to neutral gear while driving downhill.",
+   "By driving in low gear and maintaining a driving speed of more than 90 k.p.h."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1288,
+  "category": "vehicle",
+  "question": "You may reduce your vehicle’s fuel consumption by:",
+  "answers": [
+   "Driving calmly within the speed limit and making sure that the tire pressure is correct.",
+   "Driving calmly within speed limit, using the lowest gear.",
+   "Driving as slow as possible and reducing the vehicle’s excess weight.",
+   "Driving as fast as possible and reducing the vehicle’s excess weight."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1289,
+  "category": "vehicle",
+  "question": "Regular vehicle maintenance, in accordance with the manufacturer’s manual, will:",
+  "answers": [
+   "Annuls the need for an annual test.",
+   "Reduce fuel consumption as well as wear and tear of vehicle parts.",
+   "Is only required if the vehicle is frequently used.",
+   "In a new model vehicle, maintenance is not required at all."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1290,
+  "category": "vehicle",
+  "question": "One of the differences between manual and automatic transmission vehicles is that:",
+  "answers": [
+   "Fuel consumption is usually lower for manual transmission vehicles.",
+   "Manual transmission vehicles are noisier.",
+   "Acceleration capacity is lower for manual transmission vehicles.",
+   "Manual transmission vehicles have no clutch pedal."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1291,
+  "category": "safety",
+  "question": "The ability to control the vehicle in order to prevent accidents:",
+  "answers": [
+   "Improves the faster you drive.",
+   "Is higher the slower you drive.",
+   "Depends on the size of the tires.",
+   "Is not dependent on speed at all."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1292,
+  "category": "safety",
+  "question": "What should a driver do when he approaches a road section on which oil was spilled?",
+  "answers": [
+   "Drive faster and avoid stepping on the brake pedal.",
+   "Slow down as moderately as possible, and avoid heavy l braking.",
+   "Move the wheel left and right intermittently while driving on the oil.",
+   "Continue driving normally, because the oil helps to increase tire-road friction."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1293,
+  "category": "safety",
+  "question": "What should a driver do when the road has bumps and cracks?",
+  "answers": [
+   "Slow down and adjust his drving speed to the road’s conditions.",
+   "Drive faster and on the “hard shoulder”",
+   "Continue driving normally.",
+   "Drive as much as possible in the middle of the road."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1294,
+  "category": "traffic-laws",
+  "question": "A policeman may stop a vehicle and have it checked:",
+  "answers": [
+   "After the vehicle involuntarily swerved from its lane.",
+   "Due to the level of pollution emitted from the vehicle’s engine.",
+   "If he wants to esure that the vehicle’s oil consumption corresponds to the vehicle manufacturer’s manual.",
+   "If he wants to ensure that the vehicle’s fuel consumption corresponds to the vehicle manufacturer’s manual."
+  ],
+  "correct": 1,
+  "hasImage": false
+ },
+ {
+  "id": 1295,
+  "category": "traffic-laws",
+  "question": "A policeman is permitted to issue a “vehicle non-use notice” (taking a vehicle off the road) when:",
+  "answers": [
+   "The vehicle’s fuel consumption exceeds the level that was determined by the vehicle’s manufacturer.",
+   "The vehicle’s oil consumption is excessive.",
+   "The vehicle’s tire air pressure is less than half of the required level.",
+   "The vehicle causes air pollution beyond permitted levels."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1296,
+  "category": "safety",
+  "question": "Under which conditions is it advised to turn on the lights during the day?",
+  "answers": [
+   "When the sun is behind the driver.",
+   "When the sun is in front of the driver.",
+   "When the sun is to the left of the direction of driving.",
+   "When the sun is to the right of the direction of driving."
+  ],
+  "correct": 0,
+  "hasImage": false
+ },
+ {
+  "id": 1297,
+  "category": "traffic-laws",
+  "question": "How should a driver conduct himself when another vehicle suddenly emerges in his driving lane from the opposite direction, heading towards him?",
+  "answers": [
+   "Swerve to the left and drive on the opposite lane, which is currently free.",
+   "Honk and signal the other driver to get back to his lane.",
+   "Slow down, pull as far right as possible and even pull onto the “hard shoulder” if necessary.",
+   "Turn on his high beam and signal the other driver to get back to his lane."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1298,
+  "category": "safety",
+  "question": "Non adjusted headlights:",
+  "answers": [
+   "Do not affect driving in the dark.",
+   "Cause self-blinding when driving in the dark.",
+   "Do not iluminate the road as required by law.",
+   "Increase the driver’s alertness – especially during the night."
+  ],
+  "correct": 2,
+  "hasImage": false
+ },
+ {
+  "id": 1299,
+  "category": "traffic-laws",
+  "question": "What is the general excessive freight width permitted in a commercial vehicle with an all up weight of more than 15,000kg?",
+  "answers": [
+   "Up to 2.60 meters, when the freight is in one unit.",
+   "Up to 2.10 meters, when the freight is in one unit.",
+   "Up to 2.50 meters, when the freight is in one unit.",
+   "Up to 3.40 meters, when the freight is in one unit."
+  ],
+  "correct": 3,
+  "hasImage": false
+ },
+ {
+  "id": 1300,
+  "category": "traffic-laws",
+  "question": "When is it obligatory to hold a police authorization for transporting a long freight?",
+  "answers": [
+   "When the length of the freight exceeds 15 meters.",
+   "Holding an authorization of a police officer is not obligatory for this type of transport.",
+   "An authorization is only obligatory in the transportation of hazardous materials.",
+   "When the length of the vehicle plus the freight it carries exceeds 20 meters."
+  ],
+  "correct": 3,
+  "hasImage": false
+ }
+]
