@@ -25,3 +25,4 @@ dist-ssr
 
 # Miscellaneous
 .history
+.claude/settings.local.json
