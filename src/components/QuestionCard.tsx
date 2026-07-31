@@ -5,12 +5,13 @@ export function QuestionCard({
 }: {
   index: number
   eq: ExamQuestion
-  q: Question
+  q: Question | undefined
   pick: number | undefined
   locked: boolean
   onPick: (canonicalIndex: number) => void
   onCheck: () => void
 }) {
+  if (!q) return null
   return (
     <div className="rounded-xl bg-white p-7 shadow dark:bg-slate-900">
       <h2 className="text-[1.35rem] leading-snug font-semibold">

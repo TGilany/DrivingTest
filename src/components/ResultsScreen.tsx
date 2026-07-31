@@ -22,7 +22,7 @@ export function ResultsScreen({
       >
         <h1 className="text-3xl font-bold">{passed ? 'PASSED ✓' : 'FAILED ✗'}</h1>
         <p className="mt-2">
-          {mistakes} mistake{mistakes === 1 ? '' : 's'} out of 20 (up to {PASS_MAX_MISTAKES} allowed)
+          {mistakes} mistake{mistakes === 1 ? '' : 's'} out of {state.questions.length} (up to {PASS_MAX_MISTAKES} allowed)
         </p>
       </div>
       <div className="mb-5 flex justify-center gap-2.5">

@@ -1,11 +1,11 @@
-import bankJson from '../data/questions.json'
+import bankJson from '../data/booklet-questions.json'
 import { summarizeProgress } from '../lib/progress'
-import type { ExamResult, Question } from '../types'
+import { BOOKLET_CATEGORY_LABELS, type ExamResult, type Question } from '../types'
 
 const bank = bankJson as Question[]
 
 function formatCategory(category: Question['category']): string {
-	return category.replace('-', ' ')
+	return BOOKLET_CATEGORY_LABELS[category] ?? category.replace('-', ' ')
 }
 
 export function HomeScreen({
@@ -22,7 +22,7 @@ export function HomeScreen({
 			<h1 className="text-3xl font-bold">Driving Refresher Exam</h1>
 			<p className="my-3 text-slate-500 dark:text-slate-400">
 				English practice exam for the Israeli driving refresher course (השתלמות רענון בנהיגה).
-				20 questions · 30 minutes · pass with up to 4 mistakes.
+				10 questions · 15 minutes · pass with up to 4 mistakes.
 			</p>
 
 			<div className="mt-6 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
@@ -91,7 +91,7 @@ export function HomeScreen({
 									onClick={() => r.questions && onReview(r)}
 								>
 									<td className="border-b border-slate-200 p-2 dark:border-slate-800">{new Date(r.date).toLocaleString()}</td>
-									<td className="border-b border-slate-200 p-2 dark:border-slate-800">{r.mistakes}/20</td>
+									<td className="border-b border-slate-200 p-2 dark:border-slate-800">{r.mistakes}/{r.questions?.length ?? 10}</td>
 									<td className={`border-b border-slate-200 p-2 font-semibold dark:border-slate-800 ${r.passed ? 'text-green-700 dark:text-green-400' : 'text-red-600 dark:text-red-400'}`}>
 										{r.passed ? 'Pass' : 'Fail'}
 									</td>

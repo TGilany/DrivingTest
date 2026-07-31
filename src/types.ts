@@ -1,6 +1,15 @@
+export type QuestionCategory = 'traffic-laws' | 'signs' | 'safety' | 'vehicle'
+
+export const BOOKLET_CATEGORY_LABELS: Record<QuestionCategory, string> = {
+  'traffic-laws': 'Legal Basis & Traffic Statutes (Unit 1)',
+  'safety': 'Human Factor & Driving Safety (Units 2-4)',
+  'signs': 'Schedule of Road Signs (Unit 5)',
+  'vehicle': 'Driver & Modern Vehicle (Unit 6)',
+}
+
 export interface Question {
   id: number
-  category: 'traffic-laws' | 'signs' | 'safety' | 'vehicle'
+  category: QuestionCategory
   question: string
   answers: string[]
   correct: number

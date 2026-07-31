@@ -20,7 +20,18 @@ export function ExamScreen({
 }) {
 	const [current, setCurrent] = useState(0)
 	const eq = state.questions[current]
-	const q = byId.get(eq.id)!
+	const q = eq ? byId.get(eq.id) : undefined
+
+	if (!eq || !q) {
+		return (
+			<div className="p-6 text-center">
+				<p className="text-lg font-semibold text-red-600">Question could not be loaded.</p>
+				<button className="mt-4 rounded-lg bg-blue-600 px-6 py-2 text-white" onClick={onNewExam}>
+					Start new exam
+				</button>
+			</div>
+		)
+	}
 
 	const update = (next: ExamState) => {
 		if (isExpired(state.deadline, Date.now())) return
@@ -29,13 +40,14 @@ export function ExamScreen({
 	}
 
 	const answered = Object.keys(state.picks).length
+	const totalQuestions = state.questions.length
 
 	return (
 		<div>
 			<header className="flex flex-col gap-2 pr-0 sm:flex-row sm:items-center sm:justify-between sm:pr-14">
 				<TimerBar deadline={state.deadline} onExpire={onSubmit} />
 				<div className="flex items-center justify-between gap-2 sm:gap-3">
-					<span className="text-sm text-slate-500 dark:text-slate-400 sm:text-base">{answered}/20 answered</span>
+					<span className="text-sm text-slate-500 dark:text-slate-400 sm:text-base">{answered}/{totalQuestions} answered</span>
 					<button
 						className={GHOST_BTN}
 						onClick={() => confirm('Abandon this exam and start a new one?') && onNewExam()}
@@ -59,14 +71,14 @@ export function ExamScreen({
 					<button className={GHOST_BTN} disabled={current === 0} onClick={() => setCurrent(current - 1)}>
 						← Previous
 					</button>
-					<button className={GHOST_BTN} disabled={current === 19} onClick={() => setCurrent(current + 1)}>
+					<button className={GHOST_BTN} disabled={current === totalQuestions - 1} onClick={() => setCurrent(current + 1)}>
 						Next →
 					</button>
 				</div>
 				<button
 					className="rounded-lg bg-green-700 px-5 py-2.5 text-white hover:bg-green-600 sm:ml-auto"
 					onClick={() =>
-						(answered === 20 || confirm(`${20 - answered} questions unanswered — they count as mistakes. Finish anyway?`)) &&
+						(answered === totalQuestions || confirm(`${totalQuestions - answered} questions unanswered — they count as mistakes. Finish anyway?`)) &&
 						onSubmit()
 					}
 				>

@@ -17,7 +17,7 @@ function fakeBank(): Question[] {
 }
 
 describe('sampleExam', () => {
-  it('returns 20 unique questions with category proportions 10/4/4/2', () => {
+  it('returns 10 unique questions with category proportions 5/2/2/1', () => {
     const bank = fakeBank()
     const byId = new Map(bank.map((q) => [q.id, q]))
     const exam = sampleExam(bank, 42)
@@ -25,10 +25,10 @@ describe('sampleExam', () => {
     expect(new Set(exam.map((q) => q.id)).size).toBe(EXAM_SIZE)
     const counts: Record<string, number> = {}
     for (const eq of exam) {
-      const c = byId.get(eq.id)!.category
-      counts[c] = (counts[c] ?? 0) + 1
+      const q = byId.get(eq.id)!
+      counts[q.category] = (counts[q.category] ?? 0) + 1
     }
-    expect(counts).toEqual({ 'traffic-laws': 10, signs: 4, safety: 4, vehicle: 2 })
+    expect(counts).toEqual({ 'traffic-laws': 5, signs: 2, safety: 2, vehicle: 1 })
   })
 
   it('is deterministic per seed and varies across seeds', () => {
@@ -44,7 +44,7 @@ describe('sampleExam', () => {
 })
 
 describe('createExam', () => {
-  it('sets deadline 30 minutes from now', () => {
+  it('sets deadline 15 minutes from now', () => {
     const state = createExam(fakeBank(), 42, 1_000_000)
     expect(state.deadline).toBe(1_000_000 + EXAM_MS)
     expect(state.version).toBe(1)
@@ -67,7 +67,7 @@ describe('grade', () => {
     return { state, byId }
   }
 
-  it('passes with exactly 4 mistakes', () => {
+  it('passes with exactly 4 mistakes out of 10', () => {
     const { state, byId } = gradedState(4)
     const r = grade(state, byId)
     expect(r.mistakes).toBe(4)
@@ -119,7 +119,7 @@ describe('retry seeding', () => {
   it('sampleExam includes given retry ids, keeps proportions, no duplicates', () => {
     const bank = fakeBank()
     const byId = new Map(bank.map((q) => [q.id, q]))
-    const retryIds = [bank[0].id, bank[45].id] // one traffic-laws, one signs (fakeBank layout: 40 tl, 20 signs, 20 safety, 10 vehicle)
+    const retryIds = [bank[0].id, bank[45].id] // one traffic-laws, one signs
     const exam = sampleExam(bank, 42, retryIds)
     expect(exam).toHaveLength(EXAM_SIZE)
     expect(new Set(exam.map((q) => q.id)).size).toBe(EXAM_SIZE)
@@ -129,7 +129,7 @@ describe('retry seeding', () => {
       const c = byId.get(eq.id)!.category
       counts[c] = (counts[c] ?? 0) + 1
     }
-    expect(counts).toEqual({ 'traffic-laws': 10, signs: 4, safety: 4, vehicle: 2 })
+    expect(counts).toEqual({ 'traffic-laws': 5, signs: 2, safety: 2, vehicle: 1 })
   })
 
   it('sampleExam ignores retry ids missing from the bank', () => {
@@ -140,7 +140,7 @@ describe('retry seeding', () => {
 
   it('createExam seeds past mistakes from history (both of 2 known wrongs appear)', () => {
     const bank = fakeBank()
-    const wrong = [bank[50], bank[51]] // exactly 2 wrong ids -> both become retry seeds
+    const wrong = [bank[0], bank[40]] // one traffic-laws, one signs -> both become retry seeds
     const history = [{
       date: 1, mistakes: 2, passed: true,
       questions: wrong.map((q) => ({ id: q.id, order: [0, 1, 2, 3] })),

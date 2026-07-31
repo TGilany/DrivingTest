@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
-import bankJson from './data/questions.json'
+import { useEffect, useRef, useState } from 'react'
+import bankJson from './data/booklet-questions.json'
 import type { ExamResult, ExamState, Question } from './types'
 import { createExam, grade } from './lib/exam'
 import { loadState, saveState, clearState, loadHistory, addResult } from './lib/storage'
@@ -10,6 +10,7 @@ import { ResultsScreen } from './components/ResultsScreen'
 import { ThemeToggle } from './components/ThemeToggle'
 
 const bank = bankJson as Question[]
+const byId = new Map(bank.map((q) => [q.id, q]))
 
 type Screen =
   | { name: 'home' }
@@ -17,10 +18,14 @@ type Screen =
   | { name: 'results'; state: ExamState }
 
 export default function App() {
-  const byId = useMemo(() => new Map(bank.map((q) => [q.id, q])), [])
   const [screen, setScreen] = useState<Screen>(() => {
     const saved = loadState()
     if (!saved) return { name: 'home' }
+    // If any question in saved exam state is missing from current bank, clear state and go home
+    if (!saved.questions || saved.questions.length === 0 || !saved.questions.every((eq) => byId.has(eq.id))) {
+      clearState()
+      return { name: 'home' }
+    }
     return { name: 'exam', state: saved }
   })
 

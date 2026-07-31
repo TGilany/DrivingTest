@@ -1,14 +1,14 @@
 import type { Question, ExamQuestion, ExamState, GradedQuestion, ExamResult } from '../types'
 
-export const EXAM_MS = 30 * 60 * 1000
+export const EXAM_MS = 15 * 60 * 1000
 export const PASS_MAX_MISTAKES = 4
-export const EXAM_SIZE = 20
+export const EXAM_SIZE = 10
 
 export const CATEGORY_COUNTS: Record<Question['category'], number> = {
-  'traffic-laws': 10,
-  safety: 4,
-  signs: 4,
-  vehicle: 2,
+  'traffic-laws': 5,
+  safety: 2,
+  signs: 2,
+  vehicle: 1,
 }
 
 export function mulberry32(seed: number): () => number {
