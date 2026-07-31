@@ -2,6 +2,8 @@
 
 DrivingTest is a browser-based practice app for a driving refresher exam. It presents multiple-choice questions from a local driving question bank and tracks progress, timing, and final results.
 
+https://tgilany.github.io/DrivingTest/
+
 ## Resources
 
 - Question data is sourced from the local JSON file at `src/data/questions.json`.
